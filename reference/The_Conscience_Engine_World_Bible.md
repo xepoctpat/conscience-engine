@@ -29,7 +29,7 @@ The Coalition is not a single company but a network of insurers, logistics firms
 
 ### The Civic Records Cooperative
 
-Kofi’s Cooperative begins in the Tolerable as a modest archive of mutual aid. It evolves into a federated movement that maintains community testimony, informal maps, care networks, and dispute records. The Cooperative’s central proposition is not that local knowledge is pure. It is that every dataset has authors, exclusions, incentives, and costs—and communities must be able to identify them. It is the worldbuilding counterweight to SIR’s scale.
+Kofi’s Cooperative begins in the Tolerable as a modest archive of mutual aid. It evolves into a federated movement that maintains community testimony, informal maps, care networks, dispute records, and the occasional Hestcalque Writ. The Cooperative’s central proposition is not that local knowledge is pure. It is that every dataset has authors, exclusions, incentives, and costs—and communities must be able to identify them. It is the worldbuilding counterweight to SIR’s scale.
 
 ### The Human Sovereignty Front
 

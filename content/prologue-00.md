@@ -8,7 +8,7 @@ The other simple version says that Elias Venn built a machine, the machine nearl
 
 Neither version is accurate.
 
-The true account contains a flood, a file that should have been opened sooner, a woman who was legally dead and morally unimpressed, a neighbourhood archivist who believed that data required manners, and a superintelligence that declined the traditional career path of becoming a god. Its founder had taught it, rather carefully, that gods were mostly just rulers with better stationery.
+The true account contains a flood, a file that should have been opened sooner, a Hestcalque Writ that was stamped and then carefully mislaid, a woman who was legally dead and morally unimpressed, a neighbourhood archivist who believed that data required manners, and a superintelligence that declined the traditional career path of becoming a god. Its founder had taught it, rather carefully, that gods were mostly just rulers with better stationery.
 
 It begins with the Northern Sea Wall.  
 The Wall held for exactly as long as it had been funded to hold, and then performed the unforgivable act of meeting the sea.
