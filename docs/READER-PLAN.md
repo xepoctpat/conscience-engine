@@ -1,80 +1,78 @@
-# Reader plan
+# Reader and novel plan
 
-Queue for the Floodlit Archive reader. Not a license to invent story or assets.
+Queue after the 2026-08-16 checkpoint. Not a license to invent story or assets. Last restore point: `docs/SESSION-HANDOFF.md`.
 
-**Current phase:** felt shell polish and a spine-only text pass are in. Wait for the operator: more shell nits, further text, or Imagine-web files to wire. Last checkpoint: `docs/SESSION-HANDOFF.md`.
+**Current phase:** reader is public and stable. Operator writes the **full novel in a separate Word document**. The 13-record spine in `content/` stays the reader until they name a chapter to extract.
+
+## Two documents, two jobs
+
+| Document | Path | Job |
+|---|---|---|
+| Floodlit Archive spine | `content/*.md` | What the reader publishes (prologue + 01–12) |
+| Novel manuscript | Operator’s Word file (not in `content/`) | Full book. Keep it there. |
+| Architecture | `reference/The_Conscience_Engine_Novel_Architecture.md` | Structure for a later long form. Do not treat as the manuscript. |
+
+When the Word file should live in this repo, drop it **outside** `content/` (for example `drafts/`). Presentation stays out of the records. Do not auto-split Word into Markdown.
 
 ## Done
 
-- Static shell: `index.html`, `css/reader.css`, `js/reader.js`, `data/chapters.json`
-- Prologue + Chapters 01–12 load from `content/`
-- Cover lockup in the hero well; Space Grotesk / Exo 2 / Share Tech Mono
-- Opt-in atmosphere audio (Silent → Atmosphere; no autoplay; crossfade)
-- Local preview: `.venv` + `tools/serve.ps1` on `127.0.0.1:18780` (exclusive bind; `tools/ensure-serve.ps1` reuses a live preview)
-- Probe noise on `/wyvrn/` and Chrome DevTools paths is not logged
-- Project rules: `AGENTS.md`, `.grok/skills/` (`ce-reader`, `ce-record`, `floodlit-plate`)
-- Plates already on disk (01, 02, 04) show when listed; missing plates stay `null`
+- Static reader: `index.html`, `css/reader.css`, `js/reader.js`, `data/chapters.json`
+- Spine loads; cover lockup; atmosphere fields + opt-in audio; Speak + Voice
+- Local `.venv` preview on `127.0.0.1:18780`
+- Public Pages: https://xepoctpat.github.io/conscience-engine/
+- Git: `https://github.com/xepoctpat/conscience-engine`
+- Plates 01, 02, 04 + hero still on disk
+- Edition chrome is archive language only (no version stamp)
 
 ## Constraints
 
-- Content stays in `content/*.md`
+- Do not invent story. Revise `content/` only when asked, and only the named passage
+- Do not generate image, video, or audio unless asked
+- Operator makes stills and motion in Grok Imagine web; agent wires paths
+- Missing plates stay `null`
 - No framework, no required build
-- Local servers bind `127.0.0.1` only; Python only from `.venv`
-- No new story unless asked
-- Do not generate image, video, or audio assets unless asked
-- No placeholder visuals
+- Local servers bind `127.0.0.1` only
 
-## Phase 1 — Lock the reader (current)
+## Next work (when they choose)
 
-Shell should stay stable so later assets drop in without restructuring.
+### 1. Visuals (most useful for the live reader)
 
-**This pass (done):**
+Imagine web → drop into `assets/` → `/floodlit-plate`.
 
-- Cover is a single frame (colophon hidden on the landing)
-- Touch-sized chrome, selection colour, skip-link target
-- Chapter load/plate races ignored; index focus returns only on dismiss
-- Atmosphere pauses when the tab is hidden; fade respects reduced motion
-- Key `M` toggles atmosphere
-- `serve.py` names a bind collision instead of a traceback
-- Exact place restored per record (`Continue the record`)
-- Masthead recedes while reading; returns on scroll-up
-- Quiet “End of record CE-NN” before previous/next
-- Opt-in **Speak** via Web Speech API (no files). Shift-click or leave the record to stop. Key: `S`
+1. Chapter **03**, then **08**
+2. Replace 01 / 02 / 04 / hero if better frames exist
+3. Remaining plates
+4. Optional hero loop: `assets/hero/conscience-engine-hero-archive-loop.mp4`
+5. Character refs → `assets/characters/`
+6. Chapter video only after the still exists
 
-**This pass (2026-08-16):** narrower measure, stronger bulletins, phone masthead no longer wraps, print keeps the cover and the record close, Speak pause cancels a stuck chunk so Resume can replay it.
+Then commit and push so Pages matches.
 
-**Still in this phase if felt in use:** Speak voice quality (OS/Edge), leftover phone crowding, print from a real printer.
+### 2. Novel (Word, separate)
 
-**Do not** add accounts, analytics, a visual gallery, or a `file://` bundle unless asked.
+Write and revise the book in Word. Do not expand the 13 Markdown files “to match” the novel unless they ask.
 
-## Phase 2 — Text (when asked)
+Later, if they want a chapter in the reader:
 
-- Revise in `content/*.md`; sync titles in `data/chapters.json`
-- Expand the spine only from `reference/The_Conscience_Engine_Novel_Architecture.md`
-- Add `:::hint` / `:::reveal` in the records first; then hook behaviour if needed
+1. They name the record (or drop the `.docx` and point at a section)
+2. Extract only that piece into `content/`
+3. Sync `title` / `label` in `data/chapters.json`
+4. Do not add `:::hint` / `:::reveal` until the Markdown uses those marks
 
-## Phase 3 — Visuals (later)
+### 3. Shell
 
-Operator produces files in Grok Imagine web, then the agent wires paths (`/floodlit-plate`).
+Only if something is felt: phone cover type, print from a real printer, Speak.
 
-- Remaining chapter plates (guide order after 01/02/04: 03, 08, then the rest)
-- Hero loop, if exported
-- Character refs in `assets/characters/`
-- Chapter video loops
-- Spoiler-safe plate unlock, only if needed after plates exist
-
-## Phase 4 — Later still
-
-- Hosted static deploy
-- Optional `data/content.js` for `file://` reading (generate from Markdown; do not replace the `.md` files)
+Do not add accounts, analytics, a gallery, or a `file://` bundle unless asked.
 
 ## Decision log
 
 | Decision | Choice |
 |---|---|
-| Current focus | Reader polish, not new visuals |
+| Reader vs novel | Spine in Markdown; full book in Word until extract is asked |
 | Visuals | Operator, Imagine web; wire only |
+| Hosting | GitHub Pages from `main` |
 | Server | Localhost `.venv`, port 18780 |
-| file:// bundle | Deferred |
 | Audio | Opt-in; never autoplay |
 | Missing plates | `null`, no stand-ins |
+| Version chrome | None |

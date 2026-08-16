@@ -1,6 +1,6 @@
-# Session handoff — 2026-08-16
+# Session handoff — 2026-08-16 (checkpoint)
 
-Checkpoint after track A (felt shell + automated venv preview) and a spine-only track B. Next session should **read this file and `AGENTS.md` first**.
+The Floodlit Archive reader is the live product. The full novel stays in a **separate Word document** until the operator asks to extract records. Next session: read this file and `AGENTS.md` first. Do not import the Word draft into `content/` unasked.
 
 ## Resume
 
@@ -9,57 +9,60 @@ cd "C:\Users\xepoc\OneDrive\Grok\The Consicience Engine"
 pwsh -File tools\ensure-serve.ps1
 ```
 
-Open **http://127.0.0.1:18780/**  
+| Where | URL |
+|---|---|
+| Local | http://127.0.0.1:18780/ |
+| Public (Grok web) | https://xepoctpat.github.io/conscience-engine/ |
+
 Hard refresh (Ctrl+F5) after CSS/JS edits.
 
 - Python: only `.venv\Scripts\python.exe` (`tools/bootstrap.ps1` once if missing)
-- Bind: `127.0.0.1` only — never all interfaces (Windows Firewall popup)
-- Port **18780** on purpose: Razer Synapse/WYVRN probes `/wyvrn/Synapse` on 8080. Those 404s are not the reader. `tools/serve.py` does not log `/wyvrn/` or Chrome DevTools `/.well-known/appspecific/`
-- `tools/serve.ps1` reuses a live preview instead of binding twice. Windows `SO_REUSEADDR` had let two listeners share the port and drop responses.
-- `tools/ensure-serve.ps1` is the detached, idempotent start. A project SessionStart hook (`.grok/hooks/ensure-reader-serve.json`) calls it. Trust the folder (`/hooks-trust`) if the hook is skipped.
-- Foreground alternative: `pwsh -File tools\serve.ps1` (add `-Open` to launch the browser)
-- Git remote: `https://github.com/xepoctpat/conscience-engine` (public)
-- Pages URL after deploy: **https://xepoctpat.github.io/conscience-engine/**
+- Bind: `127.0.0.1` only
+- Port **18780** on purpose (Synapse/WYVRN probes 8080). `serve.py` does not log `/wyvrn/` or Chrome DevTools `/.well-known/appspecific/`
+- `tools/ensure-serve.ps1` starts or reuses the preview (venv, detached). SessionStart hook: `.grok/hooks/ensure-reader-serve.json`
+- Git: `https://github.com/xepoctpat/conscience-engine` (`main`). After plates or shell edits, commit and push so Pages updates.
 
-## What it is
+## Two tracks (do not merge unasked)
 
-Interactive novel reader for *The Conscience Engine*. Text is a recovered civic record (Floodlit Archive). Shell is static HTML + CSS + a little JS. No framework, no build.
+| Track | Where | Role |
+|---|---|---|
+| **Reader spine** | `content/*.md` + this shell | 13 records (prologue + 01–12). What the public reader shows. |
+| **Novel** | Operator’s separate Word document | Full book. Not wired. Not a license to expand `content/`. |
+
+`reference/The_Conscience_Engine_Novel_Architecture.md` is still the structural canon for a later 40-chapter book. The Word file is the operator’s working manuscript. Architecture does not overwrite Word; Word does not overwrite the spine until asked.
 
 ## Operator decisions (do not reopen)
 
 | Topic | Decision |
 |---|---|
 | Visuals / video | Operator makes them in **Grok Imagine web**. Agent does **not** generate unless explicitly asked. Wire only files on disk. |
-| Story | Do not invent or revise `content/` unless asked |
-| Engagement | Presence, not gamification (no streaks, badges, “keep reading”, fake urgency) |
+| Story in the reader | Do not invent or revise `content/` unless asked |
+| Full novel | Lives in Word. Do not pour it into Markdown unasked |
+| Edition language | No “pre-alpha”, no version number on the reader |
+| Engagement | Presence, not gamification |
 | Audio beds | Opt-in **Silent / Atmosphere**. Never autoplay |
-| TTS | Opt-in **Speak** via Web Speech API. No generated voice files |
+| TTS | Opt-in **Speak** + Voice list. No generated voice files |
 | Missing plates | `plate: null` — no stand-ins |
 | Server | Localhost `.venv`, port 18780 |
+| Hosting | Public GitHub Pages from `main` |
 
 ## Done (reader)
 
-- Cover: title in the hero’s left well, Space Grotesk / Exo 2 / Share Tech Mono
+- Cover lockup in the hero well; Space Grotesk / Exo 2 / Share Tech Mono
 - Prologue + Chapters 01–12 from `content/*.md` via `data/chapters.json`
-- Index, prev/next, hash routes, keys `I` index, arrows/`[` `]` chapter, `M` atmosphere, `S` speak
-- Atmosphere beds + crossfade; ducks while Speak is on
-- Speak: browser voices, chunked paragraphs, Pause/Resume, Shift-click or leave record to stop. If the engine ignores `pause()`, the current chunk is cancelled so Resume can replay it. Default prefers a Natural/Neural English voice (usually British). A **Voice** list next to Speak stores the choice.
-- Exact scroll position saved per chapter; **Continue the record** restores it
-- Masthead recedes on scroll-down while reading
-- Phone masthead is two rows: Floodlit, then Silent / Speak / Index (Index was clipping off the right)
-- Measure held near 38.5rem (40rem only on very wide screens)
-- Civic bulletins a little heavier
-- Print: page margins, cover printable from the landing, record close kept, chrome hidden
-- `End of record CE-NN` before nav
-- Index: move focus out, then `aria-hidden` + `inert` (fixes Edge “aria-hidden on focused descendant”)
-- Favicon at `/favicon.ico` and `favicon.svg`
-- Project rules: `AGENTS.md`, `.grok/skills/` (`ce-reader`, `ce-record`, `floodlit-plate`)
+- Index, prev/next, hash routes; keys `I` `M` `S` arrows `[` `]`
+- Atmosphere colour + CSS fields (floodwater, signal-glass, pressure-line, tideline, provenance)
+- Opt-in atmosphere audio; ducks while Speak is on
+- Speak: Natural/Neural English preferred; Voice list remembered; Shift-click stops
+- Scroll place restored per record (**Continue the record**)
+- Phone masthead: Floodlit, then Silent / Speak / Voice / Index
+- Print: cover + record close; chrome hidden
+- GitHub Pages live for Grok-web review
+- Skills: `/ce-reader` `/ce-record` `/floodlit-plate`
 
-## Done (text, spine only)
+## Done (spine text)
 
-Chapters **05–12** were tightened and slightly expanded from events already on the page. Headings and `data/chapters.json` are unchanged. Prologue and 01–04 were left alone.
-
-Not done: the 40-chapter novel in `reference/The_Conscience_Engine_Novel_Architecture.md`. That book is a later expansion, not this reader’s 13-record spine. No `:::hint` / `:::reveal` yet (none in the Markdown).
+Chapters **05–12** were tightened from events already on the page. Prologue and 01–04 were left alone. Headings match the manifest. No `:::hint` / `:::reveal`.
 
 ## Plates on disk
 
@@ -70,29 +73,28 @@ Not done: the 40-chapter novel in `reference/The_Conscience_Engine_Novel_Archite
 | `assets/plates/plate-02-useful-shape-of-ruin.jpg` | Chapter 02 |
 | `assets/plates/plate-04-ledger-opens.jpg` | Chapter 04 |
 
-Plate 01 was generated in-session earlier; operator will replace/extend the set from Imagine web. Do not generate more.
+Operator will replace some or all of these from Imagine web. Guide order for new stills: **03**, then **08**, then the rest.
 
-Audio already in `assets/audio/`: `floodwater`, `signalglass`, `pressureline`, `tideline`, `ambient`.
+Audio in `assets/audio/`: `floodwater`, `signalglass`, `pressureline`, `tideline`, `ambient`.
 
 ## Known nits (not bugs unless felt again)
 
-- Speak voice quality is OS/Edge, not a narrator
-- Chrome/Edge `speechSynthesis.pause` can still be odd; Shift-click stops
-- Razer `/wyvrn/Synapse` may still hit 8080 if something else listens there
-- Type/vest/mix “a bit off” — operator said not an issue
-- Phone cover deck can still feel tight on a 390px-wide screen
-- No git
-- SessionStart hook needs the project folder trusted
+- Speak voice is OS/Edge, not a narrator
+- Phone cover deck can feel tight at 390px
+- SessionStart hook needs the folder trusted (`/hooks-trust`)
+- Word novel path is not in this folder yet
 
 ## Next (operator chooses)
 
-**A — Stay on the shell** only if something is felt in use (phone crowding, print from a real printer, Speak).
+**A — Shell** only if something is felt in use.
 
-**B — Text** only when they name a passage, or ask to expand the spine toward the 40-chapter architecture. “Continue” is not a license to invent Blue Salt or new plot.
+**B — Reader text** only if they name a passage in `content/`. Not “paste the novel in.”
 
-**C — Visuals (Phase 3)** when files land in `assets/`: wire with `/floodlit-plate`. Guide order after 01/02/04: **03**, then **08**, then the rest. Hero loop → `assets/hero/conscience-engine-hero-archive-loop.mp4` if they export one.
+**C — Visuals** when Imagine files land in `assets/`. Wire with `/floodlit-plate`.
 
-**D — Later:** hosted static deploy; optional `file://` content bundle.
+**D — Novel** they keep writing in Word. When they drop the `.docx` here or ask to extract a chapter, use `/ce-record` on that named piece only.
+
+Future plan: `docs/READER-PLAN.md`.
 
 ## Keys / store
 
@@ -104,10 +106,4 @@ Audio already in `assets/audio/`: `floodwater`, `signalglass`, `pressureline`, `
 | Shift+S or Shift-click Speak | Stop speech |
 | Arrows `[` `]` | Previous / next record |
 
-`localStorage` key `ce.reader.v1`: `chapterId`, `positions` (scroll ratio per id), `audioEnabled` (not used to autoplay).
-
-## Skills
-
-- `/ce-reader` — HTML/CSS/JS/manifest/serve
-- `/ce-record` — chapter Markdown only
-- `/floodlit-plate` — **wire** Imagine-web files; do not generate unless asked
+`localStorage` key `ce.reader.v1`: `chapterId`, `positions`, `audioEnabled`, `voiceName`.

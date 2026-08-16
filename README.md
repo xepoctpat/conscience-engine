@@ -21,14 +21,16 @@ Then open http://127.0.0.1:18780/
 
 ## Layout
 
-- `content/` — Prologue + Chapters 01–12 (Markdown)
+- `content/` — Prologue + Chapters 01–12 (the published spine)
 - `data/chapters.json` — order and metadata
 - `index.html`, `css/`, `js/` — reader
 - `assets/` — hero, plates, audio
 - `reference/` — visual guide, prompts, architecture, world bible
-- `docs/READER-PLAN.md` — what comes after the MVP
-- `docs/SESSION-HANDOFF.md` — last session checkpoint
+- `docs/READER-PLAN.md` — reader vs novel, what comes next
+- `docs/SESSION-HANDOFF.md` — last checkpoint
 - `AGENTS.md` — rules for Grok in this folder
+
+The full novel is written in a separate Word document. It is not this folder’s `content/` until a chapter is extracted on purpose.
 
 ## Do not
 

@@ -2,11 +2,11 @@
 
 Interactive novel + Floodlit Archive reader. Static HTML shell.
 
-**Current phase:** reader shell is usable. See `docs/SESSION-HANDOFF.md` (2026-08-15) and `docs/READER-PLAN.md`. Do not start plate/video or story work unless the operator asks or drops files to wire.
+**Current phase:** reader is live (local + GitHub Pages). The full novel stays in a separate Word document. See `docs/SESSION-HANDOFF.md` (2026-08-16 checkpoint) and `docs/READER-PLAN.md`. Do not import the Word draft into `content/` or start plate/video work unless the operator asks or drops files to wire.
 
 ## Hard limits
 
-- Do not invent story text, dialogue, or plot. Revise `content/` only when asked.
+- Do not invent story text, dialogue, or plot. Revise `content/` only when asked. Do not pour the Word novel into the 13-record spine unasked.
 - Do not invent missing plates, portraits, audio, or video. Hook only files that exist.
 - Do not generate image, visual, or video assets unless the operator explicitly asks. They prepare those in Grok Imagine web and drop them into `assets/`. The agent wires paths in `data/chapters.json`.
 - Do not move `content/*.md`. Presentation stays out of the records.
