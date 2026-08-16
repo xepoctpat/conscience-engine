@@ -65,8 +65,8 @@
   --tracking-body: 0.016em;
 
   /* Measure and rhythm */
-  --measure: 38.5rem;
-  --measure-wide: 40rem;
+  --measure: 39.5rem;
+  --measure-wide: 42rem;
   --measure-index: 18rem;
 
   --space-1: 0.25rem;
@@ -419,6 +419,10 @@ body[data-view="error"] {
   --atm-glow-pos: 50% 38%;
 }
 
+[data-chapter="epilogue-13"] {
+  --atm-glow-pos: 50% 42%;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -720,7 +724,16 @@ body[data-view="error"] #voice-pick {
   letter-spacing: var(--tracking-kicker);
   text-transform: uppercase;
   color: var(--atm-signal);
-  margin-bottom: var(--space-4);
+  margin-bottom: var(--space-2);
+}
+
+.cover-accession {
+  font-family: var(--font-mono);
+  font-size: var(--size-small);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--atm-muted);
+  margin-bottom: var(--space-5);
 }
 
 .cover-title {
@@ -752,8 +765,17 @@ body[data-view="error"] #voice-pick {
   display: block;
 }
 
+.cover-recovered {
+  margin-top: var(--space-4);
+  font-family: var(--font-mono);
+  font-size: clamp(0.82rem, 0.72rem + 0.4vw, 1rem);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--atm-accent);
+}
+
 .cover-deck {
-  margin-top: var(--space-5);
+  margin-top: var(--space-4);
   max-width: 28rem;
   font-family: var(--font-ui);
   font-size: var(--size-deck);
@@ -864,7 +886,9 @@ body.index-open .index {
   letter-spacing: var(--tracking-kicker);
   text-transform: uppercase;
   color: var(--atm-muted);
-  margin-bottom: var(--space-4);
+  margin-bottom: var(--space-2);
+  padding-bottom: var(--space-4);
+  border-bottom: var(--rule-width) solid var(--color-rule);
 }
 
 .index-list {
@@ -881,11 +905,11 @@ body.index-open .index {
 
 .index-link {
   display: grid;
-  grid-template-columns: 3.4rem 1fr;
+  grid-template-columns: 3.6rem 1fr;
   gap: var(--space-3);
   align-items: baseline;
   width: 100%;
-  padding: 0.85rem 0;
+  padding: 0.72rem 0;
   text-align: left;
   text-decoration: none;
 }
@@ -946,7 +970,20 @@ body.index-open .index {
   letter-spacing: var(--tracking-kicker);
   text-transform: uppercase;
   color: var(--atm-signal);
-  margin-bottom: var(--space-3);
+  margin-bottom: var(--space-2);
+}
+
+.record-accession {
+  font-family: var(--font-mono);
+  font-size: var(--size-small);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--atm-muted);
+  margin-bottom: var(--space-4);
+}
+
+.record-accession[hidden] {
+  display: none;
 }
 
 .record-title {
@@ -1001,8 +1038,14 @@ body.index-open .index {
 }
 
 .record-body > p:first-of-type {
-  font-size: 1.04em;
-  letter-spacing: 0.01em;
+  font-size: 1.08em;
+  letter-spacing: 0.012em;
+  color: color-mix(in srgb, var(--atm-ink) 96%, var(--atm-signal));
+}
+
+.record-body p.is-speech {
+  padding-left: 0.9em;
+  border-left: var(--rule-width) solid color-mix(in srgb, var(--atm-signal) 30%, transparent);
 }
 
 .record-body h2,
@@ -1149,6 +1192,8 @@ p.civic-bulletin {
   gap: 0.3rem;
   text-decoration: none;
   min-width: 0;
+  padding: 0.85rem 0 0;
+  border-top: var(--rule-width) solid var(--color-rule);
 }
 
 .record-nav a[hidden],
@@ -1252,26 +1297,43 @@ p.civic-bulletin {
    -------------------------------------------------------------------------- */
 
 @media (max-width: 860px) {
-  .cover-copy {
-    width: 100%;
-    justify-content: flex-end;
-    padding-bottom: var(--space-6);
+  .cover {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100dvh - var(--header-height));
   }
 
-  .cover-title {
-    max-width: 12ch;
-    letter-spacing: -0.035em;
-    font-size: clamp(2.5rem, 11vw, 4.2rem);
+  .cover-plate {
+    position: relative;
+    height: min(36vh, 17rem);
+    flex: 0 0 auto;
   }
 
   .cover-plate::after {
     background:
       linear-gradient(
         180deg,
-        rgb(5 14 18 / 0.18) 0%,
-        rgb(5 14 18 / 0.4) 38%,
-        rgb(5 14 18 / 0.88) 100%
+        rgb(5 14 18 / 0.08) 0%,
+        rgb(5 14 18 / 0.2) 42%,
+        rgb(5 14 18 / 0.72) 100%
       );
+  }
+
+  .cover-copy {
+    position: relative;
+    width: 100%;
+    min-height: 0;
+    flex: 1 1 auto;
+    justify-content: flex-start;
+    padding-top: var(--space-6);
+    padding-bottom: var(--space-6);
+    background: var(--color-field-deep);
+  }
+
+  .cover-title {
+    max-width: 12ch;
+    letter-spacing: -0.035em;
+    font-size: clamp(2.5rem, 11vw, 4.2rem);
   }
 
   .edition-stamp,
@@ -1358,17 +1420,24 @@ p.civic-bulletin {
 
   .cover-copy {
     width: 100%;
+    padding-top: var(--space-5);
   }
 
   .cover-title {
-    font-size: clamp(2.3rem, 10vw, 3.2rem);
+    font-size: clamp(2.15rem, 9.4vw, 3rem);
     max-width: 100%;
+    line-height: 0.92;
+  }
+
+  .cover-recovered {
+    letter-spacing: 0.1em;
   }
 
   .cover-deck {
     max-width: none;
     overflow-wrap: anywhere;
     letter-spacing: 0;
+    font-size: 1rem;
   }
 
   .record-body {
@@ -1485,8 +1554,15 @@ p.civic-bulletin {
   body[data-view="cover"] .cover-copy {
     width: 100%;
     min-height: 0;
-    padding: 0 0 1.2rem;
+    padding: 0.8rem 0 1.2rem;
     color: #1a1c1b;
+    background: #fff;
+  }
+
+  .cover-recovered,
+  .cover-accession,
+  .cover-kicker {
+    color: #1a4d48;
   }
 
   .record-shell {

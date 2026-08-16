@@ -80,6 +80,10 @@ At 17:00 he stood outside the ferry terminal with a cardboard box containing a c
 
 Across the street a billboard offered reassurance: TOMORROW CAN BE BETTER. Sponsored by the Coalition for Sustainable Continuity. Hope should be responsibly managed.
 
+In the box, beneath the photograph, was a folded birthday card Nia had made during the last winter before the flood. She had drawn the sea wall as a dragon with square teeth and written brave wall in crooked blue letters above it. Mara had laughed when she saw it and told Elias that even their daughter understood infrastructure better when it was allowed to be frightening.
+
+He had argued, gently but too long, that frightening people did not always help them act. Mara had touched the little dragon’s teeth with one finger. “No,” she had said. “But pretending teeth are decorative does not help either. You don’t listen when you already know you’re right.”
+
 He walked home through rain that had not yet become an emergency. By the time he reached the Tolerable, the bottom of his coat was wet. The leak above Mrs. Pelt’s door had been patched with a plastic sheet and what looked like a disassembled kitchen stool. It was not professional work. It was, however, materially effective.
 
 Kofi Ado was waiting in the records café with two mugs of tea. Kofi ran the building’s unofficial archive from a counter between the laundry room and the parcel lockers. It held rent notices, repair histories, funeral times, food-pool schedules, maps of which stairwells flooded first, and a handwritten list of residents who might need someone to knock when the heat failed.

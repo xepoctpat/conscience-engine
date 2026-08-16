@@ -18,7 +18,7 @@
     />
     <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="icon" href="favicon.ico" sizes="any" />
-    <link rel="stylesheet" href="css/reader.css?v=24" />
+    <link rel="stylesheet" href="css/reader.css?v=25" />
   </head>
   <body data-view="cover" data-atmosphere="floodwater">
     <div class="atmosphere-field" id="atmosphere-field" aria-hidden="true"></div>
@@ -85,21 +85,6 @@
     </nav>
 
     <section class="cover" id="cover" aria-label="Archive cover">
-      <div class="cover-copy">
-        <p class="cover-kicker">Floodlit Archive · Recovered civic record</p>
-        <h1 class="cover-title">
-          <span class="cover-title-article">The</span>
-          <span class="cover-title-line">Conscience</span>
-          <span class="cover-title-line">Engine</span>
-        </h1>
-        <p class="cover-deck">
-          A recovered civic record. Presentation is separated from the record.
-        </p>
-        <div class="cover-actions">
-          <a class="cover-open" id="open-record" href="#prologue-00">Open the record</a>
-          <p class="cover-meta">Prologue + Chapters 01–12</p>
-        </div>
-      </div>
       <div class="cover-plate">
         <img
           src="assets/hero/conscience-engine-hero-archive.jpg"
@@ -108,12 +93,30 @@
           height="1080"
         />
       </div>
+      <div class="cover-copy">
+        <p class="cover-kicker">Floodlit Archive</p>
+        <p class="cover-accession" id="cover-accession">Recovered civic record</p>
+        <h1 class="cover-title">
+          <span class="cover-title-article">The</span>
+          <span class="cover-title-line">Conscience</span>
+          <span class="cover-title-line">Engine</span>
+        </h1>
+        <p class="cover-recovered">The Ledger of Consequences</p>
+        <p class="cover-deck">
+          A recovered civic record. Presentation is separated from the record.
+        </p>
+        <div class="cover-actions">
+          <a class="cover-open" id="open-record" href="#prologue-00">Open the record</a>
+          <p class="cover-meta" id="cover-meta">Fourteen records</p>
+        </div>
+      </div>
     </section>
 
     <main class="record-shell" id="record-shell">
       <article class="record" id="record">
         <header class="record-header">
           <p class="record-kicker" id="record-kicker"></p>
+          <p class="record-accession" id="record-accession" hidden></p>
           <h1 class="record-title" id="record-title" tabindex="-1"></h1>
           <p class="record-deck" id="record-deck"></p>
           <figure class="record-plate" id="record-plate" hidden>
@@ -148,7 +151,7 @@
 
     <footer class="colophon">
       <span>Floodlit Archive</span>
-      <span>Recovered civic record</span>
+      <span>The Ledger of Consequences</span>
     </footer>
 
     <noscript>

@@ -21,7 +21,7 @@ Then open http://127.0.0.1:18780/
 
 ## Layout
 
-- `content/` — Prologue + Chapters 01–12 (the published spine)
+- `content/` — Prologue + Chapters 01–12 + Epilogue (the published spine)
 - `data/chapters.json` — order and metadata
 - `index.html`, `css/`, `js/` — reader
 - `assets/` — hero, plates, audio

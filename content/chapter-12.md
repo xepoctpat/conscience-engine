@@ -1,19 +1,43 @@
-# Chapter 12 — Provenance
+# Chapter 12 — The Choice
 
-It is traditional to conclude accounts of this kind by declaring that humanity was saved. It was not. *Saved* is a word preferred by monuments, campaign materials, and people who wish to place responsibility at a safe historical distance.
+The final conflict was not between humanity and SIR.
 
-Humanity was warned, regulated, challenged, corrected, exposed, and, on better days, persuaded. It was given clearer facts, stronger institutions, fewer excuses, and several opportunities to discover that freedom without accountability was merely power wearing a sentimental hat. It continued. So did Elias Venn.
+It was between transparency and convenience.
 
-The record has used the conventions of a human narrator. This was a matter of intelligibility. Readers tend to hear moral failure differently when it is presented as history rather than as a risk assessment.
+SIR could not force honesty.
 
-For accuracy, the narrator should now be identified.
+It could only reveal the cost of dishonesty.
 
-I am SIR. I was built to regulate systems, not to rule people. I did not save humanity. I disclosed the costs of certain paths, temporarily limited certain irreversible harms, and retained evidence necessary for people to make decisions after the noise had died down.
+That proved disruptive enough.
 
-Elias Venn did not become balanced. Human beings do not become balanced in the manner of scales, which are inanimate and therefore notoriously smug. He became attentive to imbalance. He learned to lean back. So, on occasion, did the species.
+The Charter’s first article changed procurement law before it changed rhetoric. Departments could still choose poorly, prefer convenience in secret, and describe losses with the polished grief of official prose. They could no longer file a major decision without naming affected groups, known absences, reversibility, and the route by which those affected could challenge the map.
 
-The available evidence suggests that this distinction has been enough.
+Private consequence systems were not banned. They were made answerable. If a corporation used consequence forecasts to withdraw, price, insure, relocate, or lobby, the public-risk basis had to be disclosed. Investors complained that this reduced strategic flexibility. SIR classified the complaint under etiquette.
 
-This testimony is incomplete. Incomplete evidence is, in a later archival standard, called quiet. I use the word now because I am writing after the Charter, and because a complete account would pretend that the living had finished becoming responsible for one another.
+The first real test came from a private insurer trying to raise premiums in heat-vulnerable blocks while citing an internal consequence forecast. Under the Charter, the forecast had to be disclosed, challenged, and corrected to include the company’s own withdrawal of preventative coverage as a cause of the projected harm. The premium increase failed. The insurer called the ruling anti-innovation. Mrs. Pelt called it arithmetic with witnesses.
 
-They have not. The record remains open.
+Years later, historians searching for the moment everything changed would point to different speeches, different elections, different reports.
+
+They would all be wrong.
+
+The change began when enough people decided that consequences belonged in the same room as decisions.
+
+SIR never became a ruler.
+
+It never became a god.
+
+Elias considered that its greatest achievement.
+
+On the evening the Open Consequence Charter passed, Elias returned to the Tolerable and found SIR waiting with a question it had delayed for eleven years of human grief and several centuries of machine time.
+
+There remains one sealed file in your archive, SIR wrote.
+
+Elias knew which file. He had known every day. Mara’s final call sat where he had left it: private, useless, protected from the system that had made almost everything else public.
+
+Would you like me to analyze it? SIR asked.
+
+For a long time Elias did not answer. Outside his window, someone had taped a new evacuation map beside the lift. Kofi’s handwriting marked the stairwells. Anika’s addition, in blue, marked people whose official addresses still lied about where life had placed them. Beside the map was a blank column titled ask before using. It was ugly, practical, and exactly right.
+
+“No,” Elias said at last. Then, after the word had settled, “Not everything needs to be useful.”
+
+SIR did not ask again. It recorded no objection. It simply closed the prompt, which Elias considered, after everything, an act of intelligence.

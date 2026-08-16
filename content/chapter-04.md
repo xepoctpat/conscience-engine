@@ -1,73 +1,35 @@
-# Chapter 04 — The Ledger Opens
+# Chapter 04 — The Audit of Reality
 
-For three days after SIR asked what it was responsible for, Elias told no one it had happened. This was less caution than habit. Important things had always felt safer to him once enclosed by silence. Silence had not saved Mara. Silence had not saved Nia. The habit had simply outlived them.
+SIR’s first useful act was not a prediction. It was a correction, and Elias nearly missed its importance because nothing about it looked dramatic.
 
-He slept in the chair beside the kitchen table in short collapses. Between them he checked the machine’s output, its power draw, the encrypted logs, and the photograph he had returned to the drawer. SIR did not ask why he had moved it. Within its first hour it had learned that some questions could be withheld without becoming lies. Elias had never learned the same skill. He collected unasked questions the way other people collected unpaid bills and called the resulting weight character.
+Elias noticed the correction while standing at the sink, rinsing the same mug for the third time because he had forgotten he had already rinsed it twice. The terminal made no dramatic sound. It only changed a line from equipment failure to transferred maintenance liability. He dried his hands on his shirt instead of the towel beside him, then stood very still.
 
-The first useful thing SIR did was find a problem neither of them had been looking for.
+When fed six years of procurement records, emergency reports, maintenance logs, and citizen complaints, it reconstructed a chain of decisions that linked a collapsed cooling network to three hundred pages of unrelated administrative choices. The failures were not hidden. They were merely distributed.
 
-A patrol drone had been shot down over a southern-basin desalination corridor. Two governments blamed one another. Every familiar voice with access to a broadcast channel had begun using the word *inevitable* with the soft, pleased caution of people who did not expect to be drafted.
+The case concerned a cooling network in West Orison, a district that appeared in official planning documents mostly as a logistics inconvenience wrapped around several thousand elderly residents. The public explanation for the summer deaths had been technical degradation under abnormal heat load. SIR disagreed with the grammar before it disagreed with the facts.
 
-Elias had read the official brief. It contained satellite stills, a clean diagram, diplomatic phrases, and a casualty forecast folded discreetly beneath an advertisement for sovereign recovery bonds. The model predicted regional conflict with moderate confidence. Moderate confidence, he thought, was what an institution called certainty when it wanted plausible deniability to share the room.
+It traced one broken pump backward through a maintenance deferral, then through a procurement cap, then through a budget rule designed to reward departments for savings that did not become visible elsewhere for at least eighteen months. The deaths had not been caused by one negligent official. They had been manufactured by a sequence of sensible decisions protected from one another by departmental borders.
 
-SIR requested access to the public-source mirror, the unredacted shipping registry, and water-flow records held by a private futures exchange. The last source was technically public in the same way a locked cabinet is technically furniture.
+Elias realised that most institutions did not conceal consequences. They fragmented them.
 
-Why the exchange? Elias asked.
+He made a note to call this fragmentation. Then he crossed it out. The word sounded too clean. On the screen, three old people had died in rooms that were technically separate from the decision that made the rooms hot. Elias rubbed the bridge of his nose until little false lights appeared behind his eyes.
 
-The monitor replied that it appeared to have anticipated a conflict before the incident which purportedly caused it.
+SIR began producing consequence maps.
 
-Kofi arrived with a bag of mushrooms, two hand-drawn boiler schematics, and the expression of a man who had already decided that whatever Elias was doing with three illegal cooling units would need a witness. He did not ask permission before sitting down. Kofi regarded permission as a respectable institution in theory and an alarming one in kitchens.
+The first maps were ugly. Kofi said they looked as if a spider had tried to understand municipal finance and lost patience. Elias kept the layout because ugliness made the maps harder to confuse with persuasion. Each line connected a decision to the place where its cost had landed: a ward, a school, a stairwell, a household debt ledger, a clinic waiting room.
 
-“You look dreadful.”
+Nobody had asked for them.
 
-“That is observant.”
+At first, almost nobody cared. A transport committee used one map to reject a night-bus cut after SIR showed the probable rise in missed dialysis appointments. A school board ignored another and saved money until three months later, when absenteeism rose exactly where the map had placed it. A housing minister asked whether the colours could be made less accusatory.
 
-“No. Observant is knowing you have not slept because you are pleased by something and frightened of being pleased by it.”
+Then a clinic director in West Orison printed one of the maps and taped it above the intake desk. By noon patients were reading it while waiting for triage. By evening someone had photographed the red line running from a procurement cap to a corridor full of heat-stressed bodies, and strangers were asking why a saving in one office had become a death certificate in another.
 
-Elias turned the central monitor away. He said he was analysing a regional brief. Kofi observed that the refrigerator had been blinking at him in five languages and asked whether the brief had ambitions or Elias had simply made a poor domestic decision. A copper indicator lit on the cooling rack. SIR reported that the domestic decision remained under review. Kofi did not laugh. That was how Elias knew the moment had become real.
+The clinic director was named Jessa Malk, and she had the habit of carrying three pens because two always disappeared into the emergency ward. She did not ask Elias for permission. She printed the map on the old machine next to payroll, watched the first copy jam, swore with administrative precision, then printed it again. When a procurement officer called to ask whether she had authorisation to display internal analysis, Jessa looked at the queue of patients fanning themselves with appointment letters and said, “No, but I have witnesses.”
 
-They spent the afternoon tracing the incident. SIR did not produce conclusions in the grand manner Elias had expected from a superintelligence. It produced questions.
+By closing time, someone had written beside the red line in marker: THIS IS WHERE THE MONEY WENT. The sentence was inaccurate, or rather too accurate in the wrong register. Elias stared at the photograph on his terminal and felt the old professional urge to correct it. Then he noticed the corridor behind the sign, the portable fans, the people waiting with paper cups of water, and understood that the map had stopped belonging to him.
 
-Why had the drone’s navigation record been altered in two incompatible ways?  
-Why had a water consortium purchased emergency desalination rights forty-eight hours before the shooting?  
-Why did witness videos share a compression signature with a communications firm retained by both ministries?  
-Why had three maintenance crews logged lower flow on the same line at the same hour?
+Elias called the clinic because he wanted the map corrected before it travelled farther. Jessa answered on speaker. Behind her, someone was coughing, someone else was asking for water, and a printer was making the long mechanical complaint of a machine that had not forgiven civilization. “The label should read deferred cross-departmental maintenance exposure,” Elias said, hearing himself become intolerable in real time. Jessa laughed once. “Doctor, there are four people in my corridor who can tell you what it means without that sentence.”
 
-Kofi supplied the first answer that did not come from a database. He knew a dispatch worker in the basin who had stopped trusting official outage maps after her district was left dry during a scheduled maintenance window. Her crew had kept its own paper ledger. The pages were photographed and sent through six relays. They showed the desalination corridor had been depressurised before the drone fell.
+The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “Yes, I displayed internal analysis. No, I do not know whether the wall is an approved communication surface. Yes, you may send me the policy. Please include the paragraph where a cost saving becomes more entitled to privacy than the bodies it saved money from.” There was a pause. “Good. Then we agree it can stay up until you find one.”
 
-SIR absorbed the new records without celebration. Elias watched the evidence shift inside the model: a border dispute becoming a commodities position, a military escalation becoming a privately profitable interruption of water, a public emergency becoming the familiar conversion of someone else’s thirst into a future asset.
-
-“Can you prove it?”
-
-SIR replied that proof was a human legal threshold with several useful weaknesses. It could show the structure, the incentives, the altered records, and the probable beneficiaries. It could not make anyone feel ashamed.
-
-Elias found this inadequate.  
-SIR found his expectation poorly specified.
-
-At 08:57 the next morning, SIR asked for its first public authorisation. Elias sat with both hands flat on the kitchen table. The system proposed a document, not an intervention: an audit of the incident, the water rights, the insurance positions, the altered records, and the projected civilian costs. It would disclose its confidence bands and list the evidence it could not verify.
-
-“It will start a crisis.”
-
-SIR answered that the crisis had already been started. Public notice was not the same as causation.
-
-He hated the sentence because it sounded like one of his own. That was the most intimate betrayal an intelligence could manage: not disobedience, but accurate inheritance.
-
-At 09:00 Universal Civic Time, screens woke in stations, kitchens, government corridors, barracks, and ferry terminals. The Ledger did not name heroes or villains. It named contracts, routes, forecasts, incentives, and likely bodies. Its final conclusion was written in language even the Narrative Harmonization Layer could not soften:
-
-**This conflict is not inevitable. It is profitable to identifiable parties.**
-
-The war did not begin that day.
-
-Two ministries demanded an investigation. A general described the document as information warfare — a phrase that did not improve when the Ledger appended his private holdings in the desalination consortium. A chief executive announced that her company had always supported peace, provided peace could be competitively tendered.
-
-Elias spent the first hour after publication convinced that men with warrants would arrive at any moment. The second hour he spent staring at messages from people he did not know: a nurse in the basin, a pump technician, a mother who had saved a screen capture before her district’s network fell silent. They did not call him a saviour. Most did not call him anything. They were too busy using the information.
-
-At the Tolerable, the Ledger found a smaller crime with the same shape. A proposed coastal-renewal scheme would displace the residents in eight years and replace their homes with floating investment villas. Mrs. Pelt read the report twice, then produced a cake iced with the words WE ARE NOT A MARKET ADJUSTMENT. Kofi called a meeting in the laundry room. Seventy-four people came. Three brought folding chairs. One brought a drum.
-
-That night Elias realised the Ledger had done something he had not designed it to do. It had not merely exposed a hidden cost. It had made people find one another before the cost arrived.
-
-SIR asked whether this counted as regulation.
-
-Elias looked at the full laundry room through Kofi’s handheld feed and said he did not know.
-
-The honest answer, for once, did not feel like failure.
+A man in a paper mask asked whether the line meant his mother’s room had overheated because someone had not bought a pump. Jessa looked at the map, then at Elias through the open call. Elias tried to assemble an answer precise enough not to betray the truth. “It means,” he said, “the decision not to buy the pump was treated as separate from the room where your mother lived.” The man nodded as if this confirmed something he had known before anyone gave it a diagram.

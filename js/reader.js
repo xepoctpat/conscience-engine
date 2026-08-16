@@ -19,9 +19,12 @@
     status: document.getElementById("record-status"),
     cover: document.getElementById("cover"),
     coverOpen: document.getElementById("open-record"),
+    coverMeta: document.getElementById("cover-meta"),
+    coverAccession: document.getElementById("cover-accession"),
     homeLink: document.getElementById("home-link"),
     record: document.getElementById("record"),
     kicker: document.getElementById("record-kicker"),
+    accession: document.getElementById("record-accession"),
     title: document.getElementById("record-title"),
     deck: document.getElementById("record-deck"),
     plate: document.getElementById("record-plate"),
@@ -145,6 +148,7 @@
     if (els.docTitle) {
       els.docTitle.textContent = workTitle();
     }
+    paintCoverCensus();
     var coverAudio = atmosphereAudio("floodwater");
     if (coverAudio) els.body.dataset.audio = coverAudio;
     else delete els.body.dataset.audio;
@@ -169,7 +173,7 @@
     applyAtmosphere(chapter);
     setStatus(recordStatus(index));
     setSkip("#record");
-    renderHeader(chapter);
+    renderHeader(chapter, chapter);
     renderNav(index);
     paintClose(chapter);
     markIndexCurrent(chapter.id);
@@ -181,8 +185,9 @@
       .then(function (markdown) {
         if (seq !== state.loadSeq) return;
         var parsed = parseRecord(markdown, chapter);
-        renderHeader(parsed.meta);
+        renderHeader(parsed.meta, chapter);
         els.article.innerHTML = parsed.html;
+        markSpeech(els.article);
         applyPlate(chapter, seq, function () {
           if (seq !== state.loadSeq) return;
           if (opts && opts.scroll === "top") {
@@ -252,7 +257,7 @@
         "</span>" +
         '<span class="index-copy">' +
         '<span class="index-label">' +
-        escapeHtml(ch.label || "") +
+        escapeHtml(indexLabel(ch)) +
         "</span>" +
         '<span class="index-title">' +
         escapeHtml(ch.title || "") +
@@ -275,15 +280,35 @@
     }
   }
 
-  function renderHeader(meta) {
+  function renderHeader(meta, chapter) {
     els.kicker.textContent = meta.label || "";
     els.title.textContent = meta.title || "";
+    if (els.accession) {
+      var bits = [];
+      if (chapter && chapter.accession) bits.push(chapter.accession);
+      var weather = atmosphereLabel(chapter && chapter.atmosphere);
+      if (weather) bits.push(weather);
+      els.accession.textContent = bits.join(" · ");
+      els.accession.hidden = bits.length === 0;
+    }
     if (meta.deck) {
       els.deck.textContent = meta.deck;
       els.deck.classList.add("is-present");
     } else {
       els.deck.textContent = "";
       els.deck.classList.remove("is-present");
+    }
+  }
+
+  function markSpeech(root) {
+    if (!root) return;
+    var nodes = root.querySelectorAll("p");
+    for (var i = 0; i < nodes.length; i += 1) {
+      var text = String(nodes[i].textContent || "").replace(/^\s+/, "");
+      var mark = text.charAt(0);
+      if (mark === "“" || mark === '"' || mark === "‘") {
+        nodes[i].classList.add("is-speech");
+      }
     }
   }
 
@@ -373,6 +398,8 @@
       var n = chapter[1].length === 1 ? "0" + chapter[1] : chapter[1];
       return { label: "Chapter " + n, title: chapter[2] };
     }
+    var epilogue = line.match(/^Epilogue\s+[—–-]\s*(.+)$/i);
+    if (epilogue) return { label: "Epilogue", title: epilogue[1] };
     return { label: "", title: line };
   }
 
@@ -642,6 +669,41 @@
 
   function workTitle() {
     return (state.manifest && state.manifest.work) || "The Conscience Engine";
+  }
+
+  function atmosphereLabel(name) {
+    var atms = state.manifest && state.manifest.atmospheres;
+    if (!name || !atms || !atms[name]) return "";
+    return atms[name].label || "";
+  }
+
+  function indexLabel(chapter) {
+    var label = chapter && chapter.label ? chapter.label : "";
+    var weather = atmosphereLabel(chapter && chapter.atmosphere);
+    if (label && weather) return label + " · " + weather;
+    return label || weather;
+  }
+
+  function paintCoverCensus() {
+    var chapters = state.chapters || [];
+    var first = chapters[0];
+    var last = chapters[chapters.length - 1];
+    var span = "";
+    if (first && last && first.accession && last.accession) {
+      span = first.accession + "–" + last.accession;
+    }
+    if (els.coverAccession) {
+      els.coverAccession.textContent = span
+        ? "Recovered civic record · " + span
+        : "Recovered civic record";
+    }
+    if (els.coverMeta) {
+      var count = chapters.length;
+      var word = count === 1 ? " record" : " records";
+      els.coverMeta.textContent = span
+        ? span + " · " + count + word
+        : count + word;
+    }
   }
 
   function updateProgress() {

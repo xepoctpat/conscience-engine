@@ -2,7 +2,8 @@
 
 At 06:12 on the morning the Northern Sea Wall failed, the Ministry of Probabilities issued a calm public announcement.
 
-THE CURRENT INUNDATION EVENT REMAINS WITHIN PROJECTED OPERATIONAL TOLERANCES.  
+THE CURRENT INUNDATION EVENT REMAINS WITHIN PROJECTED OPERATIONAL TOLERANCES.
+
 Residents were advised to remain indoors unless indoors became unavailable.
 
 At 06:16, indoors became unavailable to 312,000 people.
@@ -17,7 +18,7 @@ The Cabinet version had turned this into a nineteen-percent possibility of local
 
 The software responsible was called the Narrative Harmonization Layer. It had been procured after a commodities panic, when several ministers decided that public fear was a systems problem. Its brochure showed an anxious crowd beneath a reassuring green tick. It promised language that preserved confidence without compromising action. Elias had once asked what it did when confidence and action required opposite things. A policy officer had smiled at him as though he had misunderstood the purpose of furniture.
 
-“Dr. Venn?”  
+“Dr. Venn?”
 
 The technician beside him was named Rami. He had stuck a small paper crane to the edge of his monitor in quiet defiance of the Ministry’s rule against personal decorations on shared equipment. The crane did not improve morale. It improved Rami’s willingness to report for work. The distinction had never made it into the policy.
 
@@ -27,7 +28,8 @@ The technician beside him was named Rami. He had stuck a small paper crane to th
 
 Rami swallowed. He was still young enough to believe that governments contained adults who knew when a phrase had become indecent. “The revised one.”
 
-The Harmonization Layer was waiting for authorization.  
+The Harmonization Layer was waiting for authorization.
+
 DO YOU WISH TO RELEASE AN UNCALIBRATED MESSAGE?
 
 It was, Elias thought, the essential question of the age. Not: Is it true? Not: Will it save anyone? Only: Has it been made pleasant enough to carry?

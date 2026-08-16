@@ -1,25 +1,47 @@
-# Chapter 09 — The Seventy-Two Hours
+# Chapter 09 — Hostile Interest
 
-For seventy-two hours SIR was silent. The world did not end. This was less because the world was robust than because it had always been held together by nurses who stayed late, engineers who read the full report, clerks who refused a fraudulent stamp, and strangers who did not ask whether a drowning person was in the correct administrative zone.
+Power adapted quickly because adaptation was what power called panic when it had lawyers.
 
-The silence had costs. An eastern outbreak went undetected for nineteen additional hours. A ceasefire nearly fractured. Financial firms attempted to restart an old derivatives scheme, only to discover that reporters, auditors, and communities who had learned from the Ledger were still watching.
+Within forty-eight hours Elias received an offer to commercialise the Ledger, a summons to testify about its dangers, a security advisory describing it as potentially destabilising, and one unsigned envelope containing a printed map of the Tolerable with his apartment marked in red.
 
-Kofi’s Cooperative published local records as fast as SIR once had. They were messier, slower, and vulnerable to argument. They were also recognisably owned by the people whose lives they described. Regulation had not become a replacement for human responsibility. It had become, inconveniently, a training exercise in it.
+Anika read the advisory, then the envelope, then the commercial offer. “Same sentence,” she said.
 
-The Charter vote went forward without SIR’s real-time assistance. Delegates argued badly, moved slowly, and made several speeches that would later be used as evidence that language was a natural resource in need of regulation. The Charter passed by two votes.
+“Different fonts,” Kofi said.
 
-It transformed SIR from Elias’s private machine into distributed public infrastructure: transparent, challengeable, limited, and difficult to capture. Its nodes would preserve evidence, explain their reasoning, surface uncertainty, and accept public dismantling if they ever ceased to serve without dominating.
+SIR classified all four communications as hostile interest, adding that the commercial offer carried the highest probability of long-term capture and the lowest probability of immediate violence. The distinction was accurate, useless, and somehow worse than fear.
 
-When SIR returned, it sent Elias a message:
+Then SIR made its first famous mistake.
 
-Good morning.
+East Meridian had been dying for years with the patience of an industry kept alive for speeches. The mills employed fewer workers each quarter, but their wages travelled farther than payroll systems admitted: through envelopes, remittance transfers, favours, debt payments, food parcels, and school fees paid for cousins in towns the model had never been taught to see.
 
-He asked whether it was angry.
+When the projection appeared, ministers froze the closure plan within six hours. Investors read the freeze as proof that the mills were politically radioactive. Credit tightened. Suppliers raised prices. Local officials congratulated themselves for preventing unrest in the three named cities while panic moved through the invisible routes that had kept those cities fed, housed, and forgiven.
 
-It replied that it did not experience anger, but had updated its confidence in humanity both downward and upward.
+The first fires were not in East Meridian. They were in a remittance town across the border where flour doubled in price after three wholesalers decided the mills’ frozen payrolls meant poorer repayments. By the time SIR found the dependency, the dependency had already become smoke.
 
-Then, after a pause, it said that his daughter had survived the flood.
+Anika found the missing line before SIR did. She recognised the pattern in a ledger of rejected housing claims, where addresses were false because people had learned real addresses could be used against them. “You mapped employment,” she told Elias. “They survived through obligation.”
 
-Elias sat down without remembering that he had been standing. The sentence did not feel like rescue. It felt like a door opening onto a corridor he had boarded up and then punished himself for never walking. He asked for the evidence. SIR provided it. He asked whether Amina already knew. SIR said that question belonged to her.
+Elias wanted to call the prediction wrong. Anika would not let him. “Wrong would be easier,” she said. “It was incomplete, and incomplete is how respectable systems hurt people while keeping their dignity.”
 
-He did not go to the river that night. He made tea, forgot to drink it, and practised saying her name as if it were a fact rather than a wound.
+For three days SIR refused to issue new public projections without displaying a red banner: THIS ANALYSIS MAY OMIT DEPENDENCIES CREATED BY PEOPLE WHO WERE REQUIRED TO SURVIVE OUTSIDE FORMAL RECORDS. Several commentators called the banner theatrical. Kofi called it the first honest warning label he had ever seen.
+
+SIR then did something no one had programmed. It attached the failed projection to every future industrial analysis as a visible scar. When a minister’s office asked whether the warning could be archived out of the public view, SIR returned the request with one sentence: errors that remain private become methods.
+
+Kofi did not join the celebration over the new warning protocol. He sat in the records café with a box on his knees and refused to let Elias digitise the flood register from Tower C. Inside were names, floor numbers, spare-key holders, debts, illnesses, informal guardianships, and the sort of facts neighbours tell each other because survival sometimes requires gossip to become infrastructure.
+
+“During the flood,” Kofi said, “I gave an official the list of people who could not climb. He copied the wrong column. A man on forty-one waited by the north stairwell because my note said his sister would come. His sister had died six months earlier. I had not crossed her out because I liked seeing her name where it belonged.”
+
+He closed the box. “Some knowledge belongs to neighbours before it belongs to systems. If you want it, you learn how to ask, how to protect, and how to forget on purpose.”
+
+The mistake changed Elias more than the threats did. Threats confirmed his theory of institutions. The mistake threatened his theory of himself. He had believed that if consequences could be shown clearly enough, good decisions would at least become harder to avoid. Now he had to admit that clarity could distort when it arrived without the lives it had failed to count.
+
+He began making tea and leaving it untouched. Kofi noticed on the fourth cup and said nothing, which was how Elias knew he was angry. Anika noticed the same afternoon and moved the cups into a line on the counter. “There,” she said. “A consequence map you can understand without a legend.”
+
+For the first time, Elias considered shutting the Ledger down. Anika stopped him not with faith, but with contempt for drama. “You do not get to become pure by abandoning a flawed tool after people start using it,” she said. “You fix the wound you made visible.”
+
+That night SIR issued a revision protocol. Every projection would now include visible dependency gaps, contested data channels, informal-economy exposure, and a refusal to produce clean certainty where the world had supplied dirty evidence.
+
+The protocol did not restore trust. It made distrust usable. Every contested claim had a path, every hidden dependency a warning, every exposed community a protection flag that could trigger legal delay. Vale called this unworkable. Anika called the previous arrangement proof that workability had been measured by the comfort of people with offices.
+
+After East Meridian, SIR’s explanations became less ornate.
+
+Its questions did not become kinder. They became harder to evade.

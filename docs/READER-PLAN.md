@@ -2,17 +2,17 @@
 
 Queue after the 2026-08-16 checkpoint. Not a license to invent story or assets. Last restore point: `docs/SESSION-HANDOFF.md`.
 
-**Current phase:** reader is public and stable. Operator writes the **full novel in a separate Word document**. The 13-record spine in `content/` stays the reader until they name a chapter to extract.
+**Current phase:** reader is public. The live spine is the 2026-08-16 Word export *The Ledger of Consequences* (14 records). Further Word/PDF drops go in `drafts/`, not `content/`.
 
 ## Two documents, two jobs
 
 | Document | Path | Job |
 |---|---|---|
-| Floodlit Archive spine | `content/*.md` | What the reader publishes (prologue + 01–12) |
-| Novel manuscript | Operator’s Word file (not in `content/`) | Full book. Keep it there. |
+| Floodlit Archive spine | `content/*.md` | What the reader publishes (prologue + 01–12 + epilogue) |
+| Novel manuscript | `drafts/The Ledger of Consequences.pdf` | Word export used for the current spine. |
 | Architecture | `reference/The_Conscience_Engine_Novel_Architecture.md` | Structure for a later long form. Do not treat as the manuscript. |
 
-When the Word file should live in this repo, drop it **outside** `content/` (for example `drafts/`). Presentation stays out of the records. Do not auto-split Word into Markdown.
+When a later Word/PDF file should live in this repo, drop it **outside** `content/` (for example `drafts/`). Presentation stays out of the records. Do not auto-split Word into Markdown.
 
 ## Done
 

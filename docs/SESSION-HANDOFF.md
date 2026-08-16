@@ -1,6 +1,6 @@
 # Session handoff — 2026-08-16 (checkpoint)
 
-The Floodlit Archive reader is the live product. The full novel stays in a **separate Word document** until the operator asks to extract records. Next session: read this file and `AGENTS.md` first. Do not import the Word draft into `content/` unasked.
+The Floodlit Archive reader is the live product. The public spine is now the 2026-08-16 Word export *The Ledger of Consequences* (prologue + 12 chapters + epilogue). The source PDF sits in `drafts/`. Next session: read this file and `AGENTS.md` first. Do not re-import or invent further story.
 
 ## Resume
 
@@ -26,8 +26,8 @@ Hard refresh (Ctrl+F5) after CSS/JS edits.
 
 | Track | Where | Role |
 |---|---|---|
-| **Reader spine** | `content/*.md` + this shell | 13 records (prologue + 01–12). What the public reader shows. |
-| **Novel** | Operator’s separate Word document | Full book. Not wired. Not a license to expand `content/`. |
+| **Reader spine** | `content/*.md` + this shell | 14 records (prologue + 01–12 + epilogue). What the public reader shows. |
+| **Novel source** | `drafts/The Ledger of Consequences.pdf` (Word export) | Manuscript used for the 2026-08-16 replace. Further extracts only if asked. |
 
 `reference/The_Conscience_Engine_Novel_Architecture.md` is still the structural canon for a later 40-chapter book. The Word file is the operator’s working manuscript. Architecture does not overwrite Word; Word does not overwrite the spine until asked.
 
@@ -49,7 +49,7 @@ Hard refresh (Ctrl+F5) after CSS/JS edits.
 ## Done (reader)
 
 - Cover lockup in the hero well; Space Grotesk / Exo 2 / Share Tech Mono
-- Prologue + Chapters 01–12 from `content/*.md` via `data/chapters.json`
+- Prologue + Chapters 01–12 + Epilogue from `content/*.md` via `data/chapters.json`
 - Index, prev/next, hash routes; keys `I` `M` `S` arrows `[` `]`
 - Atmosphere colour + CSS fields (floodwater, signal-glass, pressure-line, tideline, provenance)
 - Opt-in atmosphere audio; ducks while Speak is on
@@ -62,7 +62,7 @@ Hard refresh (Ctrl+F5) after CSS/JS edits.
 
 ## Done (spine text)
 
-Chapters **05–12** were tightened from events already on the page. Prologue and 01–04 were left alone. Headings match the manifest. No `:::hint` / `:::reveal`.
+Spine replaced from the Word-export PDF. Headings match the manifest. No `:::hint` / `:::reveal`. Plate 04 unwired (chapter 04 is now *The Audit of Reality*).
 
 ## Plates on disk
 
@@ -80,9 +80,9 @@ Audio in `assets/audio/`: `floodwater`, `signalglass`, `pressureline`, `tideline
 ## Known nits (not bugs unless felt again)
 
 - Speak voice is OS/Edge, not a narrator
-- Phone cover deck can feel tight at 390px
+- Phone cover now stacks the hero above the lockup; check if that still feels tight
 - SessionStart hook needs the folder trusted (`/hooks-trust`)
-- Word novel path is not in this folder yet
+- Word/PDF manuscript is in `drafts/The Ledger of Consequences.pdf`
 
 ## Next (operator chooses)
 
