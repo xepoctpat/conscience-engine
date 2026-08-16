@@ -23,7 +23,7 @@ Hard refresh (Ctrl+F5) after CSS/JS edits.
 
 ## What it is
 
-Pre-alpha interactive novel reader for *The Conscience Engine*. Text is a recovered civic record (Floodlit Archive). Shell is static HTML + CSS + a little JS. No framework, no build.
+Interactive novel reader for *The Conscience Engine*. Text is a recovered civic record (Floodlit Archive). Shell is static HTML + CSS + a little JS. No framework, no build.
 
 ## Operator decisions (do not reopen)
 

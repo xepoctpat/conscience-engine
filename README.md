@@ -1,6 +1,6 @@
 # The Conscience Engine
 
-Pre-alpha interactive novel. Floodlit Archive reader. Text in `content/` is the record; the HTML shell only presents it.
+Interactive novel. Floodlit Archive reader. Text in `content/` is the record; the HTML shell only presents it.
 
 **Public reader (GitHub Pages):** https://xepoctpat.github.io/conscience-engine/
 

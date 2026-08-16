@@ -1,8 +1,8 @@
 {
   "work": "The Conscience Engine",
   "archive": "Floodlit Archive",
-  "edition": "pre-alpha",
-  "status": "early-access",
+  "edition": "floodlit",
+  "status": "open",
   "contentRoot": "content",
   "defaults": {
     "atmosphere": "floodwater",

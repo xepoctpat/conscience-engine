@@ -1,6 +1,6 @@
 # The Conscience Engine — agent rules
 
-Interactive novel + Floodlit Archive reader. Pre-alpha text. Static HTML shell.
+Interactive novel + Floodlit Archive reader. Static HTML shell.
 
 **Current phase:** reader shell is usable. See `docs/SESSION-HANDOFF.md` (2026-08-15) and `docs/READER-PLAN.md`. Do not start plate/video or story work unless the operator asks or drops files to wire.
 
@@ -63,4 +63,4 @@ Use the project skills in `.grok/skills/` when the task matches:
 
 ## Tone of interface copy
 
-Archive / accession language only (Floodlit Archive, record, pre-alpha). Not app chrome. Not new fiction.
+Archive / accession language only (Floodlit Archive, record). Not app chrome. Not new fiction.
