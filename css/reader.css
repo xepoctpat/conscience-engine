@@ -170,8 +170,8 @@
     transparent 72%,
     color-mix(in srgb, #6be3d4 7%, transparent) 100%
   );
-  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96'%3E%3Cpath d='M96 0H0M0 96V0' fill='none' stroke='%236be3d4' stroke-opacity='.045'/%3E%3Ccircle cx='0' cy='0' r='1.1' fill='%236be3d4' fill-opacity='.08'/%3E%3C/svg%3E");
-  --atm-motif-size: 96px 96px;
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72'%3E%3Ccircle cx='1' cy='1' r='1.15' fill='%236be3d4' fill-opacity='.11'/%3E%3C/svg%3E");
+  --atm-motif-size: 72px 72px;
   --atm-glow-pos: 88% 10%;
 }
 
