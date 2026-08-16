@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title id="doc-title">The Conscience Engine</title>
+    <meta
+      name="description"
+      content="Floodlit Archive reader for The Conscience Engine. Pre-alpha civic record."
+    />
+    <meta name="theme-color" content="#07161d" />
+    <meta name="color-scheme" content="dark" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=Share+Tech+Mono&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="favicon.ico" sizes="any" />
+    <link rel="stylesheet" href="css/reader.css?v=21" />
+  </head>
+  <body data-view="cover" data-atmosphere="floodwater">
+    <a class="skip-link" id="skip-link" href="#open-record">Skip to content</a>
+
+    <div class="read-progress" aria-hidden="true">
+      <span id="read-progress-bar"></span>
+    </div>
+
+    <header class="masthead">
+      <a class="masthead-mark" href="#cover" id="home-link">
+        <span class="masthead-archive">Floodlit<span class="masthead-archive-rest"> Archive</span></span>
+        <span class="masthead-work">The Conscience Engine</span>
+      </a>
+      <div class="masthead-tools">
+        <span class="edition-stamp">Pre-alpha</span>
+        <span class="masthead-status" id="record-status">Cover</span>
+        <button
+          class="ghost-btn"
+          type="button"
+          id="audio-toggle"
+          aria-pressed="false"
+          aria-label="Toggle atmosphere audio"
+          title="Atmosphere plays only after you ask. Key: M"
+        >
+          Silent
+        </button>
+        <button
+          class="ghost-btn"
+          type="button"
+          id="speak-toggle"
+          aria-pressed="false"
+          hidden
+          aria-label="Read this record aloud"
+          title="Read this record aloud. Shift-click to stop. Key: S"
+        >
+          Speak
+        </button>
+        <label class="voice-pick" id="voice-pick" hidden>
+          <span class="visually-hidden">Speaking voice</span>
+          <select
+            id="voice-select"
+            class="ghost-select"
+            title="Speaking voice"
+            aria-label="Speaking voice"
+          ></select>
+        </label>
+        <button
+          class="ghost-btn"
+          type="button"
+          id="index-toggle"
+          aria-expanded="false"
+          aria-controls="toc"
+        >
+          Index
+        </button>
+      </div>
+    </header>
+
+    <div class="index-backdrop" id="index-backdrop"></div>
+
+    <nav class="index" id="toc" aria-label="Index of records" aria-hidden="true" inert>
+      <p class="index-heading">Index of records</p>
+      <ol class="index-list" id="toc-list"></ol>
+    </nav>
+
+    <section class="cover" id="cover" aria-label="Archive cover">
+      <div class="cover-copy">
+        <p class="cover-kicker">Floodlit Archive · Recovered civic record</p>
+        <h1 class="cover-title">
+          <span class="cover-title-article">The</span>
+          <span class="cover-title-line">Conscience</span>
+          <span class="cover-title-line">Engine</span>
+        </h1>
+        <p class="cover-deck">
+          A pre-alpha reading copy. Text remains subject to revision.
+          Presentation is separated from the record.
+        </p>
+        <div class="cover-actions">
+          <a class="cover-open" id="open-record" href="#prologue-00">Open the record</a>
+          <p class="cover-meta">Prologue + Chapters 01–12</p>
+        </div>
+      </div>
+      <div class="cover-plate">
+        <img
+          src="assets/hero/conscience-engine-hero-archive.jpg"
+          alt=""
+          width="1920"
+          height="1080"
+        />
+      </div>
+    </section>
+
+    <main class="record-shell" id="record-shell">
+      <article class="record" id="record">
+        <header class="record-header">
+          <p class="record-kicker" id="record-kicker"></p>
+          <h1 class="record-title" id="record-title" tabindex="-1"></h1>
+          <p class="record-deck" id="record-deck"></p>
+          <figure class="record-plate" id="record-plate" hidden>
+            <img id="record-plate-img" alt="" />
+          </figure>
+        </header>
+        <div class="record-body" id="record-body"></div>
+        <p class="record-close" id="record-close" hidden></p>
+        <nav class="record-nav" aria-label="Record sequence">
+          <a class="nav-prev" id="nav-prev" hidden>
+            <span class="nav-dir">Previous record</span>
+            <span class="nav-title"></span>
+          </a>
+          <a class="nav-next" id="nav-next" hidden>
+            <span class="nav-dir">Next record</span>
+            <span class="nav-title"></span>
+          </a>
+        </nav>
+      </article>
+    </main>
+
+    <section class="fault" id="fault" hidden>
+      <p class="fault-kicker">Accession fault</p>
+      <h1>The record cannot be opened from a raw file path.</h1>
+      <p>
+        Browsers block local chapter files unless they are served
+        on this machine. From this folder, run the localhost server,
+        then open the address it prints.
+      </p>
+      <pre>pwsh -File tools\serve.ps1</pre>
+    </section>
+
+    <footer class="colophon">
+      <span>Floodlit Archive</span>
+      <span>Pre-alpha · Early access · Text may be revised</span>
+    </footer>
+
+    <noscript>
+      <section class="fault">
+        <p class="fault-kicker">Accession fault</p>
+        <h1>This reader needs JavaScript to load the records.</h1>
+        <p>The chapter files remain in <code>content/</code> and can be read as Markdown.</p>
+      </section>
+    </noscript>
+    <script src="js/reader.js" defer></script>
+  </body>
+</html>

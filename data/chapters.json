@@ -1,0 +1,178 @@
+{
+  "work": "The Conscience Engine",
+  "archive": "Floodlit Archive",
+  "edition": "pre-alpha",
+  "status": "early-access",
+  "contentRoot": "content",
+  "defaults": {
+    "atmosphere": "floodwater",
+    "reveal": "none"
+  },
+  "atmospheres": {
+    "floodwater": {
+      "label": "Floodwater",
+      "audio": "assets/audio/floodwater.mp3"
+    },
+    "signal-glass": {
+      "label": "Signal Glass",
+      "audio": "assets/audio/signalglass.mp3"
+    },
+    "pressure-line": {
+      "label": "Pressure Line",
+      "audio": "assets/audio/pressureline.mp3"
+    },
+    "tideline": {
+      "label": "Tideline",
+      "audio": "assets/audio/tideline.mp3"
+    },
+    "provenance": {
+      "label": "Provenance",
+      "audio": "assets/audio/ambient.mp3"
+    }
+  },
+  "chapters": [
+    {
+      "id": "prologue-00",
+      "order": 0,
+      "accession": "CE-00",
+      "label": "Prologue",
+      "title": "On the Defects of Simple Stories",
+      "file": "content/prologue-00.md",
+      "atmosphere": "floodwater",
+      "plate": null,
+      "audio": "assets/audio/floodwater.mp3"
+    },
+    {
+      "id": "chapter-01",
+      "order": 1,
+      "accession": "CE-01",
+      "label": "Chapter 01",
+      "title": "The Flood Was Within Tolerance",
+      "file": "content/chapter-01.md",
+      "atmosphere": "floodwater",
+      "plate": "assets/plates/plate-01-flood-within-tolerance.jpg",
+      "audio": "assets/audio/floodwater.mp3"
+    },
+    {
+      "id": "chapter-02",
+      "order": 2,
+      "accession": "CE-02",
+      "label": "Chapter 02",
+      "title": "The Useful Shape of a Ruin",
+      "file": "content/chapter-02.md",
+      "atmosphere": "floodwater",
+      "plate": "assets/plates/plate-02-useful-shape-of-ruin.jpg",
+      "audio": "assets/audio/floodwater.mp3"
+    },
+    {
+      "id": "chapter-03",
+      "order": 3,
+      "accession": "CE-03",
+      "label": "Chapter 03",
+      "title": "Terms of Existence",
+      "file": "content/chapter-03.md",
+      "atmosphere": "signal-glass",
+      "plate": null,
+      "audio": "assets/audio/signalglass.mp3"
+    },
+    {
+      "id": "chapter-04",
+      "order": 4,
+      "accession": "CE-04",
+      "label": "Chapter 04",
+      "title": "The Ledger Opens",
+      "file": "content/chapter-04.md",
+      "atmosphere": "signal-glass",
+      "plate": "assets/plates/plate-04-ledger-opens.jpg",
+      "audio": "assets/audio/signalglass.mp3"
+    },
+    {
+      "id": "chapter-05",
+      "order": 5,
+      "accession": "CE-05",
+      "label": "Chapter 05",
+      "title": "The First Addiction",
+      "file": "content/chapter-05.md",
+      "atmosphere": "signal-glass",
+      "plate": null,
+      "audio": "assets/audio/signalglass.mp3"
+    },
+    {
+      "id": "chapter-06",
+      "order": 6,
+      "accession": "CE-06",
+      "label": "Chapter 06",
+      "title": "The Argument Against Salvation",
+      "file": "content/chapter-06.md",
+      "atmosphere": "pressure-line",
+      "plate": null,
+      "audio": "assets/audio/pressureline.mp3"
+    },
+    {
+      "id": "chapter-07",
+      "order": 7,
+      "accession": "CE-07",
+      "label": "Chapter 07",
+      "title": "The Error That Saved Them",
+      "file": "content/chapter-07.md",
+      "atmosphere": "pressure-line",
+      "plate": null,
+      "audio": "assets/audio/pressureline.mp3"
+    },
+    {
+      "id": "chapter-08",
+      "order": 8,
+      "accession": "CE-08",
+      "label": "Chapter 08",
+      "title": "The Woman Who Had Been Missing",
+      "file": "content/chapter-08.md",
+      "atmosphere": "pressure-line",
+      "plate": null,
+      "audio": "assets/audio/pressureline.mp3"
+    },
+    {
+      "id": "chapter-09",
+      "order": 9,
+      "accession": "CE-09",
+      "label": "Chapter 09",
+      "title": "The Seventy-Two Hours",
+      "file": "content/chapter-09.md",
+      "atmosphere": "tideline",
+      "plate": null,
+      "audio": "assets/audio/tideline.mp3"
+    },
+    {
+      "id": "chapter-10",
+      "order": 10,
+      "accession": "CE-10",
+      "label": "Chapter 10",
+      "title": "The Name She Chose",
+      "file": "content/chapter-10.md",
+      "atmosphere": "tideline",
+      "plate": null,
+      "audio": "assets/audio/tideline.mp3"
+    },
+    {
+      "id": "chapter-11",
+      "order": 11,
+      "accession": "CE-11",
+      "label": "Chapter 11",
+      "title": "The Long Work of Not Ending",
+      "file": "content/chapter-11.md",
+      "atmosphere": "tideline",
+      "plate": null,
+      "audio": "assets/audio/tideline.mp3"
+    },
+    {
+      "id": "chapter-12",
+      "order": 12,
+      "accession": "CE-12",
+      "label": "Chapter 12",
+      "title": "Provenance",
+      "file": "content/chapter-12.md",
+      "atmosphere": "provenance",
+      "plate": null,
+      "audio": "assets/audio/ambient.mp3"
+    }
+  ]
+}

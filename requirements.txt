@@ -1,0 +1,4 @@
+# Project Python lives in .venv (tools/bootstrap.ps1).
+# The reader itself is static; http.server is stdlib.
+# Pin any future packages here, then re-run bootstrap or:
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
