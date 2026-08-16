@@ -43,4 +43,4 @@ If the operator’s export uses another name, copy or rename it to the canon nam
 3. For motion later, store the path on the chapter or atmosphere object; do not play it until asked.
 4. Confirm a missing file still hides the figure.
 
-On disk now: plates **01, 02, 04** and the hero still.
+On disk now: plates **01, 02, 04** and the hero still. Plate 04 civic square is wired to Chapter 08 *Public Release*, not Chapter 04.

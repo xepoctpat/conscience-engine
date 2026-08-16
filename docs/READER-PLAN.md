@@ -21,7 +21,7 @@ When a later Word/PDF file should live in this repo, drop it **outside** `conten
 - Local `.venv` preview on `127.0.0.1:18780`
 - Public Pages: https://xepoctpat.github.io/conscience-engine/
 - Git: `https://github.com/xepoctpat/conscience-engine`
-- Plates 01, 02, 04 + hero still on disk
+- Plates 01, 02, 04 + hero still on disk (04 civic square wired to Chapter 08)
 - Edition chrome is archive language only (no version stamp)
 
 ## Constraints
@@ -39,12 +39,15 @@ When a later Word/PDF file should live in this repo, drop it **outside** `conten
 
 Imagine web → drop into `assets/` → `/floodlit-plate`.
 
-1. Chapter **03**, then **08**
-2. Replace 01 / 02 / 04 / hero if better frames exist
-3. Remaining plates
-4. Optional hero loop: `assets/hero/conscience-engine-hero-archive-loop.mp4`
-5. Character refs → `assets/characters/`
-6. Chapter video only after the still exists
+1. Chapter **03** (`plate-03-terms-of-existence.jpg`) — kitchen scene still matches the live record
+2. Dedicated Public Release still for Chapter 08 if the reused civic-square file is retired
+3. Replace 01 / 02 / hero if better frames exist
+4. Remaining plates (match live titles, not the old visual-matrix names)
+5. Optional hero loop: `assets/hero/conscience-engine-hero-archive-loop.mp4`
+6. Character refs → `assets/characters/`
+7. Chapter video only after the still exists
+
+Do not treat the old “shutdown choice” prompt as Chapter 08. Live Chapter 08 is *Public Release*. Live Chapter 04 is *The Audit of Reality* and stays `plate: null` until a matching still exists.
 
 Then commit and push so Pages matches.
 

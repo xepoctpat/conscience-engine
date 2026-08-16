@@ -62,7 +62,7 @@ Hard refresh (Ctrl+F5) after CSS/JS edits.
 
 ## Done (spine text)
 
-Spine replaced from the Word-export PDF. Headings match the manifest. No `:::hint` / `:::reveal`. Plate 04 unwired (chapter 04 is now *The Audit of Reality*).
+Spine replaced from the Word-export PDF. Headings match the manifest. No `:::hint` / `:::reveal`. Chapter 04 is *The Audit of Reality* (no plate). The leftover civic-square still is wired to Chapter 08 *Public Release*, not to 04.
 
 ## Plates on disk
 
@@ -71,9 +71,9 @@ Spine replaced from the Word-export PDF. Headings match the manifest. No `:::hin
 | `assets/hero/conscience-engine-hero-archive.jpg` | Cover |
 | `assets/plates/plate-01-flood-within-tolerance.jpg` | Chapter 01 |
 | `assets/plates/plate-02-useful-shape-of-ruin.jpg` | Chapter 02 |
-| `assets/plates/plate-04-ledger-opens.jpg` | Chapter 04 |
+| `assets/plates/plate-04-ledger-opens.jpg` | Chapter 08 (reuse until a dedicated Public Release still exists) |
 
-Operator will replace some or all of these from Imagine web. Guide order for new stills: **03**, then **08**, then the rest.
+Operator will replace some or all of these from Imagine web. Next still: **03** (`plate-03-terms-of-existence.jpg`). Do not commission the old shutdown-confrontation prompt as Chapter 08.
 
 Audio in `assets/audio/`: `floodwater`, `signalglass`, `pressureline`, `tideline`, `ambient`.
 
