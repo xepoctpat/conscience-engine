@@ -99,6 +99,12 @@
 
   --grain-opacity: 0.055;
   --read-progress: 0;
+  --atm-glow: none;
+  --atm-horizon: none;
+  --atm-motif: none;
+  --atm-motif-size: 320px 180px;
+  --atm-glow-pos: 78% 18%;
+  --atm-field-opacity: 0;
 
   --focus-ring: 0 0 0 2px var(--atm-field), 0 0 0 4px var(--atm-signal);
 
@@ -118,6 +124,25 @@
   --atm-signal: #6be3d4;
   --atm-ink: #d7cfbb;
   --atm-muted: #a9b0a5;
+  --atm-glow:
+    radial-gradient(
+      ellipse 58% 42% at 82% 90%,
+      color-mix(in srgb, #6be3d4 18%, transparent),
+      transparent 64%
+    ),
+    radial-gradient(
+      ellipse 48% 36% at 10% 94%,
+      color-mix(in srgb, #b47357 20%, transparent),
+      transparent 70%
+    );
+  --atm-horizon: linear-gradient(
+    180deg,
+    transparent 48%,
+    color-mix(in srgb, #050e12 62%, #102a31) 100%
+  );
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='420' height='180' viewBox='0 0 420 180'%3E%3Cpath d='M0 36q52-14 105 0t105 0 105 0 105 0' fill='none' stroke='%236be3d4' stroke-opacity='.08' stroke-width='1'/%3E%3Cpath d='M0 86q70 18 140 0t140 0 140 0' fill='none' stroke='%23b47357' stroke-opacity='.07' stroke-width='1'/%3E%3Cpath d='M0 138q50-12 100 0t100 0 100 0 120 0' fill='none' stroke='%236be3d4' stroke-opacity='.05' stroke-width='1'/%3E%3C/svg%3E");
+  --atm-motif-size: 420px 180px;
+  --atm-glow-pos: 80% 88%;
 }
 
 [data-atmosphere="signal-glass"] {
@@ -127,6 +152,27 @@
   --atm-signal: #6be3d4;
   --atm-ink: #dce8e4;
   --atm-muted: #9ab3b0;
+  --atm-glow:
+    radial-gradient(
+      ellipse 46% 38% at 88% 12%,
+      color-mix(in srgb, #6be3d4 22%, transparent),
+      transparent 62%
+    ),
+    radial-gradient(
+      ellipse 40% 30% at 18% 78%,
+      color-mix(in srgb, #1d5c61 40%, transparent),
+      transparent 70%
+    );
+  --atm-horizon: linear-gradient(
+    90deg,
+    color-mix(in srgb, #07161d 35%, transparent) 0%,
+    transparent 28%,
+    transparent 72%,
+    color-mix(in srgb, #6be3d4 7%, transparent) 100%
+  );
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96'%3E%3Cpath d='M96 0H0M0 96V0' fill='none' stroke='%236be3d4' stroke-opacity='.045'/%3E%3Ccircle cx='0' cy='0' r='1.1' fill='%236be3d4' fill-opacity='.08'/%3E%3C/svg%3E");
+  --atm-motif-size: 96px 96px;
+  --atm-glow-pos: 88% 10%;
 }
 
 [data-atmosphere="pressure-line"] {
@@ -136,6 +182,25 @@
   --atm-signal: #8e79a7;
   --atm-ink: #d5cfc4;
   --atm-muted: #9aa09a;
+  --atm-glow:
+    radial-gradient(
+      ellipse 50% 44% at 8% 18%,
+      color-mix(in srgb, #c78467 20%, transparent),
+      transparent 66%
+    ),
+    radial-gradient(
+      ellipse 46% 40% at 94% 86%,
+      color-mix(in srgb, #8e79a7 22%, transparent),
+      transparent 68%
+    );
+  --atm-horizon: linear-gradient(
+    165deg,
+    transparent 40%,
+    color-mix(in srgb, #313b3a 28%, transparent) 100%
+  );
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72'%3E%3Cpath d='M-6 18 18-6M-6 42 42-6M-6 66 66-6M18 78 78 18M42 78 78 42' fill='none' stroke='%238e79a7' stroke-opacity='.08' stroke-width='1'/%3E%3Cpath d='M54 0 72 18' fill='none' stroke='%23c78467' stroke-opacity='.07'/%3E%3C/svg%3E");
+  --atm-motif-size: 72px 72px;
+  --atm-glow-pos: 8% 16%;
 }
 
 [data-atmosphere="tideline"] {
@@ -145,6 +210,26 @@
   --atm-signal: #9cece1;
   --atm-ink: #e0ddd0;
   --atm-muted: #a9b8b4;
+  --atm-glow:
+    radial-gradient(
+      ellipse 62% 36% at 50% 86%,
+      color-mix(in srgb, #9cece1 16%, transparent),
+      transparent 70%
+    ),
+    radial-gradient(
+      ellipse 40% 28% at 14% 24%,
+      color-mix(in srgb, #d4b67d 14%, transparent),
+      transparent 68%
+    );
+  --atm-horizon: linear-gradient(
+    180deg,
+    transparent 58%,
+    color-mix(in srgb, #173a44 70%, #0d1c22) 78%,
+    color-mix(in srgb, #0a161a 85%, #173a44) 100%
+  );
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='360' height='160' viewBox='0 0 360 160'%3E%3Cpath d='M0 28h360M0 52h220M0 76h360M0 104h160M0 128h300' fill='none' stroke='%239cece1' stroke-opacity='.06' stroke-width='1'/%3E%3Cpath d='M0 40h280' fill='none' stroke='%23d4b67d' stroke-opacity='.05'/%3E%3C/svg%3E");
+  --atm-motif-size: 360px 160px;
+  --atm-glow-pos: 50% 88%;
 }
 
 [data-atmosphere="provenance"] {
@@ -154,6 +239,25 @@
   --atm-signal: #77c9c0;
   --atm-ink: #d7cfbb;
   --atm-muted: #b5ad99;
+  --atm-glow:
+    radial-gradient(
+      ellipse 54% 42% at 50% 40%,
+      color-mix(in srgb, #d7cfbb 8%, transparent),
+      transparent 72%
+    ),
+    radial-gradient(
+      ellipse 36% 28% at 86% 80%,
+      color-mix(in srgb, #77c9c0 14%, transparent),
+      transparent 68%
+    );
+  --atm-horizon: linear-gradient(
+    90deg,
+    color-mix(in srgb, #d7cfbb 5%, transparent) 0%,
+    transparent 18%
+  );
+  --atm-motif: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='48'%3E%3Cpath d='M36 0v48M0 47.5h240' fill='none' stroke='%2377c9c0' stroke-opacity='.07'/%3E%3C/svg%3E");
+  --atm-motif-size: 240px 48px;
+  --atm-glow-pos: 50% 36%;
 }
 
 /* --------------------------------------------------------------------------
@@ -220,6 +324,99 @@ body::after {
   z-index: 6;
   pointer-events: none;
   transition: background-color var(--duration-slow) var(--ease);
+}
+
+.atmosphere-field {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: var(--atm-field-opacity);
+  background-color: var(--atm-field);
+  background-image:
+    radial-gradient(
+      ellipse 68% 82% at 50% 30%,
+      color-mix(in srgb, var(--atm-field) 42%, transparent) 0%,
+      color-mix(in srgb, var(--atm-field) 86%, #000) 78%,
+      var(--atm-field) 100%
+    ),
+    var(--atm-glow),
+    var(--atm-horizon),
+    var(--atm-motif);
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat;
+  background-size: auto, auto, auto, var(--atm-motif-size);
+  background-position: center, var(--atm-glow-pos), center bottom, 0 0;
+  transition:
+    opacity var(--duration-slow) var(--ease),
+    background-color var(--duration-slow) var(--ease);
+}
+
+body[data-view="reading"] {
+  --atm-field-opacity: 1;
+}
+
+body[data-view="cover"],
+body[data-view="error"] {
+  --atm-field-opacity: 0;
+}
+
+.record-shell,
+.fault,
+.colophon {
+  position: relative;
+  z-index: 1;
+}
+
+[data-chapter="prologue-00"] {
+  --atm-glow-pos: 16% 78%;
+}
+
+[data-chapter="chapter-01"] {
+  --atm-glow-pos: 74% 92%;
+}
+
+[data-chapter="chapter-02"] {
+  --atm-glow-pos: 12% 64%;
+}
+
+[data-chapter="chapter-03"] {
+  --atm-glow-pos: 90% 8%;
+}
+
+[data-chapter="chapter-04"] {
+  --atm-glow-pos: 50% 16%;
+}
+
+[data-chapter="chapter-05"] {
+  --atm-glow-pos: 20% 84%;
+}
+
+[data-chapter="chapter-06"] {
+  --atm-glow-pos: 6% 20%;
+}
+
+[data-chapter="chapter-07"] {
+  --atm-glow-pos: 88% 18%;
+}
+
+[data-chapter="chapter-08"] {
+  --atm-glow-pos: 50% 72%;
+}
+
+[data-chapter="chapter-09"] {
+  --atm-glow-pos: 48% 90%;
+}
+
+[data-chapter="chapter-10"] {
+  --atm-glow-pos: 18% 28%;
+}
+
+[data-chapter="chapter-11"] {
+  --atm-glow-pos: 70% 40%;
+}
+
+[data-chapter="chapter-12"] {
+  --atm-glow-pos: 50% 38%;
 }
 
 img {
@@ -1253,6 +1450,7 @@ p.civic-bulletin {
 
   body::before,
   body::after,
+  .atmosphere-field,
   .read-progress,
   .masthead,
   .index,
