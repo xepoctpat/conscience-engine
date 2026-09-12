@@ -64,9 +64,9 @@
   --tracking-bulletin: 0.055em;
   --tracking-body: 0.016em;
 
-  /* Measure and rhythm */
-  --measure: 39.5rem;
-  --measure-wide: 42rem;
+  /* Measure and rhythm — grows with the viewport */
+  --measure: min(46rem, 100%);
+  --measure-wide: min(76rem, 100%);
   --measure-index: 18rem;
 
   --space-1: 0.25rem;
@@ -746,19 +746,20 @@ body[data-view="error"] #voice-pick {
   max-width: 100%;
   overflow-wrap: anywhere;
   text-wrap: balance;
-  max-width: 14ch;
+  max-width: 18ch;
 }
 
 .cover-title-article {
-  display: block;
-  font-family: var(--font-mono);
-  font-size: 0.2em;
-  font-weight: 400;
+  display: inline;
+  font-family: var(--font-display);
+  font-size: 0.42em;
+  font-weight: 500;
   line-height: 1;
-  letter-spacing: 0.32em;
-  text-transform: uppercase;
-  color: var(--atm-muted);
-  margin-bottom: 0.55em;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  color: color-mix(in srgb, var(--atm-ink) 78%, var(--atm-muted));
+  margin-right: 0.22em;
+  vertical-align: 0.62em;
 }
 
 .cover-title-line {
@@ -992,7 +993,7 @@ body.index-open .index {
   font-weight: 600;
   line-height: var(--leading-title);
   letter-spacing: -0.034em;
-  max-width: 22ch;
+  max-width: 32ch;
 }
 
 .record-deck {
@@ -1099,6 +1100,12 @@ p.civic-bulletin {
   margin-bottom: 1.4em;
   padding: 0.85em 0 0.85em 1em;
   border-left: 2px solid var(--atm-signal);
+}
+
+/* SIR issued speech: same archive register, sentence case */
+p.civic-bulletin.sir-voice {
+  letter-spacing: 0.028em;
+  font-weight: 450;
 }
 
 /* Named terms and ledger conclusions */
@@ -1331,7 +1338,7 @@ p.civic-bulletin {
   }
 
   .cover-title {
-    max-width: 12ch;
+    max-width: 18ch;
     letter-spacing: -0.035em;
     font-size: clamp(2.5rem, 11vw, 4.2rem);
   }
@@ -1466,9 +1473,29 @@ p.civic-bulletin {
   }
 }
 
-@media (min-width: 1440px) {
-  .record-shell {
-    width: min(var(--measure-wide), 100%);
+@media (min-width: 960px) {
+  :root {
+    --measure: min(58rem, calc(100vw - 6rem));
+  }
+
+  .cover-copy {
+    width: min(54rem, 54%);
+  }
+}
+
+@media (min-width: 1280px) {
+  :root {
+    --measure: min(66rem, calc(100vw - 7rem));
+  }
+}
+
+@media (min-width: 1600px) {
+  :root {
+    --measure: min(var(--measure-wide), 72vw);
+  }
+
+  .cover-copy {
+    width: min(58rem, 48%);
   }
 }
 

@@ -417,15 +417,29 @@
     var block = raw.replace(/^\n+|\n+$/g, "");
     if (!block) return "";
 
-    var fence = block.match(/^:::(hint|reveal|archive-note|bulletin)\s*\n([\s\S]*)$/);
+    var fence = block.match(/^:::(hint|reveal|archive-note|bulletin|sir)\s*\n([\s\S]*)$/);
     if (fence) {
+      var kind = fence[1];
+      var body = fence[2].trim();
+      if (kind === "sir") {
+        return (
+          '<p class="civic-bulletin sir-voice">' +
+          inline(body.replace(/\n/g, " ")) +
+          "</p>"
+        );
+      }
+      if (kind === "bulletin") {
+        return (
+          '<p class="civic-bulletin">' + inline(body.replace(/\n/g, " ")) + "</p>"
+        );
+      }
       return (
         '<aside class="' +
-        fence[1] +
+        kind +
         '" data-reveal="' +
-        fence[1] +
+        kind +
         '">' +
-        renderMarkdown(fence[2].trim()) +
+        renderMarkdown(body) +
         "</aside>"
       );
     }
@@ -448,6 +462,11 @@
 
     if (/^\*\*[^*]+\*\*$/.test(block.replace(/\n/g, ""))) {
       return '<p class="emphasis-block">' + inline(block.replace(/\n/g, " ")) + "</p>";
+    }
+
+    if (/^\*[^*\n]+\*$/.test(block.replace(/\n/g, " ").trim())) {
+      var issued = block.replace(/\n/g, " ").trim().replace(/^\*|\*$/g, "");
+      return '<p class="civic-bulletin sir-voice">' + inline(issued) + "</p>";
     }
 
     if (isCivicBulletin(block) && block.indexOf("\n") === -1) {

@@ -32,9 +32,9 @@ Elias looked at the cracked plaster and the dark bloom spreading across the ceil
 
 Mrs. Pelt gave him a glance that contained gratitude and the clear expectation that he would be helping move furniture later.
 
-The Office of Long-Term Preparedness occupied the upper floors of a refurbished ferry terminal. Its atrium contained a suspended garden and a memorial display for the Northern Sea Wall, placed beside the security desk so that everyone entered through grief after removing their shoes.
+The Office of Long-Term Preparedness occupied the upper floors of a refurbished ferry terminal. Its atrium contained a suspended garden and a memorial display for the Northern Sea Wall, placed beside the security desk so that everyone entered through grief after removing their shoes. The garden was watered on a schedule that had survived three directors and one near-mutiny over ferns. The memorial was cleaned daily. The shoes were a later addition, after a consultant decided that humility should have a hygiene protocol.
 
-Elias badged in at 07:38. The scanner paused over his name, as it always did. Someone had attached a memorial status to his personnel file years earlier. The Office had offered to remove it three times. He had declined each time, then disliked himself for finding the tiny red pause reassuring.
+Elias badged in at 07:38. The scanner paused over his name, as it always did. Someone had attached a memorial status to his personnel file years earlier. The Office had offered to remove it three times. He had declined each time, then disliked himself for finding the tiny red pause reassuring. Grief, like a security flag, was easier to manage when it arrived as a known delay.
 
 In Conference Room Four — recently renamed the Foresight Suite after the word “Crisis” had been found to affect ministerial confidence — Deputy Minister Vale stood at the window in a charcoal scarf.
 
@@ -68,17 +68,25 @@ Vale’s expression softened. Elias distrusted softening more than anger. Anger 
 
 Dr. Hana Saito, seated near the door, closed her notebook. Not sharply. She merely set the pen beside it, which was worse.
 
+Dr. Saito did not look at Elias as people stood. She looked at the display, where the consortium’s confidence score still glowed as if numbers could blush. Later she would send him a two-line note that said only: *the seminar is not the point.* He already knew. The point was the calendar.
+
 The meeting ended with Vale inviting Elias to a mandatory seminar titled *Constructive Language for Complex Realities*. It was scheduled for Thursday morning, immediately before the revised water-risk report was due. Elias recognised this as an institutional form of weather: one could predict it, resent it, and still get wet.
 
 At 11:20 he sent the unedited analysis to the Treaty Oversight Panel, three independent journalists, the basin labour union, and the Office’s own internal evidence archive. He did not tell anyone.
 
 At 11:31, Vale suspended him.
 
-The letter thanked him for his service, affirmed the Office’s commitment to evidentiary integrity, and expressed confidence that all parties could emerge with a renewed commitment to public trust. Elias read it twice, then laughed once. It was the sound of a man discovering that fate had prepared a joke specifically for him and forgotten the part where anyone else laughed.
+The letter thanked him for his service, affirmed the Office’s commitment to evidentiary integrity, and expressed confidence that all parties could emerge with a renewed commitment to public trust. It used the word *journey* once, which was how Elias knew it had been through legal. He read it twice, then laughed once. It was the sound of a man discovering that fate had prepared a joke specifically for him and forgotten the part where anyone else laughed.
+
+A security officer waited with a cardboard box already assembled, as if unemployment were a kind of packed lunch. The officer was kind, which made it worse. Kindness in a corridor is often what institutions use instead of an apology.
 
 At 17:00 he stood outside the ferry terminal with a cardboard box containing a cracked mug, an expired access badge, three unclaimed cables, and the photograph of Mara and Nia he had kept face-down for so long that the dust on its reverse seemed more familiar than their faces.
 
-Across the street a billboard offered reassurance: TOMORROW CAN BE BETTER. Sponsored by the Coalition for Sustainable Continuity. Hope should be responsibly managed.
+Across the street a billboard offered reassurance.
+
+TOMORROW CAN BE BETTER.
+
+Sponsored by the Coalition for Sustainable Continuity. Hope should be responsibly managed.
 
 In the box, beneath the photograph, was a folded birthday card Nia had made during the last winter before the flood. She had drawn the sea wall as a dragon with square teeth and written brave wall in crooked blue letters above it. Mara had laughed when she saw it and told Elias that even their daughter understood infrastructure better when it was allowed to be frightening.
 
@@ -86,7 +94,9 @@ He had argued, gently but too long, that frightening people did not always help 
 
 He walked home through rain that had not yet become an emergency. By the time he reached the Tolerable, the bottom of his coat was wet. The leak above Mrs. Pelt’s door had been patched with a plastic sheet and what looked like a disassembled kitchen stool. It was not professional work. It was, however, materially effective.
 
-Kofi Ado was waiting in the records café with two mugs of tea. Kofi ran the building’s unofficial archive from a counter between the laundry room and the parcel lockers. It held rent notices, repair histories, funeral times, food-pool schedules, maps of which stairwells flooded first, and a handwritten list of residents who might need someone to knock when the heat failed.
+Kofi Ado was waiting in the records café with two mugs of tea. The café was not a café in any sense that would have satisfied a licensing officer. It was a counter, a kettle with opinions, and a jurisdiction Kofi had assembled out of other people’s need to be found. He ran the building’s unofficial archive from that counter, between the laundry room and the parcel lockers. It held rent notices, repair histories, funeral times, food-pool schedules, maps of which stairwells flooded first, and a handwritten list of residents who might need someone to knock when the heat failed.
+
+The kettle clicked. Kofi did not hurry it. He treated boiling as a civic process: it happened, it could not be flattered, and it was rude to pretend otherwise.
 
 “You look unemployed,” Kofi said.
 

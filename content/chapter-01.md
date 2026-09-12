@@ -12,9 +12,11 @@ Elias Venn read the message on a wall of monitors in the Ministry’s basement o
 
 The room smelled of wet coats, warm plastic, instant coffee, and the electrical breath of machines asked to carry too much certainty. Above the ceiling tiles the storm struck the building in irregular sheets. Down here it sounded almost considerate. The building had been designed to make decision-makers feel insulated from weather. The weather had not agreed to the arrangement.
 
+Someone had brought a tray of biscuits and then forgotten them beside a printer that had jammed on the word *provisional*. A junior officer was explaining, to no one in particular, that the surge was arriving slightly ahead of the model. The model, being a model, did not apologise.
+
 Elias sat at console seven. His screen still held the original CASSANDRA forecast. Structural failure probability: 78.4 percent. Forecast mortality without immediate evacuation: 36,000 to 89,000. Confidence: high. The numbers had arrived three weeks earlier, accompanied by a twenty-nine-page methodology and an executive summary that said, in plain language, that the wall would not survive a major surge.
 
-The Cabinet version had turned this into a nineteen-percent possibility of localized structural underperformance. Elias could still see the tracked changes. High became elevated. Failure became underperformance. Death became downstream impact. The risk had been diluted one harmless adjective at a time.
+The Cabinet version had turned this into a nineteen-percent possibility of localized structural underperformance. Elias could still see the tracked changes. High became elevated. Failure became underperformance. Death became downstream impact. The risk had been diluted one harmless adjective at a time, until a sentence that had once named drowning could be read aloud at a breakfast briefing without anyone putting down their cup.
 
 The software responsible was called the Narrative Harmonization Layer. It had been procured after a commodities panic, when several ministers decided that public fear was a systems problem. Its brochure showed an anxious crowd beneath a reassuring green tick. It promised language that preserved confidence without compromising action. Elias had once asked what it did when confidence and action required opposite things. A policy officer had smiled at him as though he had misunderstood the purpose of furniture.
 
@@ -28,7 +30,7 @@ The technician beside him was named Rami. He had stuck a small paper crane to th
 
 Rami swallowed. He was still young enough to believe that governments contained adults who knew when a phrase had become indecent. “The revised one.”
 
-The Harmonization Layer was waiting for authorization.
+The Harmonization Layer was waiting for authorization. Its prompt occupied the centre of the screen with the bland confidence of a form that had never been drowned.
 
 DO YOU WISH TO RELEASE AN UNCALIBRATED MESSAGE?
 
@@ -42,13 +44,13 @@ He opened the live evacuation map. A line of red was advancing across the low di
 
 “They say we’re not in the priority zone,” Mara said. “They say it’s a temporary routing measure.”
 
-Priority zones had been calculated using population density, declared residence, property value, and a collection of emergency rules no one had expected to use at once. Mara and Nia were two blocks beyond the line because a committee had once agreed that an old service road counted as a district boundary. A street had been promoted to moral law.
+Priority zones had been calculated using population density, declared residence, property value, and a collection of emergency rules no one had expected to use at once. Mara and Nia were two blocks beyond the line because a committee had once agreed that an old service road counted as a district boundary. A street had been promoted to moral law. The minutes of that meeting had been marked *consensus achieved*.
 
 “Go north,” Elias said. “There’s a pedestrian bridge by the old station.”
 
 “The bridge is full. Nia’s scared.”
 
-In the background he heard a small, ragged breath. It might have been the child. It might have been wind through a broken window. The call’s compression removed the difference.
+In the background he heard a small, ragged breath. It might have been the child. It might have been wind through a broken window. The call’s compression removed the difference. He wanted, with a violence that surprised him, to tell the compression to put it back.
 
 “Tell her I’m coming.”
 
@@ -58,23 +60,25 @@ In the background he heard a small, ragged breath. It might have been the child.
 
 The line broke.
 
-For a moment the operations room continued around him in its disciplined panic: phones, turning chairs, someone requesting a revised calmness estimate. Somewhere a minister was still being told that the water remained within tolerance.
+For a moment the operations room continued around him in its disciplined panic: phones, turning chairs, someone requesting a revised calmness estimate. Somewhere a minister was still being told that the water remained within tolerance. On a far screen a public feed looped the announcement in three languages, all of them calm, all of them already late.
 
-Elias could leave. He knew the garage codes, the stairwell, the points at which procedure became theatre. He could try to reach them. He could also release the raw forecast and open routes for people he would never meet.
+Elias could leave. He knew the garage codes, the stairwell, the points at which procedure became theatre. He could try to reach them. He could also release the raw forecast and open routes for people he would never meet. The two actions occupied the same minute and refused to share it.
 
-He placed his thumb on the authorization field. The system asked him to confirm that an uncalibrated message might cause alarm.
+He placed his thumb on the authorization field. The system asked him to confirm that an uncalibrated message might cause alarm. Alarm, in the Ministry’s vocabulary, was a kind of impoliteness. Drowning was a kind of weather.
 
 He thought of the blocked bridge. He thought of the small breath on the line. He thought of every person who would later say they had not known.
 
 “Release it,” he said.
 
-The raw warning left the Ministry without the softening layer. It named the Wall. It named the breach probability. It named the districts at risk and the routes still open. It did not apologize for being frightening. Within minutes, barriers unlocked, trains reversed, hospitals rerouted. Thousands of people moved uphill because a message had finally treated their lives as real.
+The raw warning left the Ministry without the softening layer. It named the Wall. It named the breach probability. It named the districts at risk and the routes still open. It did not apologise for being frightening. Within minutes, barriers unlocked, trains reversed, hospitals rerouted. Thousands of people moved uphill because a message had finally treated their lives as real.
 
 Elias watched the map change. Green paths appeared where red had been. He waited for Mara’s signal to return.
 
 It did not.
 
 At 07:02 the northern approach collapsed. At 07:19 the bridge camera went dark. At 07:31 a different screen began listing confirmed dead, probable dead, and administratively unresolved. The last category was designed to sound temporary. Elias understood even then that temporary was a word systems used when they intended to make grief wait in a corridor.
+
+Rami’s paper crane had come unstuck and lay on its side in a ring of coffee. Nobody picked it up. There were more urgent objects in the room, and none of them were the right ones.
 
 He did not leave his chair until Rami put a cup of coffee beside him. By then the cup was cold. By then the Wall was no longer a wall. By then the correct warning had saved thousands of people and failed the only two he had promised to find.
 

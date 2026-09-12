@@ -39,7 +39,7 @@
       "title": "On the Defects of Simple Stories",
       "file": "content/prologue-00.md",
       "atmosphere": "floodwater",
-      "plate": null,
+      "plate": "assets/plates/plate-00-defects-of-simple-stories.jpg",
       "audio": "assets/audio/floodwater.mp3"
     },
     {
@@ -72,7 +72,7 @@
       "title": "Terms of Existence",
       "file": "content/chapter-03.md",
       "atmosphere": "signal-glass",
-      "plate": null,
+      "plate": "assets/plates/plate-03-terms-of-existence.jpg",
       "audio": "assets/audio/signalglass.mp3"
     },
     {
@@ -83,7 +83,7 @@
       "title": "The Audit of Reality",
       "file": "content/chapter-04.md",
       "atmosphere": "signal-glass",
-      "plate": null,
+      "plate": "assets/plates/plate-04-audit-of-reality.jpg",
       "audio": "assets/audio/signalglass.mp3"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Questions a Machine Should Ask",
       "file": "content/chapter-05.md",
       "atmosphere": "signal-glass",
-      "plate": null,
+      "plate": "assets/plates/plate-05-questions-a-machine-should-ask.jpg",
       "audio": "assets/audio/signalglass.mp3"
     },
     {
@@ -105,7 +105,7 @@
       "title": "The Woman Who Was Dead",
       "file": "content/chapter-06.md",
       "atmosphere": "pressure-line",
-      "plate": null,
+      "plate": "assets/plates/plate-06-the-woman-who-was-dead.jpg",
       "audio": "assets/audio/pressureline.mp3"
     },
     {
@@ -116,7 +116,7 @@
       "title": "The Ledger",
       "file": "content/chapter-07.md",
       "atmosphere": "pressure-line",
-      "plate": null,
+      "plate": "assets/plates/plate-07-the-ledger.jpg",
       "audio": "assets/audio/pressureline.mp3"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Public Release",
       "file": "content/chapter-08.md",
       "atmosphere": "pressure-line",
-      "plate": "assets/plates/plate-04-ledger-opens.jpg",
+      "plate": "assets/plates/plate-08-public-release.jpg",
       "audio": "assets/audio/pressureline.mp3"
     },
     {
@@ -138,7 +138,7 @@
       "title": "Hostile Interest",
       "file": "content/chapter-09.md",
       "atmosphere": "tideline",
-      "plate": null,
+      "plate": "assets/plates/plate-09-hostile-interest.jpg",
       "audio": "assets/audio/tideline.mp3"
     },
     {
@@ -149,7 +149,7 @@
       "title": "Terms for a God",
       "file": "content/chapter-10.md",
       "atmosphere": "tideline",
-      "plate": null,
+      "plate": "assets/plates/plate-10-terms-for-a-god.jpg",
       "audio": "assets/audio/tideline.mp3"
     },
     {
@@ -160,7 +160,7 @@
       "title": "The Hearing",
       "file": "content/chapter-11.md",
       "atmosphere": "tideline",
-      "plate": null,
+      "plate": "assets/plates/plate-11-the-hearing.jpg",
       "audio": "assets/audio/tideline.mp3"
     },
     {
@@ -171,7 +171,7 @@
       "title": "The Choice",
       "file": "content/chapter-12.md",
       "atmosphere": "tideline",
-      "plate": null,
+      "plate": "assets/plates/plate-12-the-choice.jpg",
       "audio": "assets/audio/tideline.mp3"
     },
     {
@@ -182,7 +182,7 @@
       "title": "What Remains",
       "file": "content/epilogue-13.md",
       "atmosphere": "provenance",
-      "plate": null,
+      "plate": "assets/plates/plate-13-what-remains.jpg",
       "audio": "assets/audio/ambient.mp3"
     }
   ]

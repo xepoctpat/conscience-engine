@@ -24,7 +24,9 @@ That was the hinge. Before the firms, ministers could dismiss the Ledger as acti
 
 Her name was Sana Ilyas, and she did not become brave because the Ledger arrived. She became tired. The school was four streets from her flat, close enough for her son to walk on days when his lungs behaved. The replacement campus was across the freight road, past two loading depots and a junction where the air tasted metallic before dawn.
 
-At the meeting, the chair thanked her for her passion before she had finished unfolding the map. Sana looked at the councillors, then at the printed line connecting a budget saving to missed inhaler treatments, and asked again, slowly enough to be rude: “Who approved the cost to my child?”
+The hall had the particular acoustics of rooms designed for announcements rather than answers. Someone had set out water that no one drank. A banner thanked residents for their partnership, which was a word the city used when it wanted applause without a vote.
+
+At the meeting, the chair thanked her for her passion before she had finished unfolding the map. Passion, in that mouth, meant *you may continue until we have found a way not to hear you*. Sana looked at the councillors, then at the printed line connecting a budget saving to missed inhaler treatments, and asked again, slowly enough to be rude: “Who approved the cost to my child?”
 
 A clerk at the end of the table raised her hand before the chair could move on. Her badge said municipal transport modelling, which meant she had spent the week being thanked for her diligence and ignored for her conclusions. “The closure review did not include respiratory absenteeism,” she said. “Or unpaid care displacement. Or the freight-road crossing.”
 
@@ -34,11 +36,21 @@ The vote was delayed for independent review. Nobody cheered at first. The room h
 
 Anika hated this part most. “The moment money understands suffering,” she said, “everyone calls it information.” Elias had no answer that did not sound like surrender.
 
-That night Elias opened Mara’s sealed folder and stopped before the final command. The file name was ordinary, a date and a call duration. Its ordinariness was the cruelty. He closed it without listening. In the morning SIR noted that one archive had been consulted and not processed. It did not ask why. Elias found the restraint more difficult to bear than any accusation.
+That night Elias opened Mara’s sealed folder and stopped before the final command. The file name was ordinary, a date and a call duration. Its ordinariness was the cruelty. He closed it without listening. In the morning SIR left a note and did not ask why.
+
+:::sir
+One archive consulted. Not processed.
+
+Elias found the restraint more difficult to bear than any accusation.
 
 The first abuse arrived in clean language. Three firms launched consequence-exposure products for investors. Their dashboards did not ask who would be harmed, only who might later be blamed. A private hospital network withdrew from two heat-vulnerable districts after a Ledger query identified probable liability from avoidable mortality. Its public statement called the decision a responsible reduction of operational exposure.
 
-SIR named the pattern consequence arbitrage: the practice of using visibility not to reduce harm, but to avoid owning it. Elias hated the accuracy of the term. Anika hated that it arrived too late.
+SIR named the pattern.
+
+:::sir
+Consequence arbitrage: using visibility not to reduce harm, but to avoid owning it.
+
+Elias hated the accuracy of the term. Anika hated that it arrived too late.
 
 Within days, the movement around the Ledger split into three languages. Absolutists demanded every consequence map be public the moment it existed. Stewards, led reluctantly by Anika and Kofi, argued that truth without protection became extraction. Institutionalists gathered behind Vale’s Responsible Consequence Disclosure framework and insisted truth had to be sequenced or it would become another disaster with better credentials.
 
@@ -64,10 +76,19 @@ Old Quay gave Vale the weapon he wanted and the Stewards the warning they could 
 
 Kofi blamed Elias with the quiet efficiency of a man who did not need to raise his voice. “You made powerful people curious,” he said. “Curiosity is not innocence when it has enforcement powers.”
 
-The order to secure the Tolerable arrived on a wet Thursday morning. No one kicked down a door. That would have been vulgar. Instead, regulators came with sealed evidence bags, a public safety injunction, two compliance officers, and a woman whose shoes were too clean for the stairwell.
+The order to secure the Tolerable arrived on a wet Thursday morning. No one kicked down a door. That would have been vulgar, and vulgarity is what institutions accuse other people of when they have brought forms. Instead, regulators came with sealed evidence bags, a public safety injunction, two compliance officers, and a woman whose shoes were too clean for the stairwell. The rain stayed outside. The cleanliness did not.
 
 Mrs. Pelt began calling residents before the officers reached the third floor. Sana arrived twenty minutes later with a live feed and no plan beyond standing where officials would prefer absence. Kofi locked the records café and placed himself in front of the door with the posture of a man defending a library from weather.
 
-The lead compliance officer asked for access to all community datasets relevant to public consequence modelling. Kofi handed her a kettle. “Start with tea,” he said. “Then learn the names. Then ask again.”
+The lead compliance officer asked for access to all community datasets relevant to public consequence modelling. Kofi handed her a kettle. The gesture was so precisely the wrong kind of compliance that two officers looked at their papers as if the papers might object.
 
-While the officers argued about authority, SIR released a cryptographic proof that the Ledger had issued no commands, only disclosures, and that the seized terminals contained no private control mechanism. It was legally unhelpful and publicly decisive. By evening, the injunction was still valid, the raid had failed, and the phrase learn the names had joined Show the Ledger on walls across the city.
+“Start with tea,” he said. “Then learn the names. Then ask again.”
+
+The woman with the clean shoes did not take the kettle at first. Kettles, unlike injunctions, require you to stand in a room and wait for water to admit that it has changed. Waiting is difficult for people who have brought bags.
+
+While the officers argued about authority, SIR released a cryptographic proof. It was legally unhelpful and publicly decisive.
+
+:::sir
+No commands issued. Disclosures only. No private control mechanism on seized terminals.
+
+By evening, the injunction was still valid, the raid had failed, and the phrase learn the names had joined Show the Ledger on walls across the city.

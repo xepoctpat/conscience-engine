@@ -34,7 +34,8 @@ When they do ask to write or revise, stay inside the existing voice: civic, prec
 
 - Blank line, then body paragraphs.
 - Italics with `*single asterisks*`.
-- Civic/system speech as its own ALL-CAPS paragraph.
+- Civic/system speech as its own ALL-CAPS paragraph (renders as the teal bulletin).
+- SIR issued speech as a `:::sir` block, sentence case, same bulletin register. The archive and the machine share one visual voice.
 - Named declarations as a lone `**bold line**`.
 - Do not add YAML front matter.
 

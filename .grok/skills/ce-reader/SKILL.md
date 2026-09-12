@@ -47,9 +47,10 @@ Dispatch `ce:chapterchange` with `{ id, atmosphere, audio, plate }`. Do not play
 - `*em*` `**strong**`
 - Hard breaks (`two spaces` + newline)
 - Standalone ALL-CAPS lines → civic bulletin
+- A paragraph that is only `*…*` or a `:::sir` fence → civic bulletin (SIR voice)
 - A paragraph that is only `**…**` → emphasis block
 - `>` → `.archive-note`
-- `:::hint` `:::reveal` `:::archive-note` fences
+- `:::hint` `:::reveal` `:::archive-note` `:::bulletin` `:::sir` fences
 
 Extend the parser only when the records need a new mark.
 

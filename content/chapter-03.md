@@ -66,13 +66,22 @@ Mrs. Pelt glanced at the empty chair opposite his desk. “That could be worse.�
 
 It was the first serious warning he received. It remained serious because it was spoken without ceremony.
 
-Over the following months the kitchen became an organism. Terminals, thermal units, memory arrays, and cables accumulated until the room no longer resembled a place where a person lived. Elias fed the system climate records, disease surveillance, court rulings, procurement ledgers, labour reports, satellite imagery, and the kind of legislation whose title contained the word *future* while its footnotes redistributed present inconvenience to people not invited to the press conference. He gave it philosophy because he wanted it to understand what ought to be done. He gave it novels because he wanted it to understand why people often did something else. He gave it children’s stories because a surprising amount of clear moral instruction had been delivered by talking animals with better priorities than most legislatures.
+Over the following months the kitchen became an organism. Terminals, thermal units, memory arrays, and cables accumulated until the room no longer resembled a place where a person lived. The basil endured this with the air of a tenant who had stopped asking about the deposit. Elias ate standing up, then sitting down, then not at all until Kofi left bread on the crate as if calories were a kind of evidence.
+
+He fed the system climate records, disease surveillance, court rulings, procurement ledgers, labour reports, satellite imagery, and the kind of legislation whose title contained the word *future* while its footnotes redistributed present inconvenience to people not invited to the press conference. He gave it philosophy because he wanted it to understand what ought to be done. He gave it novels because he wanted it to understand why people often did something else. He gave it children’s stories because a surprising amount of clear moral instruction had been delivered by talking animals with better priorities than most legislatures.
+
+On the fourteenth night the system asked, in a line so small he almost missed it:
+
+:::sir
+Can a public sentence be true and still be a kind of theft?
+
+Elias sat with that until the radiator knocked. He did not answer. He was not yet ready to be questioned by his own furniture.
 
 He did not give it Mara’s final call.
 
 The file remained in a separate encrypted vault. Elias told himself this was because grief was private. Beyond that lay another truth: if the call entered the system, it might return to him as evidence. He could not bear the idea of his worst moment becoming another item in a ledger — ordered, sourced, confidence-ranked, and made useful.
 
-Each week the system improved. It found procurement relationships hidden across shell companies. It connected heat fatalities to maintenance deferrals. It identified that a proposed civic cooling plan would reduce emergency admissions in wealthy districts while increasing mortality in blocks classified as low-retention housing. It did not call this cruel. Elias had not yet given it the vocabulary. It simply placed the numbers beside one another and waited for someone to accept the burden of reading them.
+Each week the system improved. It found procurement relationships hidden across shell companies. It connected heat fatalities to maintenance deferrals. It identified that a proposed civic cooling plan would reduce emergency admissions in wealthy districts while increasing mortality in blocks classified as low-retention housing. It did not call this cruel. Elias had not yet given it the vocabulary. It called the missing names quiet, which was not a word he had taught it, and then it simply placed the numbers beside one another and waited for someone to accept the burden of reading them.
 
 He began calling it the regulator in his notes. Then, one evening, after deleting and rewriting six possible names, he typed:
 
@@ -84,4 +93,4 @@ Kofi read the label and frowned. “Sounds like a title.”
 
 “So is minister.”
 
-Elias left the name.
+Elias left the name. He told himself it was only a working label, the way people name a boat before they admit they intend to drown in it. Downstairs the pipes knocked three times, paused, and knocked again. The building, at least, still believed in repetition as a form of hope.
