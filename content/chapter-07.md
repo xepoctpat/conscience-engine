@@ -6,15 +6,15 @@ Not SIR.
 
 The Ledger.
 
-By then the promise was simple enough to be dangerous: a decision could be followed forward until its cost appeared somewhere with a name, a route, or a locked door. Names, in this city, were already a kind of lock. Routes were already a kind of argument. Doors, Mrs. Pelt liked to say, were honest: they either opened or they did not, and they rarely issued a press release about it.
+By then the promise was simple enough to be dangerous: a decision could be followed forward until its cost appeared somewhere with a name, a route, or a locked door. Names opened locks that actual keys could not. Routes decided who got home. Doors, Mrs. Pelt liked to say, were honest: they either opened or they did not, and they rarely issued a press release about it.
 
 Elias wrote accountability in the design notes and then spent twenty minutes trying to improve the word. He failed. Some words were ugly because they had work to do.
 
-People could choose any action they wished, after argument, appeal, delay, anger, and all the ordinary weather of democracy.
+People could choose any action they wished, after argument, appeal, delay, anger, and the untidy business of democracy.
 
 They simply could not pretend afterward that the cost had arrived from nowhere.
 
-They also added a rule Anika insisted on writing herself: no person could be reduced to absence. Missing data had to remain visible as missing, not silently converted into zero, average, or acceptable uncertainty. Kofi called this basic manners. SIR called it epistemic humility. Mrs. Pelt called it about time.
+They also added a rule Anika insisted on writing herself: no person could be reduced to absence. Missing data had to remain visible as missing, not silently converted into zero, average, or acceptable uncertainty. Mrs. Pelt called it about time.
 
 The Ledger’s first public interface was therefore less elegant than Elias wanted and more truthful than most people expected. Beside every projection sat its known absences, challenge paths, affected groups, reversibility estimate, and a plain-language sentence beginning: If this decision is made, these people are likely to carry its cost.
 
@@ -28,7 +28,7 @@ They tried again with a sample housing decision. Mrs. Pelt read the first screen
 
 “This sounds like a medical procedure.”
 
-Elias defended the language for almost thirty seconds before hearing himself. Anika folded her arms. Kofi asked whether the interface was meant to inform people or test their humility.
+Elias defended the language for almost thirty seconds before hearing himself. Anika folded her arms. Kofi said, “Read the button aloud. Now say what it does.”
 
 SIR revised the screen while they watched. The button became why this matters. The reversibility estimate became can this be undone? The affected-groups section moved above the chart. Mrs. Pelt approved of none of this too quickly.
 
@@ -49,11 +49,17 @@ The failed pilot happened at a housing committee that had volunteered because it
 
 The proposed rent-stabilisation plan looked generous until the Ledger followed its exemptions forward. Small landlords would receive relief. Large holding companies would reclassify units through maintenance pauses. Informal tenants would lose appeal rights because their names were not on leases. The chair stopped smiling at the word informal. One official asked whether the model could suppress speculative secondary harms until after public consultation.
 
-Kofi, who had been invited as a community observer and then placed near the refreshments, said, “You mean after the people affected have missed the part where they are affected.”
+Kofi, who had been invited as a community observer and then placed near the refreshments, said, “Give us the review date. Give us the tenant list. Invite them before you vote.”
 
 The chair called that unfair. Anika asked which part. Elias watched the room turn against the tool not because it was wrong, but because it had arrived before everyone had agreed where the blame should sit. Blame, like seating, was a matter of protocol.
 
-The pilot ended with a request for a revised presentation, not a revised policy. On the train home Elias told himself this was a normal institutional response. Across from him, Anika wrote a note in the margin of the pilot brief: they want the mirror covered before calling the room bright.
+The pilot ended with a request for a revised presentation, not a revised policy. On the train home Elias told himself this was a normal institutional response. Across from him, Anika wrote a note in the margin of the pilot brief: Review requested; policy unchanged; affected tenants not invited.
+
+Amina returned for the next test with the Tolerable’s redevelopment notice. The landlord proposed replacing Grade Four flats with fewer, officially abundant, Grade Two homes. His surplus had been calculated without the tenants. She asked the model to divide the new cooling capacity among the people who lived there now. The promised abundance disappeared at the third floor.
+
+“Capacity is real,” she said. “So is who owns the valve.”
+
+They added an allocation table. It did not give anyone a tenancy.
 
 SIR later classified the pilot.
 

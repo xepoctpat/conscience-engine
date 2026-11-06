@@ -32,7 +32,10 @@ Elias looked at the cracked plaster and the dark bloom spreading across the ceil
 
 Mrs. Pelt gave him a glance that contained gratitude and the clear expectation that he would be helping move furniture later.
 
-The Office of Long-Term Preparedness occupied the upper floors of a refurbished ferry terminal. Its atrium contained a suspended garden and a memorial display for the Northern Sea Wall, placed beside the security desk so that everyone entered through grief after removing their shoes. The garden was watered on a schedule that had survived three directors and one near-mutiny over ferns. The memorial was cleaned daily. The shoes were a later addition, after a consultant decided that humility should have a hygiene protocol.
+The Office of Long-Term Preparedness occupied the upper floors of a refurbished ferry terminal. Its atrium contained a suspended garden and a memorial display for the Northern Sea Wall, placed beside the security desk so that everyone entered through grief after removing their shoes. The garden was watered on a schedule that had survived three directors and one near-mutiny over ferns. The memorial was cleaned daily.
+
+:::archive-note
+The shoes were a later addition, after a consultant decided that humility should have a hygiene protocol.
 
 Elias badged in at 07:38. The scanner paused over his name, as it always did. Someone had attached a memorial status to his personnel file years earlier. The Office had offered to remove it three times. He had declined each time, then disliked himself for finding the tiny red pause reassuring. Grief, like a security flag, was easier to manage when it arrived as a known delay.
 
@@ -70,15 +73,15 @@ Dr. Hana Saito, seated near the door, closed her notebook. Not sharply. She mere
 
 Dr. Saito did not look at Elias as people stood. She looked at the display, where the consortium’s confidence score still glowed as if numbers could blush. Later she would send him a two-line note that said only: *the seminar is not the point.* He already knew. The point was the calendar.
 
-The meeting ended with Vale inviting Elias to a mandatory seminar titled *Constructive Language for Complex Realities*. It was scheduled for Thursday morning, immediately before the revised water-risk report was due. Elias recognised this as an institutional form of weather: one could predict it, resent it, and still get wet.
+The meeting ended with Vale inviting Elias to a mandatory seminar titled *Constructive Language for Complex Realities*. It was scheduled for Thursday morning, immediately before the revised water-risk report was due.
 
 At 11:20 he sent the unedited analysis to the Treaty Oversight Panel, three independent journalists, the basin labour union, and the Office’s own internal evidence archive. He did not tell anyone.
 
 At 11:31, Vale suspended him.
 
-The letter thanked him for his service, affirmed the Office’s commitment to evidentiary integrity, and expressed confidence that all parties could emerge with a renewed commitment to public trust. It used the word *journey* once, which was how Elias knew it had been through legal. He read it twice, then laughed once. It was the sound of a man discovering that fate had prepared a joke specifically for him and forgotten the part where anyone else laughed.
+The letter thanked him for his service, affirmed the Office’s commitment to evidentiary integrity, and expressed confidence that all parties could emerge with a renewed commitment to public trust. It used the word *journey* once, which was how Elias knew it had been through legal. He read it twice, then laughed once.
 
-A security officer waited with a cardboard box already assembled, as if unemployment were a kind of packed lunch. The officer was kind, which made it worse. Kindness in a corridor is often what institutions use instead of an apology.
+A security officer waited with a cardboard box already assembled. He held the door while Elias packed. Elias needed both hands for the photograph.
 
 At 17:00 he stood outside the ferry terminal with a cardboard box containing a cracked mug, an expired access badge, three unclaimed cables, and the photograph of Mara and Nia he had kept face-down for so long that the dust on its reverse seemed more familiar than their faces.
 
@@ -88,7 +91,7 @@ TOMORROW CAN BE BETTER.
 
 Sponsored by the Coalition for Sustainable Continuity. Hope should be responsibly managed.
 
-In the box, beneath the photograph, was a folded birthday card Nia had made during the last winter before the flood. She had drawn the sea wall as a dragon with square teeth and written brave wall in crooked blue letters above it. Mara had laughed when she saw it and told Elias that even their daughter understood infrastructure better when it was allowed to be frightening.
+In the box, beneath the photograph, was a folded birthday card Nia had made at seven, during the last winter before the flood. She had drawn the sea wall as a dragon with square teeth and written brave wall in crooked blue letters above it. Mara had laughed when she saw it and told Elias that even their daughter understood infrastructure better when it was allowed to be frightening.
 
 He had argued, gently but too long, that frightening people did not always help them act. Mara had touched the little dragon’s teeth with one finger. “No,” she had said. “But pretending teeth are decorative does not help either. You don’t listen when you already know you’re right.”
 
@@ -102,17 +105,19 @@ The kettle clicked. Kofi did not hurry it. He treated boiling as a civic process
 
 “I am suspended.”
 
-“That’s unemployment with a conscience.”
+“Then first, tea. Tomorrow, check your pay.”
 
 Elias looked at the wall of folders behind him. Each was labelled in Kofi’s careful hand. A life reduced to a place where somebody could find it again.
 
 “They want a calmer report.”
 
-“Of course they do. Calm reports don’t have to carry water.”
+“Sit down. Tell me who received yours.”
 
 Kofi opened a drawer and set three paper maps on the counter. They showed the Tolerable’s floors in pencil, marked with small symbols: insulin, oxygen, newborn, lift-dependent, night worker, informal carer.
 
 “Your models are always late,” he said. “We tell them where people live and what they earn and what they own. We do not tell them who carries insulin for the whole floor, or which staircase floods first, or who will keep a child overnight because her mother works a night shift. Then the machine cannot see those things and someone calls it objective.”
+
+The Tolerable was Continuity Grade Four. Its lift repairs waited behind Grade One garden pumps; its communal water allowance expired every evening at six. Kofi kept a list of neighbours with rain-catchers and a separate list of those who would share. Neither list went to the landlord.
 
 Elias touched the edge of one map. It was soft from use. The official maps had never been soft. They were clean, exact, and unhandled, as if a crisis might contaminate the paper.
 

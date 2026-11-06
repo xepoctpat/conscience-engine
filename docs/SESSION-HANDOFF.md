@@ -1,3 +1,11 @@
+# Current handoff — 6 November 2026
+
+The authorised rewrite now lives in content/ (15 records). Read docs/REVISION-2026-11-06.md and docs/READER-PLAN.md first. World bible and architecture have been reconciled. The August PDF remains historical. Existing chapter IDs stay stable; chapter-08b is new. No shell code or media changed. Tactical/Counselor critique rounds remain with the coordinator.
+
+The checkpoint below is historical, not the current manuscript or asset inventory. Its August statements about 14 records, unwritten expansion and missing plates must not overwrite the current manifest.
+
+---
+
 # Session handoff — 2026-08-16 (checkpoint)
 
 The Floodlit Archive reader is the live product. The public spine is now the 2026-08-16 Word export *The Ledger of Consequences* (prologue + 12 chapters + epilogue). The source PDF sits in `drafts/`. Next session: read this file and `AGENTS.md` first. Do not re-import or invent further story.

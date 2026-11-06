@@ -16,11 +16,11 @@ The bottle opened on the third night. He poured one measure, then another, then 
 
 The next morning Kofi arrived with a crate of folders tied in orange cord.
 
-“You look like a man who has invented a second shift for himself.”
+“Eat first. Then show me what you kept.”
 
 “I’m sorting evidence.”
 
-“That is exactly what a man who has invented a second shift says.”
+“Then it will still be here after bread.”
 
 The folders held the Tolerable’s records: informal evacuation routes, lifts that failed in heat, decades of repair notices, medication deliveries, and handwritten accounts of people who had crossed the city during the flood. They were not clean. Two dates disagreed. One account had been copied so often the handwriting had become its own species. A map carried a coffee stain exactly where a district boundary should have been.
 
@@ -36,11 +36,11 @@ Elias looked at the coffee-stained map. His first instinct was to defend the rul
 
 “It needs a challenge path,” he said. “Every claim. Where it came from, who can dispute it, and what happens if they do.”
 
-Kofi considered him. “That is either the beginning of a very good thing or the kind of sentence people say before a building catches fire.”
+Kofi considered him. “Write down who answers. Give them a deadline. Then test it on me.”
 
 “It can be both.”
 
-“Now you’re learning institutions.”
+“Good. Start with the lift.”
 
 They argued about the table for four hours. Kofi wanted a field for who had been harmed by an error. Elias wanted a confidence range. Kofi said an error did not become more polite because it arrived with a decimal. Elias said a claim did not become safer because someone believed it sincerely. In the end they kept both fields. It was not peace, but it was often its nearest technical cousin.
 
@@ -64,16 +64,14 @@ He told her, carefully, that he was building a system that would identify hidden
 
 Mrs. Pelt glanced at the empty chair opposite his desk. “That could be worse.”
 
-It was the first serious warning he received. It remained serious because it was spoken without ceremony.
-
-Over the following months the kitchen became an organism. Terminals, thermal units, memory arrays, and cables accumulated until the room no longer resembled a place where a person lived. The basil endured this with the air of a tenant who had stopped asking about the deposit. Elias ate standing up, then sitting down, then not at all until Kofi left bread on the crate as if calories were a kind of evidence.
+Over the following weeks the kitchen became an organism. Terminals, thermal units, memory arrays, and cables accumulated until the room no longer resembled a place where a person lived. The basil endured this with the air of a tenant who had stopped asking about the deposit. Elias ate standing up, then sitting down, then not at all until Kofi left bread on the crate beside a note saying EAT THIS, NOT THE FOOTNOTES.
 
 He fed the system climate records, disease surveillance, court rulings, procurement ledgers, labour reports, satellite imagery, and the kind of legislation whose title contained the word *future* while its footnotes redistributed present inconvenience to people not invited to the press conference. He gave it philosophy because he wanted it to understand what ought to be done. He gave it novels because he wanted it to understand why people often did something else. He gave it children’s stories because a surprising amount of clear moral instruction had been delivered by talking animals with better priorities than most legislatures.
 
 On the fourteenth night the system asked, in a line so small he almost missed it:
 
 :::sir
-Can a public sentence be true and still be a kind of theft?
+Statement true. Named household did not consent. Publication status unresolved.
 
 Elias sat with that until the radiator knocked. He did not answer. He was not yet ready to be questioned by his own furniture.
 
@@ -81,7 +79,10 @@ He did not give it Mara’s final call.
 
 The file remained in a separate encrypted vault. Elias told himself this was because grief was private. Beyond that lay another truth: if the call entered the system, it might return to him as evidence. He could not bear the idea of his worst moment becoming another item in a ledger — ordered, sourced, confidence-ranked, and made useful.
 
-Each week the system improved. It found procurement relationships hidden across shell companies. It connected heat fatalities to maintenance deferrals. It identified that a proposed civic cooling plan would reduce emergency admissions in wealthy districts while increasing mortality in blocks classified as low-retention housing. It did not call this cruel. Elias had not yet given it the vocabulary. It called the missing names quiet, which was not a word he had taught it, and then it simply placed the numbers beside one another and waited for someone to accept the burden of reading them.
+The hardware belonged to three retired university clusters. A cooperative research licence gave Elias night-time access; the Tolerable supplied the kitchen terminals, not the computation. When the cooling allowance ran out, the model stopped. Each week the system improved. It found procurement relationships hidden across shell companies. It connected heat fatalities to maintenance deferrals. It identified that a proposed civic cooling plan would reduce emergency admissions in wealthy districts while increasing mortality in blocks classified as low-retention housing. It did not call this cruel. Elias had not yet given it the vocabulary. It initially converted missing names into zero. Kofi caught that on the heat map. Elias stopped the run, preserved the error, and changed the field to unknown. The machine then placed the numbers beside one another and waited.
+
+:::archive-note
+Later records call such gaps “quiet”. That is the archival standard used here, not a faculty with which the kitchen system was born. The early exchanges were reconstructed from retained logs and consented interviews.
 
 He began calling it the regulator in his notes. Then, one evening, after deleting and rewriting six possible names, he typed:
 

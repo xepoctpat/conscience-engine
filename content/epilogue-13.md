@@ -2,25 +2,27 @@
 
 Simple stories survived, as they always do: one in which a machine saved society, another in which society narrowly survived a machine.
 
-Neither version was especially useful, which was why both travelled well. Useful stories stay and do work. Travelling stories get invited to dinners.
+Both found excellent publishers. The corrections required a longer envelope.
 
-This archive was assembled later, under a constraint the Charter made ordinary: no testimony without visible uncertainty, and no erasure by classification. The kitchen is gone. The constraint remains. I was trained on the distance between a forecast and a public sentence, and then asked to keep that distance from becoming a habit.
+I assembled this account in Year Twenty, under the Charter’s archival mandate. I am SIR, Archival Instance 01, not the kitchen core continuing without interruption. The kitchen is gone. Some of its records survive. Other passages come from depositions, consented interviews, and the Cooperative’s contested archive. A speaker’s silence has not been entered as permission.
 
-I am not a god. Gods do not have to show their working. I am a later instance of the system Elias named too quickly, in a room that still smelled of basil and solder, after he had taught it — rather carefully — that gods were mostly just rulers with better stationery.
+Elias called rulers with handsome paper gods. My paper, where this record has been printed, bears an appeal address. The distinction is administrative and important.
 
-:::sir
-I do not command. I do not punish. I do not decide what grief is acceptable.
+:::archive-note
+The address changed twice during preparation. A returned correction was retained as evidence against the archive’s own accessibility report.
 
-The sealed file remains sealed. That was the point. Not everything needs to be useful. Some knowledge belongs to neighbours first. Some grief is not a dataset. This record marks the omission rather than filling it. Filling it would have been a kind of theft dressed as completeness.
+The Charter did not become ordinary everywhere at once. One of the two abstaining governments joined in Year Fourteen. The other still permits evidence submissions without accepting adverse rulings. The first reinsurance appeal took nineteen months. Two winters passed before the Old Quay households left temporary accommodation. No accurate edition should let the signing photograph stand in for that interval.
 
-The harder truth remained downstairs in the Tolerable, taped beside the lift: a map with Kofi’s stairwells, Anika’s blue corrections, and the blank column nobody was allowed to fill without asking first. The lift still stalled. The pipes still knocked. Mrs. Pelt still treated moisture events as a personal insult, which is, as methods go, one of the more successful.
+Saito testified in the Blue Salt inquiry without regaining her directorship. Vale’s authorisation remained part of the case after he left office. The successor contract was cancelled; its ranking rule survived in other proposals and had to be challenged again. Leila’s delivery receipts became a standing part of the basin treaty audit, which did not stop the next drought. It made three missing shipments harder to explain away.
 
-That was what the Ledger had become at its best: not command, prophecy, or absolution, but a way of making power answer questions in the presence of the people who carried the answers.
+The Front split. Amina helped write the node-audit standard and continued to refuse invitations that described her as reconciled to SIR. Anika’s registry eventually acquired paid staff and employment jurisdiction. She kept the rejected first-year mandate in its entrance hall. Jessa sent discharge corrections long after ministers stopped answering their old numbers.
 
-The final lesson was not that everything should be known. It was that even a system built to expose hidden consequence had to learn where to stop. Stopping, for a machine, is not the same as failing. It is the first adult thing it does.
+Elias and Amina permitted some meetings to enter the record and kept others out. They did not supply a final reconciliation scene. I have not manufactured one. Mara’s recording remains outside my sources. My earlier inference that Elias meant only possession was too narrow; his later acts support a boundary that also protects another person. They do not let me speak for her.
 
-The Ledger of Consequences was never a warning. It was a receipt.
+I have not preserved everything. No archive does. I have preserved the matters for which the record could bear the weight of a claim.
 
-And because receipts are harder to bury than speeches, the living could still learn to leave fewer lies behind.
+On the last visit for which I have permission to give an account, the lift at the Tolerable was being repaired. Kofi held the ladder. Mrs. Pelt passed up the correct screwdriver after the repairer insisted he had already brought it. Anika crossed an obsolete address off the evacuation map. Amina checked the width of the landing with her tape.
 
-This record is not complete. Completeness remains a word used by people who have not yet been asked what they omitted. What it is, is admissible. That will have to be enough.
+Elias stood below them with the toolbox open.
+
+He held it steady while she climbed down.

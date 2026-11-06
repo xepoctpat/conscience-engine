@@ -1,81 +1,46 @@
 # Reader and novel plan
 
-Queue after the 2026-08-16 checkpoint. Not a license to invent story or assets. Last restore point: `docs/SESSION-HANDOFF.md`.
+## Current checkpoint — 6 November 2026
 
-**Current phase:** reader is public. The live spine is the 2026-08-16 Word export *The Ledger of Consequences* (14 records). Further Word/PDF drops go in `drafts/`, not `content/`.
+The authorised full-spine revision is in `content/`, with fifteen manifest records. It supersedes the August text, not the historical PDF file. The public reader remains a static site deployed from `main` to https://xepoctpat.github.io/conscience-engine/.
 
-## Two documents, two jobs
+See `REVISION-2026-11-06.md` for scope and evidence. `reference/The_Conscience_Engine_World_Bible.md` and `reference/The_Conscience_Engine_Novel_Architecture.md` describe the revised compact edition and distinguish future expansion.
 
-| Document | Path | Job |
-|---|---|---|
-| Floodlit Archive spine | `content/*.md` | What the reader publishes (prologue + 01–12 + epilogue) |
-| Novel manuscript | `drafts/The Ledger of Consequences.pdf` | Word export used for the current spine. |
-| Architecture | `reference/The_Conscience_Engine_Novel_Architecture.md` | Structure for a later long form. Do not treat as the manuscript. |
+## Done in this revision
 
-When a later Word/PDF file should live in this repo, drop it **outside** `content/` (for example `drafts/`). Presentation stays out of the records. Do not auto-split Word into Markdown.
+- Character-rhythm pass and removal of named joke glosses and weight-beat punchlines.
+- Archive-note asides through existing renderer support; no numbered-footnote code.
+- Chapter 08 split into stable `chapter-08` and new `chapter-08b`; all older paths retained.
+- On-page Anika refusal, legal restoration, Amina/Nia provenance and bounded relationship offer.
+- Crisis, command refusal, shutdown, testimony, Charter bargaining and insurer challenge enacted as scenes.
+- Blue Salt, Saito, Jessa, Front, basin delivery, tenancy, allocation and node-audit threads connected to the compact story.
+- Portraits excluded from the current reader pitch. Existing assets retained as references, no media generation.
 
-## Done
+## Next review
 
-- Static reader: `index.html`, `css/reader.css`, `js/reader.js`, `data/chapters.json`
-- Spine loads; cover lockup; atmosphere fields + opt-in audio; Speak + Voice
-- Local `.venv` preview on `127.0.0.1:18780`
-- Public Pages: https://xepoctpat.github.io/conscience-engine/
-- Git: `https://github.com/xepoctpat/conscience-engine`
-- Plates 01, 02, 04 + hero still on disk (04 civic square wired to Chapter 08)
-- Edition chrome is archive language only (no version stamp)
+The coordinating agent will arrange two critique–revise rounds with Tactical and Counselor. They have not been claimed as completed here. Review priorities:
 
-## Constraints
+1. Does the identity inquiry feel earned at this length, and does Amina remain more than a device for Elias?
+2. Do the one-day suspension, human emergency duties and Charter's legal route withstand scrutiny?
+3. Do the dialogue voices differ without becoming repetitive tics?
+4. Does the twenty-year archival frame justify the disclosed private material without overstating knowledge?
+5. Do the new scenes need more breathing room? This is still a compact edition, not a completed long novel.
 
-- Do not invent story. Revise `content/` only when asked, and only the named passage
-- Do not generate image, video, or audio unless asked
-- Operator makes stills and motion in Grok Imagine web; agent wires paths
-- Missing plates stay `null`
-- No framework, no required build
-- Local servers bind `127.0.0.1` only
+## Reader / Engineering
 
-## Next work (when they choose)
+No CSS/JavaScript change is required by this pass. Existing hash navigation uses manifest IDs. The new record has a title-only H1 so its manifest label `Chapter 08B` is retained by the current parser. Its plate is `null`.
 
-### 1. Visuals (most useful for the live reader)
+Optional future Engineering work, not part of acceptance: true numbered/backlinked footnotes; alphanumeric labels parsed directly from headings; an accessible portrait dossier if commissioned. Existing archive-note asides are not described as numbered footnotes. No portrait UI is promised.
 
-Imagine web → drop into `assets/` → `/floodlit-plate`.
+New scenes may no longer match every existing decorative plate. Historical visual prompts map a different long-form plan; do not regenerate assets or substitute images automatically. A visual/editorial review is deferred.
 
-1. Chapter **03** (`plate-03-terms-of-existence.jpg`) — kitchen scene still matches the live record
-2. Dedicated Public Release still for Chapter 08 if the reused civic-square file is retired
-3. Replace 01 / 02 / hero if better frames exist
-4. Remaining plates (match live titles, not the old visual-matrix names)
-5. Optional hero loop: `assets/hero/conscience-engine-hero-archive-loop.mp4`
-6. Character refs → `assets/characters/`
-7. Chapter video only after the still exists
+## Long form and production constraints
 
-Do not treat the old “shutdown choice” prompt as Chapter 08. Live Chapter 08 is *Public Release*. Live Chapter 04 is *The Audit of Reality* and stays `plate: null` until a matching still exists.
+The former 105,000–120,000-word/five-act proposal is future scope. A border riot, deeper faction plots and broader abundance-economy testing remain expansion candidates. The old Word/PDF is historical; a new export must be deliberate, not an automatic import over `content/`.
 
-Then commit and push so Pages matches.
-
-### 2. Novel (Word, separate)
-
-Write and revise the book in Word. Do not expand the 13 Markdown files “to match” the novel unless they ask.
-
-Later, if they want a chapter in the reader:
-
-1. They name the record (or drop the `.docx` and point at a section)
-2. Extract only that piece into `content/`
-3. Sync `title` / `label` in `data/chapters.json`
-4. Do not add `:::hint` / `:::reveal` until the Markdown uses those marks
-
-### 3. Shell
-
-Only if something is felt: phone cover type, print from a real printer, Speak.
-
-Do not add accounts, analytics, a gallery, or a `file://` bundle unless asked.
-
-## Decision log
-
-| Decision | Choice |
-|---|---|
-| Reader vs novel | Spine in Markdown; full book in Word until extract is asked |
-| Visuals | Operator, Imagine web; wire only |
-| Hosting | GitHub Pages from `main` |
-| Server | Localhost `.venv`, port 18780 |
-| Audio | Opt-in; never autoplay |
-| Missing plates | `null`, no stand-ins |
-| Version chrome | None |
+- Keep story records separate from presentation.
+- Generate no plates, portraits, audio or video without an explicit request.
+- Wire only existing, checked assets; absent plates remain `null`.
+- Preserve stable chapter IDs. Update the manifest with any new record.
+- Keep the shell framework-free and audio opt-in.
+- Local preview uses the project virtualenv and binds `127.0.0.1:18780` only.

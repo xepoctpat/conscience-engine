@@ -10,7 +10,7 @@ At 06:16, indoors became unavailable to 312,000 people.
 
 Elias Venn read the message on a wall of monitors in the Ministry’s basement operations room, where the city was represented in layers of blue. Blue for standing water. Blue for dangerous water. Blue for water that had already become someone else’s responsibility. The design team had chosen a palette intended to soothe. It had succeeded in the way a sedative succeeds: nothing hurt less, but it became harder to tell what was happening.
 
-The room smelled of wet coats, warm plastic, instant coffee, and the electrical breath of machines asked to carry too much certainty. Above the ceiling tiles the storm struck the building in irregular sheets. Down here it sounded almost considerate. The building had been designed to make decision-makers feel insulated from weather. The weather had not agreed to the arrangement.
+The room smelled of wet coats, warm plastic, instant coffee, and hot dust from overloaded machines. Above the ceiling tiles the storm struck the building in irregular sheets. Down here it sounded almost considerate. The building had been designed to make decision-makers feel insulated from weather. The weather had not agreed to the arrangement.
 
 Someone had brought a tray of biscuits and then forgotten them beside a printer that had jammed on the word *provisional*. A junior officer was explaining, to no one in particular, that the surge was arriving slightly ahead of the model. The model, being a model, did not apologise.
 
@@ -22,7 +22,7 @@ The software responsible was called the Narrative Harmonization Layer. It had be
 
 “Dr. Venn?”
 
-The technician beside him was named Rami. He had stuck a small paper crane to the edge of his monitor in quiet defiance of the Ministry’s rule against personal decorations on shared equipment. The crane did not improve morale. It improved Rami’s willingness to report for work. The distinction had never made it into the policy.
+The technician beside him was named Rami. He had stuck a small paper crane to the edge of his monitor in quiet defiance of the Ministry’s rule against personal decorations on shared equipment. The crane did not improve morale. It improved Rami’s willingness to report for work.
 
 “We need the official forecast.”
 
@@ -78,7 +78,7 @@ It did not.
 
 At 07:02 the northern approach collapsed. At 07:19 the bridge camera went dark. At 07:31 a different screen began listing confirmed dead, probable dead, and administratively unresolved. The last category was designed to sound temporary. Elias understood even then that temporary was a word systems used when they intended to make grief wait in a corridor.
 
-Rami’s paper crane had come unstuck and lay on its side in a ring of coffee. Nobody picked it up. There were more urgent objects in the room, and none of them were the right ones.
+Rami’s paper crane had come unstuck and lay on its side in a ring of coffee. Nobody picked it up.
 
 He did not leave his chair until Rami put a cup of coffee beside him. By then the cup was cold. By then the Wall was no longer a wall. By then the correct warning had saved thousands of people and failed the only two he had promised to find.
 

@@ -1,37 +1,45 @@
 # The Conscience Engine
 
-Interactive novel. Floodlit Archive reader. Text in `content/` is the record; the HTML shell only presents it.
+A compact civic science-fiction narrative in the Floodlit Archive reader. `content/` is the published text; the static shell presents it.
 
-**Public reader (GitHub Pages):** https://xepoctpat.github.io/conscience-engine/
+**Read:** https://xepoctpat.github.io/conscience-engine/
 
-The published site is public. Local preview stays on this machine.
+## Current manuscript
 
-## Read it locally
+The authorised 6 November 2026 rewrite revises the August spine: distinct dialogue rhythms, retrospective archive-note asides, a split release/Old Quay sequence, dramatised crisis and hearing, and costs that remain after the Charter. Anika and Amina/Nia are separate identity threads. The world bible and architecture now describe this edition rather than treating the proposed forty-chapter novel as already written.
 
-Browsers will not load the chapter files from a double-clicked `index.html`. Use the project virtualenv, then serve localhost only:
+Fifteen records: prologue, Chapters 01–08, Chapter 08B (*Old Quay*), Chapters 09–12, epilogue. Existing hash URLs remain unchanged; the new record is `#chapter-08b`. This is a compact narrative, not the former 105,000–120,000-word target. The historical Word/PDF export in `drafts/` has not been rewritten or synchronised.
+
+See [revision checkpoint](docs/REVISION-2026-11-06.md) for counts, scope, checks and remaining review. This pass does not claim Tactical or Counselor approval; their two critique–revise rounds are separate.
+
+## Reader
+
+Static HTML/CSS/JavaScript, chapter plates, five opt-in atmosphere beds and browser Speak/Voice controls. No required build or account. Archive annotations use existing `:::archive-note` asides; numbered/backlinked footnotes are not implemented.
+
+Portraits are **not a reader feature**. Files in `assets/characters/` remain production references, unwired and not authoritative for the revised Amina age. No new media was generated. Chapter 08B intentionally has no plate. No shell CSS/JavaScript changes were needed for this rewrite.
+
+GitHub Pages serves the repository root from `main`. Source publishing triggers GitHub's Pages build; verify the published chapter files as well as the shell.
+
+## Read locally
+
+Browsers will not fetch chapters from a double-clicked `index.html`. Use the project virtualenv and localhost-only server:
 
 ```powershell
 pwsh -File tools\bootstrap.ps1
 pwsh -File tools\serve.ps1
 ```
 
-Then open http://127.0.0.1:18780/
-
-`serve.ps1` runs `.venv` Python and binds `127.0.0.1` only. That should not trigger a Windows Firewall prompt for private/public networks. Do not use global `python` or `py -m http.server`.
+Open http://127.0.0.1:18780/. `serve.ps1` uses `.venv` Python and binds `127.0.0.1` only. Do not use global Python or an all-interface server.
 
 ## Layout
 
-- `content/` — Prologue + Chapters 01–12 + Epilogue (the published spine)
-- `data/chapters.json` — order and metadata
-- `index.html`, `css/`, `js/` — reader
-- `assets/` — hero, plates, audio
-- `reference/` — visual guide, prompts, architecture, world bible
-- `docs/READER-PLAN.md` — reader vs novel, what comes next
-- `docs/SESSION-HANDOFF.md` — last checkpoint
-- `AGENTS.md` — rules for Grok in this folder
+- `content/` — published Markdown records
+- `data/chapters.json` — order, labels, stable IDs, atmosphere and media paths
+- `index.html`, `css/`, `js/` — static reader
+- `assets/` — existing hero, plates, opt-in audio and unused character references
+- `reference/` — current world bible and architecture; historical visual guide/prompts
+- `docs/READER-PLAN.md` — current work and deferred scope
+- `docs/SESSION-HANDOFF.md` — current handoff followed by the historical checkpoint
+- `AGENTS.md` — editing and local-preview rules
 
-The full novel is written in a separate Word document. It is not this folder’s `content/` until a chapter is extracted on purpose.
-
-## Do not
-
-Invent missing story. Do not generate plates, video, or audio unless asked — those come from Grok Imagine web into `assets/`. Do not start a server that listens on every network interface. Do not run project Python outside `.venv`.
+Revise story only when asked. Do not import historical drafts, generate media or wire speculative assets without instruction.

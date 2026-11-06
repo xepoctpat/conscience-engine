@@ -2,7 +2,7 @@
 
 Interactive novel + Floodlit Archive reader. Static HTML shell.
 
-**Current phase:** reader is live (local + GitHub Pages). The published spine is the 2026-08-16 Word export in `content/` (14 records). The source PDF is in `drafts/`. See `docs/SESSION-HANDOFF.md` and `docs/READER-PLAN.md`. Do not re-import the manuscript or start plate/video work unless the operator asks or drops files to wire.
+**Current phase:** reader is live (local + GitHub Pages). The published text is the authorised 2026-11-06 revision in `content/` (15 records, including Chapter 08B). The August source PDF in `drafts/` is historical and has not been synchronised. See `docs/REVISION-2026-11-06.md`, `docs/SESSION-HANDOFF.md` and `docs/READER-PLAN.md`. Do not re-import the manuscript or start plate/video work unless the operator asks.
 
 ## Hard limits
 
@@ -41,7 +41,7 @@ Interactive novel + Floodlit Archive reader. Static HTML shell.
 - All visual decisions live in CSS custom properties on `:root` and `[data-atmosphere]`.
 - Atmosphere names and media paths live in `data/chapters.json`.
 - Future immersive layers listen for `ce:chapterchange` and `data-atmosphere` / `data-audio`. Do not autoplay audio.
-- Titles come from each file’s `#` heading. If a heading changes, update the matching `title` / `label` in the manifest.
+- Titles come from each file’s `#` heading. If a heading changes, update the matching `title` / `label` in the manifest. Chapter 08B uses title-only `# Old Quay`; its alphanumeric label comes from the manifest, so no reader parser change is needed.
 - Missing `plate` stays `null`. A 404 plate must not leave a broken figure.
 
 ## Local preview

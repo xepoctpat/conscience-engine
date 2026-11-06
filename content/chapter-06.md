@@ -2,15 +2,15 @@
 
 Anika Rehn arrived during autumn by refusing to be entered as a visitor.
 
-The Tolerable’s door scanner asked for a temporary identification token. A small blue light waited with the patience of a clerk. Anika looked at it, then at Elias.
+The Tolerable’s door scanner asked for a temporary identification token. A small blue light blinked over the rejected token. Anika looked at it, then at Elias.
 
-“It wants me to borrow existence from you.”
+“Visitor protocol 4.2. A living sponsor for a dead applicant. Open the manual door.”
 
 Elias began to explain that it was only access protocol. Kofi, from behind the counter, said, “No, she has it right.” He opened the door manually. The scanner, denied its little ritual, went on glowing as if offended on principle.
 
 She carried a brown folder under one arm and a thermos in the other. Elias assumed, wrongly, that she had come for help. He had already begun composing the gentle version of no when she placed the folder on his table, turned his terminal slightly toward herself, and said, “Show me where your machine stores people it fails to recognise.”
 
-It took him eighteen minutes to discover that he did not have a good answer. It took Anika four to find the missing category. She did not smile when she was right. She only uncapped a pen with her teeth and drew a square around an empty field that had not known it was empty. The square was not neat. It did not need to be. Absence, once outlined, is difficult to unsee.
+It took him eighteen minutes to discover that he did not have a good answer. It took Anika four to find the missing category. She did not smile when she was right. She only uncapped a pen with her teeth and drew a square around an empty field that had not known it was empty.
 
 Officially, she had died eight years earlier during an identity reconciliation failure triggered by emergency database consolidation.
 
@@ -28,7 +28,9 @@ When Elias showed her SIR's architecture, she identified weaknesses within an ho
 
 “It understands documented consequences. Those are different things.”
 
-She stayed.
+“I need a recognition-failure register I can cite in court,” she said. “Not a favour from its inventor. An entry with a receipt and an appeal deadline.”
+
+She stayed to build it.
 
 She did not stay as an assistant. She made this clear the first evening, when Elias offered her a guest login and she asked whether it came with the right to be wrong in a way the system had to remember. Guest, in this building, had always meant *real enough to make tea, not real enough to be owed an explanation*.
 
@@ -56,13 +58,13 @@ The clerk blinked, checked a box, and produced another form requiring confirmati
 
 The clerk lowered his voice. “Not until the system agrees you exist.”
 
-She told Elias this without ornament, as if ornament would have been a kindness the story had not earned. “Your Ledger needs a place for impossible people. Not rare people. Not edge cases. Impossible people. The ones your categories produce and then punish for existing.”
+She told Elias this without ornament, as if ornament would have been a kindness the story had not earned. “Section nine permits correction of a wrong value. It does not permit correction of a missing person. Your register must accept the person before the office accepts the correction.”
 
 Kofi agreed before Elias could object. “Every building has them,” he said. “People who live between forms. If your machine cannot see them, it will help the right people faster and the missing people never.”
 
-So they added a disputed-existence register, then argued for two days over the name because Anika said disputed made it sound as if she might lose a debate about being alive. The final field was called recognition failure. Elias disliked its bluntness. Anika said blunt tools were often the only ones that reached bone.
+So they added a disputed-existence register, then argued for two days over the name because Anika said disputed made it sound as if she might lose a debate about being alive. The final field was called recognition failure. Elias disliked its bluntness. Anika wrote RECOGNITION FAILURE across the draft form and initialled it.
 
-The argument ended badly, then usefully. Elias said blunt names could make a system seem hostile. Anika asked whether he meant hostile to error or hostile to people who preferred error with curtains. Kofi, who had been pretending to repair a drawer nearby, said the drawer had heard enough and voted for bluntness.
+The argument ended badly, then usefully. Elias said blunt names could make a system seem hostile. Anika asked him to identify the clause that required an error to feel welcome. Kofi, who had been pretending to repair a drawer nearby, said, “Name it. Test it. Then eat.”
 
 SIR recorded the vote.
 
@@ -70,3 +72,19 @@ SIR recorded the vote.
 Recognition failure. Not an edge case. A product of the categories.
 
 Mrs. Pelt, passing with laundry, said that was the first sensible sentence she had heard from a machine, and that she would not be repeating the compliment.
+
+A week later another young woman came to challenge the cooling map. Amina Rohe was eighteen, a hydraulic apprentice with the Human Sovereignty Front. She brought a pressure gauge and refused a guest login.
+
+“Source for that evacuation route?” she asked.
+
+“Municipal transport,” Elias said.
+
+“Then you have its destination. You do not have its capacity.” She put the gauge beside his keyboard. “Come and measure it.”
+
+Anika told her the Front was a lobby for frightened officials. Amina took back the gauge.
+
+“I repair their tanks. You can dislike their meetings after you have carried their water.”
+
+Elias went with her. Anika did not, and the first version of her register went to testing without the displaced apprentices whose addresses were held by their employers. It rejected three of them. She brought Amina the failed forms the next morning.
+
+“Tell me what I excluded,” she said. It took her some effort not to add a clause.

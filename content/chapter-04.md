@@ -10,9 +10,7 @@ The case concerned a cooling network in West Orison, a district that appeared in
 
 It traced one broken pump backward through a maintenance deferral, then through a procurement cap, then through a budget rule designed to reward departments for savings that did not become visible elsewhere for at least eighteen months. The deaths had not been caused by one negligent official. They had been manufactured by a sequence of sensible decisions protected from one another by departmental borders. Each border had a name, a letterhead, and a person who could say, truthfully, that the heat had not been their heat.
 
-Elias realised that most institutions did not conceal consequences. They fragmented them.
-
-He made a note to call this fragmentation. Then he crossed it out. The word sounded too clean. On the screen, three old people had died in rooms that were technically separate from the decision that made the rooms hot. Elias rubbed the bridge of his nose until little false lights appeared behind his eyes. The basil, unimpressed, continued its career as a moral witness.
+On the screen, three old people had died in rooms that were technically separate from the decision that made the rooms hot. Elias rubbed the bridge of his nose until little false lights appeared behind his eyes. The basil, unimpressed, continued its career as a moral witness.
 
 SIR began producing consequence maps.
 
@@ -26,7 +24,7 @@ Then a clinic director in West Orison printed one of the maps and taped it above
 
 The clinic director was named Jessa Malk, and she had the habit of carrying three pens because two always disappeared into the emergency ward. She did not ask Elias for permission. She printed the map on the old machine next to payroll, watched the first copy jam, swore with administrative precision, then printed it again. When a procurement officer called to ask whether she had authorisation to display internal analysis, Jessa looked at the queue of patients fanning themselves with appointment letters and said, “No, but I have witnesses.”
 
-The officer asked whether the wall was an approved communication surface. Jessa asked whether heat was an approved cause of death. Neither question was, strictly, the one that had been asked. Both were the ones that mattered.
+The officer asked whether the wall was an approved communication surface. Jessa asked whether heat was an approved cause of death.
 
 By closing time, someone had written beside the red line in marker.
 
@@ -40,7 +38,7 @@ He called the clinic because he wanted the map corrected before it travelled far
 
 Jessa laughed once. “Doctor, there are four people in my corridor who can tell you what it means without that sentence.”
 
-The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “Yes, I displayed internal analysis. No, I do not know whether the wall is an approved communication surface. Yes, you may send me the policy. Please include the paragraph where a cost saving becomes more entitled to privacy than the bodies it saved money from.” There was a pause. “Good. Then we agree it can stay up until you find one.”
+The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “Yes, I displayed internal analysis. No, I do not know whether the wall is an approved communication surface. Yes, you may send me the policy. Which clause protects the saving? Which protects the patient?” There was a pause. “Good. Then we agree it can stay up until you find one.”
 
 A man in a paper mask asked whether the line meant his mother’s room had overheated because someone had not bought a pump. Jessa looked at the map, then at Elias through the open call. Elias tried to assemble an answer precise enough not to betray the truth.
 
@@ -51,6 +49,6 @@ The man nodded as if this confirmed something he had known before anyone gave it
 That night, in the kitchen, SIR left a line on the terminal that Elias almost deleted out of habit.
 
 :::sir
-The rooms were never separate from the decision. Only the filing was.
+Causal link retained across departmental boundaries. Filing categories are not causal boundaries.
 
 He left it. Downstairs the pipes knocked, and for once he did not mistake the sound for a verdict.

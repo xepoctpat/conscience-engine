@@ -131,8 +131,19 @@
       "audio": "assets/audio/pressureline.mp3"
     },
     {
-      "id": "chapter-09",
+      "id": "chapter-08b",
       "order": 9,
+      "accession": "CE-08B",
+      "label": "Chapter 08B",
+      "title": "Old Quay",
+      "file": "content/chapter-08b.md",
+      "atmosphere": "pressure-line",
+      "plate": null,
+      "audio": "assets/audio/pressureline.mp3"
+    },
+    {
+      "id": "chapter-09",
+      "order": 10,
       "accession": "CE-09",
       "label": "Chapter 09",
       "title": "Hostile Interest",
@@ -143,7 +154,7 @@
     },
     {
       "id": "chapter-10",
-      "order": 10,
+      "order": 11,
       "accession": "CE-10",
       "label": "Chapter 10",
       "title": "Terms for a God",
@@ -154,7 +165,7 @@
     },
     {
       "id": "chapter-11",
-      "order": 11,
+      "order": 12,
       "accession": "CE-11",
       "label": "Chapter 11",
       "title": "The Hearing",
@@ -165,7 +176,7 @@
     },
     {
       "id": "chapter-12",
-      "order": 12,
+      "order": 13,
       "accession": "CE-12",
       "label": "Chapter 12",
       "title": "The Choice",
@@ -176,7 +187,7 @@
     },
     {
       "id": "epilogue-13",
-      "order": 13,
+      "order": 14,
       "accession": "CE-13",
       "label": "Epilogue",
       "title": "What Remains",

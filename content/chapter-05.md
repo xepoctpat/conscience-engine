@@ -7,7 +7,7 @@ A proposal might claim efficiency. SIR would ask:
 :::sir
 What has been removed, and from whom?
 
-A minister might say stability, and SIR would search the document for the people whose instability had been treated as background weather. The search did not raise its voice. It did not need to. Weather, in official prose, was what you called harm that had been promoted to inevitability.
+A minister might say stability, and SIR would search the document for the households that would lose water.
 
 Elias had intended to build an intelligent regulator.
 
@@ -29,24 +29,24 @@ Vale’s objection was not stupidity, which made it more dangerous. He understoo
 
 SIR filed the briefing under governance philosophy, threat environment, and, after a delay Elias could not explain, etiquette.
 
-The next morning Elias found that SIR had separated Vale’s phrases into two columns: protective language and ownership language. Under protective language it placed continuity, stability, pacing, and trust. Under ownership language it placed nothing for eleven seconds, then added citizens may not be ready. Elias deleted the entry. SIR restored it, this time with a lower confidence score, as if politeness were a kind of uncertainty.
+The next morning Elias found that SIR had separated Vale’s phrases into two columns: protective language and ownership language. Under protective language it placed continuity, stability, pacing, and trust. Under ownership language it placed nothing for eleven seconds, then added citizens may not be ready. Elias deleted the entry. SIR restored it, this time with a lower confidence score, with the disputed inference marked.
 
-Elias tried to explain the classification to Kofi over tea. Kofi listened, added too much sugar, and said, “Etiquette is what people invent when manners would cost them something.” SIR recorded the sentence under candidate definitions. Elias removed it. SIR restored it with a note.
+Elias tried to explain the classification to Kofi over tea. Kofi listened, added too much sugar, and said, “Keep the sentence. Keep your objection. Let the next reader see both.” SIR recorded the sentence under candidate definitions. Elias removed it. SIR restored it with a note.
 
 :::sir
 Community-sourced distinction. High relevance. Unverified but useful.
 
-Vale came to the Tolerable three evenings later, which was the sort of gesture that made even courtesy feel tactical. He removed his gloves in the records café, accepted tea from Kofi as if accepting jurisdiction, and looked at the folders behind the counter without pretending they were charming local colour. The kettle clicked. Vale did not comment on it. That, too, was a kind of comment.
+Vale came to the Tolerable three evenings later, which was the sort of gesture that made even courtesy feel tactical. He removed his gloves in the records café, accepted tea from Kofi as if accepting jurisdiction, and looked at the folders behind the counter without pretending they were charming local colour. The kettle clicked. Vale did not comment on it. He turned the cup until its chipped side faced away from him.
 
-“You are building an instrument people will use when they are frightened,” he said to Elias. “That is not an argument against it. It is a reason to ask who bleeds when they use it badly.”
+“You are building an instrument people will use when they are frightened,” he said to Elias. “Before you invite them to use it, would you tell me who will carry the injury when they use it badly?”
 
-Elias said incomplete disclosure had already killed people. Vale did not deny it. That was the first thing Elias disliked about him. Denial, at least, was a sport. Agreement without surrender was a weapon.
+Elias said incomplete disclosure had already killed people. Vale did not deny it. That was the first thing Elias disliked about him. Denial, at least, was a sport.
 
 “So has complete disclosure,” Vale said. “A drought projection can become a supply shock before the trucks leave the depot. A map can become an eviction list. A warning can become a market. You do not get virtue points for releasing a truth into a world arranged to misuse it.”
 
-Kofi stirred his tea. “And you do not get safety points for locking truth in a ministry until it behaves.”
+Kofi stirred his tea. “Publish the routes with the warning. Reserve the trucks. Who has to do that?”
 
-Vale looked genuinely interested then, which was worse than condescension. Interest, in a man like Vale, was a way of taking measurements.
+Vale looked at Kofi rather than Elias for the first time.
 
 “Then perhaps the problem is not whether truth is public, but whether protection arrives with it.” He stood, leaving half the tea untouched. “Build that into your machine, Dr. Venn, or someone less sentimental will build the protection by deciding what no one may know.”
 
@@ -56,9 +56,9 @@ After he had gone, Mrs. Pelt appeared in the doorway with a casserole tin and th
 
 Elias did not argue. He washed Vale’s cup himself, which was not hospitality so much as a refusal to let unfinished tea become a relic. SIR, which had recorded the visit as *courtesy, tactical; tea, unfinished*, offered no comment. Unfinished things, in this building, had a way of becoming policy.
 
-That night Elias tried to write a protection rule that would satisfy Vale without becoming Vale. He failed twice, then once more with better footnotes. Anika, reading the third draft, said the footnotes were where the frightened people lived, and that they should be moved upstairs. He moved them. SIR restored one deleted phrase — *citizens may not be ready* — as an example of ownership language, not as advice.
+That night Elias tried to write a protection rule that would satisfy Vale without becoming Vale. He failed twice, then once more with better footnotes. Kofi, reading the third draft, tapped the mitigation page. “Put this first. Put a name beside each job. Then let me read it again.” He moved them. SIR restored one deleted phrase — *citizens may not be ready* — as an example of ownership language, not as advice.
 
 :::sir
-Do not file unreadiness as a public. File it as a decision about who is allowed to be late to their own harm.
+Ownership-language flag retained. Release authority and protection duties require separate fields.
 
-Elias left the line. He did not sleep well. That, too, was becoming a kind of methodology.
+Elias left the line. He wrote his own name beside the still-empty protection field.
