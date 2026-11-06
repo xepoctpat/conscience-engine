@@ -38,7 +38,7 @@ He called the clinic because he wanted the map corrected before it travelled far
 
 Jessa looked down the corridor. “Four patients here can explain it.”
 
-The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “The map is staying up.” The officer began reading the wall-display policy. She waited until he reached the exceptions. “My patients are reading it.”
+The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “The map is staying up.” The officer began reading the wall-display policy. She waited until he reached the exceptions. “You can send the removal order to me. I’ll pin it beside the map.”
 
 A man in a paper mask asked whether the line meant his mother’s room had overheated because someone had not bought a pump. Jessa looked at the map, then at Elias through the open call. Elias tried to assemble an answer precise enough not to betray the truth.
 

@@ -125,7 +125,7 @@ On the sixth day Anika laid her death certificate beside the aide’s offer and 
 
 “Yet the process worked,” Vale’s counsel said.
 
-“Which ordinary applicant can pay for three months of preparation? Section nine still requires the identity being corrected before it accepts the claim.”
+“Section nine still requires the identity being corrected before it accepts the claim. An ordinary applicant cannot pay for three months of preparation.”
 
 She held up the endorsement declaration she had refused.
 

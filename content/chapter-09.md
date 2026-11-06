@@ -27,7 +27,7 @@ The first fires were not in East Meridian. They were in a remittance town across
 
 Anika found the missing line before SIR did. She recognised the pattern in a ledger of rejected housing claims, where addresses were false because people had learned real addresses could be used against them.
 
-“Your employment table has payroll entries,” she told Elias. “Where do the remittance slips go?”
+“The missing-data rule applies to remittances too,” she told Elias. “Where do those slips go?”
 
 Elias wanted to call the prediction wrong. Anika would not let him. “If those dependencies have no field, how can you certify a correction?”
 
@@ -70,13 +70,13 @@ Elias took the list of Old Quay households from his pocket. He had written the n
 
 The mistake changed Elias more than the threats did. Threats confirmed his theory of institutions. The mistake threatened his theory of himself. He had believed that if consequences could be shown clearly enough, good decisions would at least become harder to avoid. Now he had to admit that clarity could distort when it arrived without the lives it had failed to count.
 
-He began making tea and leaving it untouched. Kofi noticed on the fourth cup and said nothing, which was how Elias knew he was angry. Anika noticed the same afternoon and moved the cups into a line on the counter.
+He began making tea and leaving it untouched. On the fifth cup Kofi moved them into a line on the counter.
 
-“Which call are you postponing with the fifth cup?”
+“Put that down. Call the solicitor. Then drink one.”
 
 For the first time, Elias considered shutting the Ledger down. The thought arrived dressed as morality and smelled, on inspection, like escape. Anika stopped him not with faith, but with contempt for drama.
 
-She spread the seventeen open appeals on the counter. “Who has agreed to take the six bearing your name if you resign?”
+She spread the seventeen open appeals on the counter. “The handover rule requires a named successor. Who has agreed to take your six?”
 
 That night SIR issued a revision protocol. Every projection would now include visible dependency gaps, contested data channels, informal-economy exposure, and a refusal to produce clean certainty where the world had supplied dirty evidence.
 

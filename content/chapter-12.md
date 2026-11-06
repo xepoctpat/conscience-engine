@@ -6,7 +6,7 @@ Pelagic Assurance had calculated a premium increase for heat-vulnerable blocks, 
 
 “The forecast contains commercial material.”
 
-“Under clause three, may we see the inputs on which you propose to change essential cover?”
+“Clause three puts those inputs on the public record.”
 
 The representative requested a private room. Mrs. Pelt, present as a policyholder, said there was a broom cupboard upstairs if he wished to rehearse there first.
 
@@ -93,10 +93,12 @@ Anika arrived after Amina had gone. She was carrying forms for the registry’s 
 
 Upstairs, the kitchen had room for three chairs again. The research interfaces were at the Cooperative; the private vault terminal remained on his desk. The bottle was gone, but he had kept the telephone number Kofi had helped him find. He had attended two recovery meetings. At the first he had corrected the facilitator’s description of probability. At the second he had said why he was there.
 
-SIR’s local interface asked whether he wanted to review a question he had delayed for eleven years.
+SIR’s local interface opened an access prompt.
 
 :::sir
 You reported a private recording. Would you like assistance deciding its access conditions? Content not requested.
+
+Elias rested a finger on the vault key. “You’re less than a year old. I’ve been putting this off for eleven.”
 
 Mara’s final call remained outside the network. The routing log had answered a public question about the rescue corridor without it. The call could not tell him what to say to Amina next week. It could not turn the minutes he had stayed at his console into a verdict that would let him stop living them.
 
@@ -108,7 +110,7 @@ Beside the lift, the evacuation map now had Kofi’s stairwells, Anika’s corre
 
 Anika sat on the chair by the window.
 
-“Then leave it outside the model.”
+“Your consent clause covers this too.”
 
 He closed the access prompt. SIR retained the boundary, not the contents. He set the vault terminal in the drawer. Closing it was not an acquittal, and he did not pretend to feel one.
 

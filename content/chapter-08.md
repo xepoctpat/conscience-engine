@@ -38,7 +38,7 @@ The council postponed the vote. This was mistaken for victory until the next mor
 
 That was the hinge. Before the firms, ministers could dismiss the Ledger as activist theatre. After the firms, it became infrastructure outside their control. Moral panic had been tolerable. Market panic required legislation.
 
-Anika printed the first investment prospectus and attached it to the release log. “Does your authorisation cover this investment use, or is the protection field still blank?”
+Anika printed the first investment prospectus and attached it to the release log. “The release rule requires a protection review. Your investment use has none.”
 
 That night Elias reached for the separate vault terminal and stopped before entering the password. SIR had no connection to it. He told Kofi what he had nearly done; neither of them put that confession in the release log.
 
@@ -75,7 +75,7 @@ He slid over a correction petition and an endorsement declaration. A paperclip j
 
 “Sign the declaration first. We lodge both today.”
 
-“By which clause does an endorsement have to accompany a correction petition?” Anika asked.
+“Section nine requires evidence of identity, not endorsement of a bill,” Anika said.
 
 “The minister needs assurance that—”
 

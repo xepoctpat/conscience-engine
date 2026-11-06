@@ -10,7 +10,7 @@ The authorised 6 November 2026 rewrite revises the August spine: improved dialog
 
 Fifteen records: prologue, Chapters 01–08, Chapter 08B (*Old Quay*), Chapters 09–12, epilogue. Existing hash URLs remain unchanged; the new record is `#chapter-08b`. This is a compact narrative, not the former 105,000–120,000-word target. The historical Word/PDF export in `drafts/` has not been rewritten or synchronised.
 
-See [revision checkpoint](docs/REVISION-2026-11-06.md) for counts, scope, checks and round-1 changes responding to Tactical and Counselor. Voice differentiation remains an improvement, not a closed finding; round-2 review is still separate.
+See [revision checkpoint](docs/REVISION-2026-11-06.md) for counts, scope, checks and round-1 and final round-2 changes responding to Tactical and Counselor. Voice differentiation remains an improvement, not a closed finding; critic acceptance is not claimed.
 
 ## Reader
 

@@ -51,7 +51,7 @@ The proposed rent-stabilisation plan looked generous until the Ledger followed i
 
 Kofi, who had been invited as a community observer and then placed near the refreshments, said, “Give us the review date. Give us the tenant list. Invite them before you vote.”
 
-The chair called that unfair. Anika asked which part. Elias watched the room turn against the tool not because it was wrong, but because it had arrived before everyone had agreed where the blame should sit. Blame, like seating, was a matter of protocol.
+The chair called that unfair. “Your consultation rule requires the tenants here before the vote,” Anika said. Elias watched the room turn against the tool not because it was wrong, but because it had arrived before everyone had agreed where the blame should sit. Blame, like seating, was a matter of protocol.
 
 The pilot ended with a request for a revised presentation, not a revised policy. On the train home Elias told himself this was a normal institutional response. Across from him, Anika wrote a note in the margin of the pilot brief: Review requested; policy unchanged; affected tenants not invited.
 
