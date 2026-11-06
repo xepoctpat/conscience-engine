@@ -18,7 +18,7 @@ See `REVISION-2026-11-06.md` for scope and evidence. `reference/The_Conscience_E
 
 ## Next review
 
-The coordinating agent will arrange two critique–revise rounds with Tactical and Counselor. They have not been claimed as completed here. Review priorities:
+Round-1 reports from Tactical and Counselor have been applied; see the round-1 section of `REVISION-2026-11-06.md`. The coordinating agent owns the remaining round-2 review. Rhythm differentiation is improved, not closed. Review priorities:
 
 1. Does the identity inquiry feel earned at this length, and does Amina remain more than a device for Elias?
 2. Do the one-day suspension, human emergency duties and Charter's legal route withstand scrutiny?

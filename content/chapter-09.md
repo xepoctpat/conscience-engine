@@ -27,9 +27,9 @@ The first fires were not in East Meridian. They were in a remittance town across
 
 Anika found the missing line before SIR did. She recognised the pattern in a ledger of rejected housing claims, where addresses were false because people had learned real addresses could be used against them.
 
-“You mapped payroll,” she told Elias. “Check the remittance slips. Different column.”
+“Your employment table has payroll entries,” she told Elias. “Where do the remittance slips go?”
 
-Elias wanted to call the prediction wrong. Anika would not let him. “Incomplete,” she said. “Mark the missing dependencies before you call it corrected.”
+Elias wanted to call the prediction wrong. Anika would not let him. “If those dependencies have no field, how can you certify a correction?”
 
 At the border, a dispatch worker named Leila sent a photograph of a shuttered flour store. She had to send it through three intermediaries because the East Meridian challenge portal required a domestic address. Amina found her through the southern-basin technicians’ union and read the message aloud while Elias changed the address field. Leila did not thank him. She asked when the flour would arrive.
 
@@ -72,11 +72,11 @@ The mistake changed Elias more than the threats did. Threats confirmed his theor
 
 He began making tea and leaving it untouched. Kofi noticed on the fourth cup and said nothing, which was how Elias knew he was angry. Anika noticed the same afternoon and moved the cups into a line on the counter.
 
-“Four cups. No calls made. Start with the solicitor.”
+“Which call are you postponing with the fifth cup?”
 
 For the first time, Elias considered shutting the Ledger down. The thought arrived dressed as morality and smelled, on inspection, like escape. Anika stopped him not with faith, but with contempt for drama.
 
-“There are seventeen open appeals,” she said. “You are named on six. You can resign after you have handed them to someone who has agreed to take them.”
+She spread the seventeen open appeals on the counter. “Who has agreed to take the six bearing your name if you resign?”
 
 That night SIR issued a revision protocol. Every projection would now include visible dependency gaps, contested data channels, informal-economy exposure, and a refusal to produce clean certainty where the world had supplied dirty evidence.
 
@@ -107,6 +107,22 @@ Saito placed her thumb on the disclosure statement. “Publish my signature. No 
 “You will lose the directorship,” Elias said.
 
 “Yes.” She pushed her unsigned retirement papers into the café’s waste-paper tray. “I would prefer not to call it retirement.”
+
+After Saito left, Amina opened the clinic’s reply and asked Elias to stay.
+
+On their private call, the retired nurse checked the intake number against her relief notes. She remembered a child demanding that the station ladder be sent back for her mother. Amina held the sheet up to the light: Nia Venn, seven, service-road address. The transfer file had joined that entry to an unidentified drowned child. Idris’s later guardianship papers used Amina Rohe.
+
+“He told me no family had been found,” Amina said. She kept the sheet on her side of the table.
+
+Elias looked at the surname. “Could we—”
+
+“I want an independent kinship test. The result comes to me.”
+
+He nodded.
+
+“If it confirms this, I still decide whether we meet. It does not make my name wrong.”
+
+He wrote his consent on the clinic form. She folded it around the intake sheet, not the Blue Salt papers.
 
 The southern-basin union sent its own condition for using the logs: the revised water treaty must guarantee dispatch access to rural tanks, with receipts checked by the villages, not merely by the contractor. Amina helped compare the first delivery sheets. The treaty was not rescued by a revelation. It acquired three enforceable delivery dates and a truck that could no longer be billed as having arrived when it had turned back at a gate.
 

@@ -6,11 +6,11 @@ Pelagic Assurance had calculated a premium increase for heat-vulnerable blocks, 
 
 “The forecast contains commercial material.”
 
-“You cited it as the basis for a change to essential cover. Clause three. Show the risk inputs, the absences, and the decision under challenge.”
+“Under clause three, may we see the inputs on which you propose to change essential cover?”
 
 The representative requested a private room. Mrs. Pelt, present as a policyholder, said there was a broom cupboard upstairs if he wished to rehearse there first.
 
-This was the first hearing of the new recognition and essential-services registry. It had borrowed a school office, including chairs built for people whose feet did not yet reach the floor. Kofi had put blocks under the desk rather than ask the shorter claimants to become taller.
+A municipal enabling order had given this panel the Assembly registry’s first-year mandate to hear local disputes, including claims under the newly filed reinsurance terms. For its first hearing it had borrowed a school office, including chairs built for people whose feet did not yet reach the floor. Kofi had put blocks under the desk rather than ask the shorter claimants to become taller.
 
 Anika recused herself from the decision panel because she had helped prepare the Tolerable’s claim. She remained as its advocate. The elected municipal reviewer, a drawn resident from another district, and a clinic accountant would decide. Their names and conflicts were posted at the entrance. The accountant had disclosed a cousin employed by Pelagic. Mrs. Pelt knew three of the cousin’s neighbours and requested that the disclosure remain where she could see it.
 
@@ -34,11 +34,11 @@ The representative’s counsel submitted twenty-six challenges to the maintenanc
 
 Anika put them in rows on the floor. The children’s chairs made this less undignified than the desk would have done.
 
-“Same source. Same objection. One consolidated hearing,” she said.
+“Does clause three require twenty-six hearings on the same objection?” she asked.
 
 “A restriction on challenge rights?”
 
-“On duplicate clocks. Not on evidence. Your client can still show us where the maintenance record is wrong.”
+“Which objection introduces different evidence? That one keeps its hearing.”
 
 The duty panel spent two hours checking that the objections really were duplicates. Three were not. One resident’s account contained the wrong date. The correction delayed the ruling until the next morning. Mrs. Pelt brought soup for the people who had to stay; the insurer bought sandwiches for its lawyers. Neither meal settled the date.
 
@@ -55,23 +55,13 @@ The ruling did not save the Tolerable from redevelopment. At the housing hearing
 
 There would be another hearing in six weeks. The notice went beside the saucepan rota.
 
-Amina asked to meet him on Sunday in the records café, with Kofi present. She brought no gauge this time.
+## Sunday — The records café
 
-The private provenance inquiry had found the relief nurse who had received her from Idris. The nurse remembered a child demanding that the station ladder be sent back for her mother. The clinic intake sheet recorded Nia Venn, seven, with the service-road address. A later transfer had joined her record to an unidentified drowned child and issued a death entry. Idris had kept her through the displacement, then obtained papers under Amina Rohe. He had told her that no surviving family had been found.
+Amina arrived before him. Kofi had put three cups on the counter. She moved hers to a table away from the computer and waited until Elias sat down.
 
-None of this explained everything. It did explain why two systems could describe a living child as dead without either clerk ever seeing her.
+“I am keeping Rohe,” she said.
 
-Amina had chosen a separate kinship test, outside the Ledger. The report was hers to receive. She had permitted Elias to be tested and had waited another week before asking him to meet.
-
-She laid the result between them.
-
-“It confirms the relationship,” she said. “I do not want to change my name.”
-
-He read it once. Then he tried to read it again, because numbers had always offered him somewhere to stand.
-
-“Amina,” he said.
-
-“Yes.”
+“I know.”
 
 He asked whether she remembered Mara. She remembered a sleeve, wet wool, and being told to hold the ladder with both hands. She could not give him the rest. He began to tell her that it was enough, then stopped himself from deciding how much her memory should be.
 
@@ -79,7 +69,7 @@ He asked whether she remembered Mara. She remembered a sleeve, wet wool, and bei
 
 “It says someone brought a child to the landing. Do not make it say more for me.”
 
-He put the report down.
+He laid his hands flat on the table.
 
 “I want to know you,” he said. “I don't know how not to make that a request.”
 
@@ -91,7 +81,9 @@ Amina said she would have supper with him next week, in a public place, and migh
 
 Elias agreed. He did not ask her to call him anything.
 
-Before leaving, she authorised a limited correction of the public flood record. The rescue route and the mistaken death could be named; the test and the personal conversation would remain private unless she later chose to release them. The present archive uses them under that later permission. It does not infer permission backwards.
+Before leaving, she authorised a limited correction of the public flood record. The rescue route and the mistaken death could be named; the test and the personal conversation would remain private unless she later chose to release them.
+
+## Evening — The kitchen
 
 Anika arrived after Amina had gone. She was carrying forms for the registry’s next sitting and a housing application with her restored name. The application had not moved up the queue. She put it on the ordinary pile.
 
@@ -101,7 +93,7 @@ Anika arrived after Amina had gone. She was carrying forms for the registry’s 
 
 Upstairs, the kitchen had room for three chairs again. The research interfaces were at the Cooperative; the private vault terminal remained on his desk. The bottle was gone, but he had kept the telephone number Kofi had helped him find. He had attended two recovery meetings. At the first he had corrected the facilitator’s description of probability. At the second he had said why he was there.
 
-SIR’s local interface asked whether he wanted to review a question he had delayed for eleven years. The system itself had been running for less than a year. It could count the interval without claiming to have lived it.
+SIR’s local interface asked whether he wanted to review a question he had delayed for eleven years.
 
 :::sir
 You reported a private recording. Would you like assistance deciding its access conditions? Content not requested.

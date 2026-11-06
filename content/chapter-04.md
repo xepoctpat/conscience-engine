@@ -36,9 +36,9 @@ He called the clinic because he wanted the map corrected before it travelled far
 
 “The label should read deferred cross-departmental maintenance exposure,” Elias said, hearing himself become intolerable in real time.
 
-Jessa laughed once. “Doctor, there are four people in my corridor who can tell you what it means without that sentence.”
+Jessa looked down the corridor. “Four patients here can explain it.”
 
-The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “Yes, I displayed internal analysis. No, I do not know whether the wall is an approved communication surface. Yes, you may send me the policy. Which clause protects the saving? Which protects the patient?” There was a pause. “Good. Then we agree it can stay up until you find one.”
+The procurement officer called again while Elias was still on the line. Jessa did not lower her voice. “The map is staying up.” The officer began reading the wall-display policy. She waited until he reached the exceptions. “My patients are reading it.”
 
 A man in a paper mask asked whether the line meant his mother’s room had overheated because someone had not bought a pump. Jessa looked at the map, then at Elias through the open call. Elias tried to assemble an answer precise enough not to betray the truth.
 

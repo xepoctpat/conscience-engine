@@ -41,7 +41,7 @@ Amina came from a Front meeting with a folded route ledger. Her adoptive father,
 
 He moved away from the café computer. Kofi washed his hands and cleared a space.
 
-The ledger recorded unregistered flood crossings. Most entries were supplies. One was a child, seven, lifted from a maintenance landing north of the old station at 07:14 on the day the Wall failed. Her name had been written as Nia, then as an uncertain surname beginning with V. The adult travelling with her had not reached the landing. Beside the entry was Idris's signature, and beside that a later name: Amina.
+The ledger recorded unregistered flood crossings. Most entries were supplies. One was a child, seven, lifted from a maintenance landing north of the old station at 07:14 on the day the Wall failed. Her name had been written as Nia, then as an uncertain surname beginning with V. The adult travelling with her had not reached the landing. Beside the entry was Idris's signature, and beside that a later name: Amina. A receiving clinic had stamped an intake number below it.
 
 Elias put a finger on the table, not the paper.
 
@@ -72,3 +72,9 @@ At the café he told Kofi about the bottle, the lie, and the papers. Kofi wrote 
 Amina kept the original ledger. She authorised a copy of the rescue entry, with the child’s possible surname obscured, for a private provenance inquiry. SIR received no identity claim to solve. It received a restriction: no inference linking the entry to a living person without her consent.
 
 For once, Elias signed the restriction before he read the methodology.
+
+The clinic stamp led Kofi to a retired relief nurse. Amina made the call herself. The nurse would help request the intake sheet, but would not identify a child from a description over the telephone.
+
+“Good,” Amina said. “Send the request to me.”
+
+She copied down the archive address. Elias waited beside the café computer until she had put the ledger away.

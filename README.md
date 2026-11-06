@@ -6,11 +6,11 @@ A compact civic science-fiction narrative in the Floodlit Archive reader. `conte
 
 ## Current manuscript
 
-The authorised 6 November 2026 rewrite revises the August spine: distinct dialogue rhythms, retrospective archive-note asides, a split release/Old Quay sequence, dramatised crisis and hearing, and costs that remain after the Charter. Anika and Amina/Nia are separate identity threads. The world bible and architecture now describe this edition rather than treating the proposed forty-chapter novel as already written.
+The authorised 6 November 2026 rewrite revises the August spine: improved dialogue rhythms, retrospective archive-note asides, a split release/Old Quay sequence, dramatised crisis and hearing, and costs that remain after the Charter. Anika and Amina/Nia are separate identity threads. The world bible and architecture now describe this edition rather than treating the proposed forty-chapter novel as already written.
 
 Fifteen records: prologue, Chapters 01–08, Chapter 08B (*Old Quay*), Chapters 09–12, epilogue. Existing hash URLs remain unchanged; the new record is `#chapter-08b`. This is a compact narrative, not the former 105,000–120,000-word target. The historical Word/PDF export in `drafts/` has not been rewritten or synchronised.
 
-See [revision checkpoint](docs/REVISION-2026-11-06.md) for counts, scope, checks and remaining review. This pass does not claim Tactical or Counselor approval; their two critique–revise rounds are separate.
+See [revision checkpoint](docs/REVISION-2026-11-06.md) for counts, scope, checks and round-1 changes responding to Tactical and Counselor. Voice differentiation remains an improvement, not a closed finding; round-2 review is still separate.
 
 ## Reader
 

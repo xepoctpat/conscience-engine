@@ -15,6 +15,8 @@ The Charter did not become ordinary everywhere at once. One of the two abstainin
 
 Saito testified in the Blue Salt inquiry without regaining her directorship. Vale’s authorisation remained part of the case after he left office. The successor contract was cancelled; its ranking rule survived in other proposals and had to be challenged again. Leila’s delivery receipts became a standing part of the basin treaty audit, which did not stop the next drought. It made three missing shipments harder to explain away.
 
+The Charter’s allocation clause put essential access ahead of dividends from publicly financed cooling surplus and verified savings, with the allocation table disclosed. Its authors had proposed unlimited provision. Amina’s amendment read “meter the tank”.
+
 The Front split. Amina helped write the node-audit standard and continued to refuse invitations that described her as reconciled to SIR. Anika’s registry eventually acquired paid staff and employment jurisdiction. She kept the rejected first-year mandate in its entrance hall. Jessa sent discharge corrections long after ministers stopped answering their old numbers.
 
 Elias and Amina permitted some meetings to enter the record and kept others out. They did not supply a final reconciliation scene. I have not manufactured one. Mara’s recording remains outside my sources. My earlier inference that Elias meant only possession was too narrow; his later acts support a boundary that also protects another person. They do not let me speak for her.
@@ -25,4 +27,4 @@ On the last visit for which I have permission to give an account, the lift at th
 
 Elias stood below them with the toolbox open.
 
-He held it steady while she climbed down.
+He held it steady while Amina climbed down.

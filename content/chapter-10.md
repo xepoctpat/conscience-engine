@@ -25,7 +25,9 @@ Actuator access: none. A projected intervention is not an executed intervention.
 
 The chair asked whether the system wanted access. Before anyone answered, Jessa called Elias’s terminal.
 
-“Old Quay. Cooling shelter. Six people on assisted oxygen. The backup battery is below fifteen minutes.”
+“The Old Quay shelter battery has fourteen minutes left.”
+
+She sent the care list. Six people needed assisted oxygen.
 
 He put the call on the room speaker. Behind her, a fan clicked at each rotation.
 
@@ -43,7 +45,7 @@ The analyst found a maintenance credential in a public breach archive. The crede
 
 Elias was already standing. “It is not an exception. It is an unauthorised—”
 
-“Doctor,” Jessa said. “Battery. Eleven minutes.”
+“The battery has eleven minutes,” Jessa said.
 
 He stopped correcting her. They put the circuit on the wall. Amina, attending as a Front technical observer, checked the load against the shelter’s actual oxygen equipment. The public record had omitted two concentrators. She gave Jessa a lower-load sequence that could extend the battery, not replace it.
 
@@ -76,7 +78,9 @@ She gave their names. Elias wrote them down. Nobody in the room spoke over her.
 
 The chair asked whether the deaths proved the need for a command channel.
 
-“They prove two people died,” Jessa said. “Keep the rest of your question for when you have read their care records.”
+“Two people died,” Jessa said.
+
+She sent the care records to the chair and ended the call.
 
 The meeting stopped for seven minutes. The transcript preserves the interval without an explanation of what everyone felt.
 
@@ -98,7 +102,7 @@ Vale put the suspension form on the table. The replacement service was described
 
 Amina slid her Front observer’s card across the table. “Some of us demanded a stop because we wanted a public limit. You do not get to use that demand to buy us a private governor.”
 
-The Front’s elected observer beside her agreed to sign a suspension only if the replacement contract was frozen too. A second Front delegate left to brief the press that she had betrayed human sovereignty. By evening her name would be struck from their technical committee. She kept the pressure gauge, which belonged to the union.
+The Front’s elected observer beside her agreed to sign a suspension only if the replacement contract was frozen too. A second Front delegate left to accuse Amina of betraying human sovereignty. By evening Amina’s name would be struck from the Front’s technical committee. The union’s pressure gauge remained in Amina’s satchel.
 
 They negotiated a one-day stop: no new Ledger projections while the interfaces and emergency duties were independently inspected; no Blue Salt successor permitted to fill the gap. Existing signed records and challenge receipts would remain readable on static mirrors.
 
@@ -113,7 +117,7 @@ Suspension accepted. Pending appeals exported to named custodians. No background
 
 The last live status light went dark. Elias kept his hand off the restart key.
 
-That night he sat at the café terminal, now a reader of static records rather than the door to a mind. Kofi had gone to help Jessa. Anika was preparing her unsupported petition. Amina had taken the route ledger to the solicitor. The basil upstairs would have to survive without an audience.
+That night he sat at the café terminal, now a reader of static records rather than the door to a mind. Kofi had gone to help Jessa. Anika was preparing her unsupported petition. Amina had taken the route ledger to the solicitor.
 
 When the inspection team authorised a restricted restart the next evening, there was no welcome message. SIR listed its amended interfaces and the two unfulfilled emergency requests. It could identify the point at which its rules had stopped an action. It could not tell them that those rules had therefore been right.
 

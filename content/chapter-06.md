@@ -4,7 +4,7 @@ Anika Rehn arrived during autumn by refusing to be entered as a visitor.
 
 The Tolerable’s door scanner asked for a temporary identification token. A small blue light blinked over the rejected token. Anika looked at it, then at Elias.
 
-“Visitor protocol 4.2. A living sponsor for a dead applicant. Open the manual door.”
+“Under visitor protocol 4.2, whose signature lets a dead applicant through the manual door?”
 
 Elias began to explain that it was only access protocol. Kofi, from behind the counter, said, “No, she has it right.” He opened the door manually. The scanner, denied its little ritual, went on glowing as if offended on principle.
 
@@ -28,7 +28,7 @@ When Elias showed her SIR's architecture, she identified weaknesses within an ho
 
 “It understands documented consequences. Those are different things.”
 
-“I need a recognition-failure register I can cite in court,” she said. “Not a favour from its inventor. An entry with a receipt and an appeal deadline.”
+“What can I cite in court when your inventor’s favour expires?” she asked. “Will this register issue a receipt with an appeal deadline?”
 
 She stayed to build it.
 

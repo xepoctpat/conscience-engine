@@ -1,6 +1,6 @@
 # Current handoff — 6 November 2026
 
-The authorised rewrite now lives in content/ (15 records). Read docs/REVISION-2026-11-06.md and docs/READER-PLAN.md first. World bible and architecture have been reconciled. The August PDF remains historical. Existing chapter IDs stay stable; chapter-08b is new. No shell code or media changed. Tactical/Counselor critique rounds remain with the coordinator.
+The authorised rewrite now lives in content/ (15 records). Read docs/REVISION-2026-11-06.md and docs/READER-PLAN.md first. World bible and architecture have been reconciled. The August PDF remains historical. Existing chapter IDs stay stable; chapter-08b is new. No shell code or media changed. Tactical/Counselor round-1 fixes are applied; round-2 remains with the coordinator.
 
 The checkpoint below is historical, not the current manuscript or asset inventory. Its August statements about 14 records, unwritten expansion and missing plates must not overwrite the current manifest.
 

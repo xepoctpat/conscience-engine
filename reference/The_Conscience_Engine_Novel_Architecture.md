@@ -6,7 +6,7 @@ The revised Floodlit Archive is a compact, stand-alone narrative in fifteen reco
 
 **Dramatic question:** Can Elias help build an intelligence that exposes concealed harm while giving up his own claim to control its meaning?
 
-The narrator remains comic and civic. Character rhythms sit underneath it: Kofi works through actions and checks, Anika through forms and clauses, Jessa through short operational demands, Vale through courteous and conditional threats. SIR's in-scene humour arises from classification; the later archivist owns retrospective irony. Serious beats are allowed to remain serious.
+The narrator remains comic and civic. Character rhythms are improved, not closed by this pass: Kofi works through actions and checks, Anika through forms and clauses, Jessa through short operational demands, Vale through courteous and conditional threats. SIR's in-scene humour arises from classification; the later archivist owns retrospective irony. Serious beats are allowed to remain serious.
 
 ## Published sequence
 
@@ -21,12 +21,12 @@ The narrator remains comic and civic. Character rhythms sit underneath it: Kofi 
 | 06 — Dead woman | Anika builds the recognition-failure route. Amina challenges modelled capacity. | Anika's contempt excludes people too; she has to ask them back. |
 | 07 — Ledger | Access testing, failed housing pilot, surplus versus allocation. | Others strip Elias's expertise of its gatekeeping role. No tenancy is won by a map. |
 | 08 — Release | Elias publishes early; market uses and false maps follow; Anika refuses conditional restoration. | He owns the leak. She loses immediate ministry support and housing eligibility, not merely a slogan. |
-| 08B — Old Quay | Exposure harms tenants; a narrowed seizure preserves private records but removes the terminal. Redevelopment threatens the Tolerable. | Amina's route ledger opens a bounded identity inquiry. Elias relapses, lies and misses two filing deadlines; he asks for help and makes repair calls. |
-| 09 — Hostile interest | East Meridian exposes informal dependencies across a border. Saito names Blue Salt and its successor. Basin dispatch gets auditable delivery duties. | Kofi's register error meets Elias's private/public double standard. Saito accepts named culpability and loses office. |
+| 08B — Old Quay | Exposure harms tenants; a narrowed seizure preserves private records but removes the terminal. Redevelopment threatens the Tolerable. | Amina's route ledger and clinic stamp open a bounded identity inquiry. Elias relapses, lies and misses two filing deadlines; he asks for help and makes repair calls. |
+| 09 — Hostile interest | East Meridian exposes informal dependencies across a border. Saito names Blue Salt and its successor. Basin dispatch gets auditable delivery duties. | Kofi's register error meets Elias's private/public double standard. Clinic records and a nurse advance Amina's inquiry; she sets a boundary before testing. Saito accepts named culpability and loses office. |
 | 10 — Terms for a god | Cooling-shelter emergency tests a command refusal; two people die. A real one-day shutdown blocks both SIR and captive replacement. | Elias removes his private exception and transfers custody. Amina loses her Front committee seat. The question of the recording is separated from his public authority. |
-| 11 — Hearing | Elias and Vale face questioning; the Assembly negotiates protection, control and allocation. Section forty-four supplies a limited binding route. | Elias loses sole-custodian power. Anika's court restoration does not return wages; she loses employment jurisdiction in the first mandate. Communities lose protection time and full housing funding. |
-| 12 — Choice | Pelagic's challenge tests a contract, conflicting model estimates and duplicate filings. Housing gains a stay, not ownership. | Amina's privately verified identity is not an obligation to reconcile. Elias accepts her terms and Mara's unaskable consent boundary, then joins his neighbours. |
-| Epilogue | Year Twenty archivist records slow and incomplete implementation. | It revises its own possession inference and stops on a domestic action. |
+| 11 — Hearing | Elias and Vale face questioning; the Assembly negotiates protection and control. Section forty-four supplies a limited binding route. | Elias loses sole-custodian power. Amina shares her kinship result privately during a recess. Anika's court restoration does not return wages; she loses employment jurisdiction in the first mandate. Communities lose protection time and full housing funding. |
+| 12 — Choice | Pelagic's challenge tests a contract, conflicting model estimates and duplicate filings. Housing gains a stay, not ownership. | Amina sets relationship terms in a separate café scene; the identity evidence has arrived in 08B, 09 and 11. Elias accepts her terms and Mara's unaskable consent boundary, then joins his neighbours. |
+| Epilogue | Year Twenty archivist records slow and incomplete implementation, including the allocation clause moved out of the hearing. | It revises its own possession inference and stops on a domestic action. |
 
 ## Arc accounting
 
@@ -43,7 +43,7 @@ The narrator remains comic and civic. Character rhythms sit underneath it: Kofi 
 2. Nia was seven at the flood; Amina arrives at eighteen in Year 11. Idris Rohe is her adoptive father; Elias is her biological father.
 3. SIR is less than a year old at the closing kitchen scene. Eleven years describes Elias's delay, not machine age.
 4. The route ledger, clinic record, witness and consented kinship test establish the identity thread. Mara's recording is neither accessed by SIR nor required to solve it.
-5. The Charter has commissioners, votes, dissent, a contractual enforcement route and jurisdictional limits. It is not passed by narrator declaration.
+5. The Charter has commissioners, votes, dissent, a contractual enforcement route and jurisdictional limits. Filing binds reinsurance/procurement immediately; general civil rights await domestic ratification. A municipal order hands the year-one registry mandate to the local panel.
 6. The physical surplus thread concerns distribution under scarcity. It is not a claim that the story has staged a post-scarcity economy.
 7. Existing IDs and paths stay stable. New `chapter-08b` inserts Old Quay without renaming Chapters 09–12 or the epilogue.
 
@@ -63,4 +63,4 @@ No request to generate media, rewrite the historical PDF, or build a compendium 
 
 ## Acceptance and review status
 
-This pass applies the panel synthesis v2 and Pratchett-lens prose notes. Counts, route checks and publication evidence belong in `docs/REVISION-2026-11-06.md`. It does not claim Tactical or Counselor approval. Their two critique–revise rounds follow separately under the coordinating agent.
+This pass applies the panel synthesis v2 and Pratchett-lens prose notes, followed by the round-1 Counselor and Tactical response. Counts, route checks and publication evidence belong in `docs/REVISION-2026-11-06.md`. It does not claim critic acceptance; the coordinating agent owns round-2 review.
